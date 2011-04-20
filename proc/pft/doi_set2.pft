@@ -1,0 +1,8 @@
+,'d1d2d999d9001d9002',
+,if v9002<>'' then
+	,'a1{',v9002,'{',
+	,'a2{doi^d',date,'{',
+	,'a999{^uhttp://dx.doi.org/',v9002,'^lCrossRef{'/
+,else,
+	,'a2{not_found^d',date,'{',
+,fi,

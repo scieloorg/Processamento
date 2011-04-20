@@ -1,0 +1,4 @@
+ if v32701^m>'' then
+	 proc('R../bases/artigo/',v32701^*,',',v32701^m)
+ fi
+ v706
