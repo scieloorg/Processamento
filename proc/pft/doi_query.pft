@@ -1,0 +1,53 @@
+,'<query key="',v880,'" enable-multiple-hits="false" forward-match="true" list-components="true" expanded-results="true">'/,
+,|	<issn match="optional">|v35|</issn>|/,
+,|	<journal_title match="optional fuzzy">|v30|</journal_title>|/,
+
+,if p(v10) then
+	,'	<author match="fuzzy">',v10^n[1],' ',v10^s[1],'</author>'/,
+,else,
+	,if p(v11) then
+	,'	<author match="fuzzy">',v11[1],'</author>'/,
+	,fi
+,fi,
+,|	<volume match="fuzzy">|v31|</volume>|/,
+,|	<issue match="fuzzy">|v32^*|</issue>|/,
+,if instr(v14,'-')>0 then
+	,'<first_page match="optional">',mid(v14,1,instr(v14,'-')-1),'</first_page>'/,
+,else,
+	,if p(v14^f) then
+	
+		,|<first_page match="optional">|v14^f|</first_page>|/,
+	,else
+		,|<first_page match="optional">|v14|</first_page>|/,
+	,fi,
+,fi,
+,if p(v64) then
+	,if size(v64)=4 then
+		,|	<year match="optional">|v64|</year>|/,
+	,else
+		,if size(v64)=8 then
+			,'	<year match="optional">',mid(v64,1,4),'</year>'/,
+		,fi,
+	,fi,
+,fi,	
+/*
+			<publication_type>abstract_only</publication_type>
+			<doi>http://www.xmlspy.com</doi>
+*/
+,|	<isbn match="optional">|v69|</isbn>|/,
+/* 
+	,|	<series_title match="optional fuzzy">String</series_title>|/, 
+*/
+,|	<volume_title match="optional fuzzy">|v18^*|</volume_title>|/,
+,if p(v53) then
+,|	<proceedings_title match="fuzzy">|v53|</proceedings_title>|/,
+,fi
+,|	<edition_number match="fuzzy">|v63|</edition_number>|/,
+/*
+	,|	<component_number match="fuzzy">String</component_number>|/,
+*/
+,|	<article_title match="fuzzy">|v12^*|</article_title>|/,
+/*
+,|	<unstructured_citation>Text</unstructured_citation>|/,
+*/
+,'</query>'/,

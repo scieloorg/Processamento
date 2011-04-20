@@ -1,0 +1,39 @@
+,'echo ',v1/
+,'call CrossRefQuery.bat -f ../',v1,' -r xml -u bireme -p bireme303 -a live >& ../temp/doi/step3_1/query_result.xml'/,
+,'if grep -q "<?xml" ../temp/doi/step3_1/query_result.xml'/,
+,'then'/,
+,'	if grep -q "malformed" ../temp/doi/step3_1/query_result.xml'/,
+,'	then'/,
+,'		echo ERROR - MALFORMED!'/
+,'		mv ../',v1,' ../',replace(v1,'/query/','/query_done/error/')/
+,'		mv ../temp/doi/step3_1/query_result.xml ../',replace(v1,'/query/','/query_result/error/')/
+,'	else'/
+,'		if grep -q "unresolved" ../temp/doi/step3_1/query_result.xml'/,
+,'		then'/,
+,'			/* por ser unresolved, deixar em query a pesquisa e não utilizar o resultado */'/
+,'			echo UNRESOLVED!'/
+,'		else'/
+,'			if grep -q "resolved" ../temp/doi/step3_1/query_result.xml'/,
+,'			then'/,
+,'				echo RESOLVED!'/
+,'				mv ../',v1,' ../',replace(v1,'/query/','/query_done/success/')/
+,'				mv ../temp/doi/step3_1/query_result.xml ../',replace(v1,'/query/','/query_result/success/')/
+,'			else'/
+,'				if grep -q "</doi>" ../temp/doi/step3_1/query_result.xml'/,
+,'				then'/,
+,'					echo RESOLVED!'/
+,'					mv ../',v1,' ../',replace(v1,'/query/','/query_done/success/')/
+,'					mv ../temp/doi/step3_1/query_result.xml ../',replace(v1,'/query/','/query_result/success/')/
+,'				else'/
+,'					echo WARNING!'/
+,'					mv ../',v1,' ../',replace(v1,'/query/','/query_done/warning/')/
+,'					mv ../temp/doi/step3_1/query_result.xml ../',replace(v1,'/query/','/query_result/warning/')/
+,'				fi'/,
+,'			fi'/,
+,'		fi'/,
+,'	fi'/,
+,'else'/
+,'	echo ERROR - NOT XML!'/
+,'	mv ../',v1,' ../',replace(v1,'/query/','/query_done/error/')/
+,'	mv ../temp/doi/step3_1/query_result.xml ../',replace(v1,'/query/','/query_result/error/')/
+,'fi'/,

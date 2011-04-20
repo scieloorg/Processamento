@@ -1,0 +1,9 @@
+ if v50='C' then
+   'call batch/AppendMaster.bat ../bases-work/',
+   v68,
+   '/',
+   v68,x1,
+   '../bases-work/artigo/artigo-cr',
+   x1,
+   'prc/d1930-cr.prc',/,
+ fi,

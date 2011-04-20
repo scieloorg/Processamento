@@ -1,0 +1,17 @@
+'# ',v68/,
+ if v50='C' then
+ 'echo "',v68,'"',/,
+  if v68='rsp' or v68='rbz' or v68='rbp' or v68='rimtsp' or v68='rlae' or v68='ramb' or v68='rboto' or v68='rsbmt' then
+    /* Cria, caso nao exista, o master file */
+    'call batch/CriaApendaMaster.bat ../bases-work/artigo/artigo_1',/,
+    /* Adiciona registros ao final do master eliminando os campo 1930 e 32001 */
+    'call batch/AppendMaster.bat ../bases-work/',v68,'/',v68,x1,'../bases-work/artigo/artigo_1',x1,'prc/d1930.prc'/,
+    'ls -l ../bases-work/artigo/artigo_1.*',/
+  else 
+    /* Cria, caso nao exista, o master file */
+    'call batch/CriaApendaMaster.bat ../bases-work/artigo/artigo_',v68.1,/,
+    /* Adiciona registros ao final do master eliminando os campo 1930 e 32001 */
+    'call batch/AppendMaster.bat ../bases-work/',v68,'/',v68,x1,'../bases-work/artigo/artigo_',v68.1,x1,'prc/d1930.prc'/,
+    'ls -l ../bases-work/artigo/artigo_',v68.1,'.*',/
+  fi,
+ fi,
