@@ -1,0 +1,18 @@
+if l(['../bases/doi/doi'],v1)=0 then
+,'d*',
+'a880{',v1,'{',
+,'a3{',v2,'{',
+,ref(['../bases/doi/doi']l(['../bases/doi/doi'],v1),
+	'a1{'v1'{','a2{'v2'{'), 
+,'a91{',
+	if ref(['../bases/doi/doi']l(['../bases/doi/doi'],v1),v91)<>'' then  		
+		,ref(['../bases/doi/doi']l(['../bases/doi/doi'],v1),v91),
+	,else 
+		,date,
+	,fi,
+,'{',
+,else,
+'d.'
+
+fi
+

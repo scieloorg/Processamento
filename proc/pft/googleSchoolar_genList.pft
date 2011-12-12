@@ -1,4 +1,3 @@
- /**/
  if v50='C' then
    /*'mkdir -p ../output/S',v400,#*/
    './googleSchoolar_geraXMLIssue.sh S',v400,#

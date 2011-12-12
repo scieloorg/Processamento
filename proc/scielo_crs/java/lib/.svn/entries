@@ -1,0 +1,29 @@
+8
+
+dir
+916
+svn://topazio/Bireme/scielo-metodologia/trunk/linux/scielo/www/proc/scielo_crs/java/lib
+svn://topazio/Bireme
+
+
+
+2007-06-22T17:01:57.376400Z
+912
+fabio.batalha
+
+
+svn:special svn:externals svn:needs-lock
+
+HTTPClient.jar
+file
+
+
+
+
+2007-06-22T16:59:21.991490Z
+de1398d8d1f5e4754aef5ff2dfb1627c
+2007-06-22T17:01:57.376400Z
+912
+fabio.batalha
+has-props
+

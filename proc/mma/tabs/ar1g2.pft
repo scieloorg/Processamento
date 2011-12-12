@@ -1,0 +1,8 @@
+  
+  
+  /* format results
+  */
+  proc((if p(v4) then '<5 0>'ref->tabloc(val(v4^m),if v10^*='tabm' then v3'^u'if p(v17) then v17 else v4 fi'^g'if p(v24) then v24 else /*v1*/v7 fi'^t'v10 else if v10^*='tabu' then v2'^u'v1'^t'v10 else if v10^*='tabp' then v2'^p'v1'^t'v10 fi fi fi)'</5>' fi))
+  
+  
+

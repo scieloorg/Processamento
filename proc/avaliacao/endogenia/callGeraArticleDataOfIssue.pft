@@ -1,0 +1,1 @@
+,'call avaliacao/endogenia/geraArticleDataOfIssue.bat ',mfn,' S',v35,v65*0.4,s(f(val(s(v36*4.3))+10000,2,0))*1.4,' ',v9001,' ',v9002/

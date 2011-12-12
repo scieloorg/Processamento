@@ -1,0 +1,52 @@
+8
+
+dir
+3329
+svn://granito.bireme.br:33690/scielo-metodologia/scielo-metodologia/trunk/www/proc/scielo_gsc/databases
+svn://granito.bireme.br:33690/scielo-metodologia
+
+
+
+2009-01-06T13:37:49.778345Z
+3265
+fabio.batalha
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7b3c32f5-e272-4d6f-9936-548b95b19007
+
+artigo.fst
+file
+
+
+
+
+2009-03-13T18:52:22.000000Z
+5dde4c6b0aaf973d13b7852a03887cf2
+2009-01-06T13:37:49.778345Z
+3265
+fabio.batalha
+
+google.cip
+file
+
+
+
+
+2009-03-13T18:52:22.000000Z
+624feb6c8809474639d556b50b1c26dc
+2009-01-06T13:37:49.778345Z
+3265
+fabio.batalha
+

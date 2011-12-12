@@ -1,7 +1,7 @@
 '# ',v68/,
  if v50='C' then
  'echo "',v68,'"',/,
-  if v68='rsp' or v68='rbz' or v68='rbp' or v68='rimtsp' or v68='rlae' or v68='ramb' or v68='rboto' or v68='rsbmt' then
+  if v68='rsp' or v68='rbz' or v68='rimtsp' or v68='rimtsp' or v68='rlae' or v68='rsbmt' then
     /* Cria, caso nao exista, o master file */
     'call batch/CriaApendaMaster.bat ../bases-work/artigo/artigo_1',/,
     /* Adiciona registros ao final do master eliminando os campo 1930 e 32001 */

@@ -1,0 +1,24 @@
+ S0:=(getenv('AF_TIPO_ERR')),if S0='' then S0:=('' /*'!'*/) fi
+ S1:=(getenv('AF_TIPO_TXT')),if S1='' then S1:=('- Nao definido') fi
+ 
+ (
+ if v71>' ' then
+   if l(['tabs/TipArt']v71)>0 then
+     ref(['tabs/TipArt']l(['tabs/TipArt']v71),
+         if v2>'' then
+             v2
+         else if S0>'' then
+             S0 /*'!'*/,v1
+         else
+             S1 /*'- Nao definido'*/
+         fi, fi
+     )
+   else if S0>'' then
+      S0 /*'!'*/,v71
+   else
+      S1 /*'- Nao definido'*/
+   fi, fi
+ else 
+   S1 /*'- Nao definido'*/
+ fi,/
+ )

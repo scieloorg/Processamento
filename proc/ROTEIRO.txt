@@ -1,0 +1,14 @@
+Dez passos para configurar uma nova instancia de processamento
+
+1 renomear Frag*.MODELO.* para Frag*.SIGLA2.*
+2 editar Frag* (Comentario lembrete de servidor e path dos dados)
+3 editar formato de Google Scholar  linhas 66, 67, e 68
+	(scielo_gsc/formats/googleSchoolar_XMLPubMed.pft)
+4 editar scielo_gsc/shs/googleSchoolar_config.sh
+5 editar scielo_sjr/shs/conf.sh
+6 editar scielo_crs/shs/crossref_config.sh
+7 editar scielo_pmc/shs/pubMedCentral_config.sh
+8 editar transf/Envia2MedlinePadrao.txt
+9 renomear Processa e Fecha
+10 editar Processa e Fecha
+

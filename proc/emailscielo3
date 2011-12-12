@@ -1,0 +1,50 @@
+# -------------------------------------------------------------------------- #
+# EMAILSCIELO3 - Envia e-mail partindo da maquina SciELO3
+# -------------------------------------------------------------------------- #
+# Chamada: emailscielo3 [ASSUNTO] [arquivo_de_mensagem]
+#   Notas: Ao ASSUNTO eh anteposto o prefixo [SciELO-BR]
+#          Na variavel QUEM esta o e-mail do destinatario
+
+# -------------------------------------------------------------------------- #
+# Determina o destinatario da mensagem
+QUEM="fjlopes@bireme.br"
+
+# -------------------------------------------------------------------------- #
+# Verifica passagem de parametros
+# -------------------------------------------------------------------------- #
+# Verificacao do parametro 1 - ASSUNTO
+if [ "$#" -ge 1 ]
+then
+  SUBJ="[SciELO-SP] ${1}"
+else
+  SUBJ="[SciELO-SP]"
+fi
+
+# -------------------------------------------------------------------------- #
+# Verificacao do parametro 2 - Arquivo contendo a mensagem
+if [ "$#" -eq 2 ]
+then
+  ARQU="${2}"
+else
+  ARQU="texto.msg"
+  echo "Fim de execucao : `date`">${ARQU}
+fi
+
+# -------------------------------------------------------------------------- #
+# Efetua o envio da mensagem
+mail -s "${SUBJ}" "${QUEM}" <"${ARQU}"
+
+echo "E-mail enviado para : ${QUEM}"
+echo "            Assunto : ${SUBJ}"
+
+# -------------------------------------------------------------------------- #
+# Libera variaveis de ambiente
+
+unset SUBJ
+unset ARQU
+unset QUEM
+
+if [ -f "texto.msg" ]
+then
+  rm -rf texto.msg
+fi

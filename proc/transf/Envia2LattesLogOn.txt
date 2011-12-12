@@ -1,0 +1,10 @@
+open ftp1.cnpq.br
+user usrbireme b!r@n#
+
+ascii
+lcd temp/transf2lattes
+cd scielo
+mput SciELO_*.txt
+
+bye
+

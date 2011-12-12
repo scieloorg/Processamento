@@ -1,0 +1,16 @@
+open serverofi2
+user cdrom cdr,./
+
+bin
+lcd temp/transf2medline
+cd /bases/lnk.000/art.mod
+put artigo.iso
+cd ../b4c.mod
+put bib4cit.iso
+cd ../iss.mod
+put issues.iso
+cd ../tit.mod
+put titsci.iso title.iso
+close
+
+bye

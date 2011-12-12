@@ -1,0 +1,988 @@
++ echo === BEGIN ar1if.sh ===
+=== BEGIN ar1if.sh ===
++ date
+Tue Aug  7 11:16:36 BRT 2007
++ lind/mx iso=tabs/tabmunic.iso -all now create=tabmun gizmo=/usr/local/bireme/tabs/g850ans tell=1000
++++ 1000 
++++ 2000 
++++ 3000 
++++ 4000 
++++ 5000 
++ lind/mx iso=tabs/tabmunic2.iso -all now append=tabmun gizmo=/usr/local/bireme/tabs/g850ans tell=1000
++ lind/mx tabmun loop=1417 now
+mfn=     1 
+  1  "110001"
+  2  "ALTA FLORESTA D'OESTE"
+  3  "Alta Floresta D'Oeste"
+  4  "RO"
+  5  "ATIVO"
+  6  "RO - Alta Floresta D'Oeste"
+  7  "1100015"
+mfn=  1418 
+  1  "251390"
+  2  "SAO BENTO"
+  3  "São Bento"
+  4  "PB"
+  5  "ATIVO"
+  6  "PB - São Bento"
+  7  "2513901"
+mfn=  2835 
+  1  "315060"
+  2  "PIRACEMA"
+  3  "Piracema"
+  4  "MG"
+  5  "ATIVO"
+  6  "MG - Piracema"
+  7  "3150604"
+mfn=  4252 
+  1  "412490"
+  2  "SAO JOAO DO CAIUA"
+  3  "São João do Caiuá"
+  4  "PR"
+  5  "ATIVO"
+  6  "PR - São João do Caiuá"
+  7  "4124905"
++ 1020 tabmun
+ysh: line 20: 1020: command not found
++ lind/mx tabmun uctab=ansi 'proc='\''<9 0>'\''replace(v3,'\''`'\'',`'\''`)'\''</9>'\''' 'proc=e1:=instr(v9,`'\''`),,if e1>0 then '\''<8 0>'\''replace(v9,`'\''`,'\'''\'')'\''</8>'\'','\''<8 0>'\''left(v9,e1-1)mid(v9,e1+1,1)'\'' '\''right(v9,size(v9)-e1)'\''</8>'\'' fi' 'proc='\''d9<8 0>'\''v9'\''</8>'\''' -all now create=tabm
++ lind/mx seq=../tabs/tabregiaoBR.seq create=../tabs/tabregiaoBR -all now
++ lind/mx ../tabs/tabregiaoBR 'proc='\''Gsplit/clean=4=,'\''' 'fst=1 0 (v4/)' fullinv=../tabs/tabregiaoBR
++ lind/mx seq=tabs/tabpais.txt -all now create=tabp 'proc='\''d8'\'',|<8 0>|v2|</8>|,|<8 0>|v3|</8>|,|<8 0>|v4|</8>|'
++ lind/mx seq=tabs/tabuf.txt -all now create=tabu 'proc='\''d8'\'',|<8 0>|v2|</8>|,|<8 0>|v3|</8>|,|<8 0>|v4|</8>|'
++ lind/mx seq=tabs/tabgeo.txt -all now create=tabg 'proc='\''d8'\'',|<8 0>|v2|</8>|,|<8 0>|v3|</8>|,|<8 0>|v4|</8>|'
++ lind/mx ../tabs/tablarg create=tabs/tablarg 'fst=1 0 if v20<>'\''BR'\'' then v1 fi' fullinv=tabs/tablarg actab=/usr/local/bireme/tabs/acans.tab uctab=ansi
++ lind/mx tabu -all now create=tabx
++ lind/mx tabg -all now append=tabx
++ lind/mx tabp uctab=ansi 'fst=1 0 v1/(v8/)' fullinv=tabp
++ lind/mx tabu uctab=ansi 'fst=1 0 v1/(v8/)' fullinv=tabu
++ lind/mx tabx uctab=ansi 'fst=1 0    (v8/)' fullinv=tabx
++ lind/mx tabp uctab=ansi 'proc=(if p(v8) then '\''<11 0>'\''v8'\''</11>'\''                                                                fi)' -all now create=tabloc 'proc=if p(v11) then '\''a10/tabp^m'\''mfn(1)'\''/'\'' fi'
++ lind/mx tabu uctab=ansi 'proc=(if p(v8) then '\''<12 0>'\''v8'\''^u'\''v1[1]                                '\''^x'\''f(l->tabp(v8),1,0)'\''</12>'\'' fi)' -all now copy=tabloc 'proc=if p(v12) then '\''a10/tabu^m'\''mfn(1)'\''/'\'' fi' 'proc='\''='\''f( 1000+mfn,1,0)'
++ lind/mx tabm uctab=ansi 'proc=(if p(v8) then '\''<13 0>'\''v8'\''^u'\''v4[1]'\''^v'\''ref->tabu(l->tabu(v4[1]),v2)'\''^x'\''f(l->tabx(v8),1,0)'\''</13>'\'' fi)' -all now copy=tabloc 'proc=if p(v13) then '\''a10/tabm^m'\''mfn(1)'\''/'\'' fi' 'proc='\''='\''f(10000+mfn,1,0)'
++ 1020 tabloc
+ysh: line 79: 1020: command not found
++ lind/mx seq=tabs/tabarea.txt -all now create=taba 'proc='\''d8'\'',|<8 0>|v2|</8>|,|<8 0>|v3|</8>|,|<8 0>|v4|</8>|'
++ lind/mx tabloc uctab=ansi 'fst=1 0 @tabs/ar12fst.pft' fullinv=tabloc tell=3000
++++ 3000 
++++ 6000 
++++ 9000 
++++ 12000 
++++ 15000 
++++ 19968+152593 links 
++++ tabloc.lk1
++++ 3000 CATUNDA CE      
++++ 6000 CIDADE REGISTRO 
++++ 9000 COQUEIRAL MG    
++++ 12000 ITUBERA CITY    
++++ 15000 MUNICIPIOS CANAA
++++ 18000 SAO CAITANO CITY
++++ tabloc.lk2
++++ 3000 ALTO TAQUARI ESTADO DO MATO GROSSO BRASIL                   
++++ 6000 ARAPIRACA ESTADO DA ALAGOAS BRASIL                          
++++ 9000 BARBOSA ESTADO DO SAO PAULO                                 
++++ 12000 BODOQUENA ESTADO DE MATO GROSSO DO SUL BRASIL               
++++ 15000 CABREUVA ESTADO DA SAO PAULO BRASIL                         
++++ 18000 CAMPOS VERDES ESTADO DE GOIAS BRASIL                        
++++ 21000 CASSIA DOS COQUEIROS SAO PAULO BRAZIL                       
++++ 24000 CIDADE DE ARVOREZINHA                                       
++++ 27000 CIDADE DE PIRANHAS                                          
++++ 30000 CIDADE QUATRO IRMAOS                                        
++++ 33000 CIDADES DE CANTAGALO                                        
++++ 36000 CIDADES DE RIBEIRAO                                         
++++ 39000 CIDADES PRUDENTOPOLIS                                       
++++ 42000 CONTENDA ESTADO DA PARANA BRASIL                            
++++ 45000 DELMIRO GOUVEIA MUNICIPALITY                                
++++ 48000 ESPERANCA DO SUL ESTADO DA RIO GRANDE DO SUL BRASIL         
++++ 51000 FOZ DO JORDAO MUNICIPALITY                                  
++++ 54000 GUARACIAMA ESTADO DO MINAS GERAIS                           
++++ 57000 IMBITUBA ESTADO DE SANTA CATARINA BRASIL                    
++++ 60000 ITAPARICA MUNICIPALITY                                      
++++ 63000 JAQUIRANA STATE OF RIO GRANDE DO SUL BRAZIL                 
++++ 66000 LAGOA FORMOSA MINAS GERAIS BRASIL                           
++++ 69000 MAJOR SALES ESTADO DO RIO GRANDE DO NORTE BRASIL            
++++ 72000 MEDICILANDIA PARA STATE                                     
++++ 75000 MUCAMBO CEARA BRAZIL                                        
++++ 78000 MUNICIPALITIES OF LAGOA DE SAO FRANCISCO                    
++++ 81000 MUNICIPALITY OF ADUSTINA                                    
++++ 84000 MUNICIPALITY OF MARILUZ                                     
++++ 87000 MUNICIPIO AREALVA                                           
++++ 90000 MUNICIPIO DE GOIATINS                                       
++++ 93000 MUNICIPIO DE SAO MIGUEL DOS MILAGRES                        
++++ 96000 MUNICIPIO RIACHAO                                           
++++ 99000 MUNICIPIOS DE ANADIA                                        
++++ 102000 MUNICIPIOS DE MONTE AZUL PAULISTA                           
++++ 105000 MUNICIPIOS GUARUJA DO SUL                                   
++++ 108000 MUNICIPIOS TAIPAS DO TOCANTINS                              
++++ 111000 NOVA OLINDA ESTADO DO CEARA BRASIL                          
++++ 114000 PACUJA STATE OF CEARA                                       
++++ 117000 PAULICEIA SAO PAULO STATE                                   
++++ 120000 PIRACICABA STATE OF SAO PAULO                               
++++ 123000 PRADO ESTADO DE BAHIA                                       
++++ 126000 RIALMA MUNICIPALITY                                         
++++ 129000 SALTINHO SC BRASIL                                          
++++ 132000 SANTA ROSA DA SERRA ESTADO DE MINAS GERAIS                  
++++ 135000 SAO DOMINGOS DO PRATA ESTADO DA MINAS GERAIS BRASIL         
++++ 138000 SAO JOSE DO BONFIM ESTADO DA PARAIBA                        
++++ 141000 SAO VALERIO DA NATIVIDADE TO BRAZIL                         
++++ 144000 SOLANEA ESTADO DE PARAIBA BRASIL                            
++++ 147000 TOCANTINIA ESTADO DE TOCANTINS                              
++++ 150000 VALINHOS ESTADO DE SAO PAULO                                
++++ create=tabloc 
++++ maxmfn=15624
++ lind/mx taba uctab=ansi 'fst=1 0 v2' fullinv=taba
++ lind/mx iso=tabs/gansuc.iso -all now create=gansuc+comma
++ lind/mx null count=1 'proc='\''a1/,/'\''' -all now append=gansuc+comma
++ lind/mx null count=0 create=xart2 tell=1000
++ lind/mx ../iso/artigos uctab=ansi proc=e1:=1,@tabs/ar1aif.pft -all now append=xart2 tell=1000
++++ 1000 
++++ 2000 
++++ 3000 
++++ 4000 
++++ 5000 
++++ 6000 
++++ 7000 
++++ 8000 
++++ 9000 
++++ 10000 
++++ 11000 
++++ 12000 
++++ 13000 
++++ 14000 
++++ 15000 
++++ 16000 
++++ 17000 
++++ 18000 
++++ 19000 
++++ 20000 
++++ 21000 
++++ 22000 
++++ 23000 
++++ 24000 
++++ 25000 
++++ 26000 
++++ 27000 
++++ 28000 
++++ 29000 
++++ 30000 
++++ 31000 
++++ 32000 
++++ 33000 
++++ 34000 
++++ 35000 
++++ 36000 
++++ 37000 
++++ 38000 
++++ 39000 
++++ 40000 
++++ 41000 
++++ 42000 
++++ 43000 
++++ 44000 
++++ 45000 
++++ 46000 
++++ 47000 
++++ 48000 
++++ 49000 
++++ 50000 
++++ 51000 
++++ 52000 
++++ 53000 
++++ 54000 
++++ 55000 
++++ 56000 
++++ 57000 
++++ 58000 
++++ 59000 
++++ 60000 
++++ 61000 
++++ 62000 
++++ 63000 
++++ 64000 
++++ 65000 
++++ 66000 
++++ 67000 
++++ 68000 
++++ 69000 
++++ 70000 
++++ 71000 
++++ 72000 
++++ 73000 
++++ 74000 
++++ 75000 
++++ 76000 
++++ 77000 
++++ 78000 
++++ 79000 
++++ 80000 
++++ 81000 
++++ 82000 
++++ 83000 
++++ 84000 
++++ 85000 
++++ 86000 
++++ 87000 
++++ 88000 
++++ 89000 
++++ 90000 
++++ 91000 
++++ 92000 
++++ 93000 
++++ 94000 
++++ 95000 
++++ 96000 
++++ 97000 
++++ 98000 
++++ 99000 
++++ 100000 
++++ 101000 
++++ 102000 
++++ 103000 
++++ 104000 
++++ 105000 
++++ 106000 
++++ 107000 
++++ 108000 
++++ 109000 
++++ 110000 
++++ 111000 
++++ 112000 
++++ 113000 
++++ 114000 
++++ 115000 
++++ 116000 
++ lind/mx xart2 uctab=ansi 'proc='\''d2d12d83d85<2 0>'\''v12'\''. '\''v83'\''. '\''v85'\''</2>'\''' 'proc='\''Gmark/2/AREA=tabloc' 'proc='\''Gmarx/2/AREA =3:^k&key^m&mfn'\''' 'proc='\''d2d3'\''(if p(v3) then '\''<2 0>'\''v3^k'\''^m'\''v3^m'\''</2>'\'' fi)' proc=@tabs/ar1d.pft 'proc='\''d2d3'\''(if p(v2) then '\''<3 0>'\''v2'\''</3>'\'',if iocc>33 then break fi fi)' proc=@tabs/ar1f.pft proc=@tabs/ar1g2.pft proc=@tabs/ar1h.pft -all now create=xar2 tell=1000
++++ 1000 
++++ 2000 
++++ 3000 
++++ 4000 
++++ 5000 
++++ 6000 
++++ 7000 
++++ 8000 
++++ 9000 
++++ 10000 
++++ 11000 
++++ 12000 
++++ 13000 
++++ 14000 
++++ 15000 
++++ 16000 
++++ 17000 
++++ 18000 
++++ 19000 
++++ 20000 
++++ 21000 
++++ 22000 
++++ 23000 
++++ 24000 
++++ 25000 
++++ 26000 
++++ 27000 
++++ 28000 
++++ 29000 
++++ 30000 
++++ 31000 
++++ 32000 
++++ 33000 
++++ 34000 
++++ 35000 
++++ 36000 
++++ 37000 
++++ 38000 
++++ 39000 
++++ 40000 
++++ 41000 
++++ 42000 
++++ 43000 
++++ 44000 
++++ 45000 
++++ 46000 
++++ 47000 
++++ 48000 
++++ 49000 
++++ 50000 
++++ 51000 
++++ 52000 
++++ 53000 
++++ 54000 
++++ 55000 
++++ 56000 
++++ 57000 
++++ 58000 
++++ 59000 
++++ 60000 
++++ 61000 
++++ 62000 
++++ 63000 
++++ 64000 
++++ 65000 
++++ 66000 
++++ 67000 
++++ 68000 
++++ 69000 
++++ 70000 
++++ 71000 
++++ 72000 
++++ 73000 
++++ 74000 
++++ 75000 
++++ 76000 
++++ 77000 
++++ 78000 
++++ 79000 
++++ 80000 
++++ 81000 
++++ 82000 
++++ 83000 
++++ 84000 
++++ 85000 
++++ 86000 
++++ 87000 
++++ 88000 
++++ 89000 
++++ 90000 
++++ 91000 
++++ 92000 
++++ 93000 
++++ 94000 
++++ 95000 
++++ 96000 
++++ 97000 
++++ 98000 
++++ 99000 
++++ 100000 
++++ 101000 
++++ 102000 
++++ 103000 
++++ 104000 
++++ 105000 
++++ 106000 
++++ 107000 
++++ 108000 
++++ 109000 
++++ 110000 
++++ 111000 
++++ 112000 
++++ 113000 
++++ 114000 
++++ 115000 
++++ 116000 
++ 1020 xar2
+ysh: line 178: 1020: command not found
++ lind/mxtb xar2 create=x5 '60:(v5^*/)' class=10000 tell=5000
++++ 5000: 2004/102/0
++++ 10000: 3640/151/8128
++++ 15000: 5492/160/11544
++++ 20000: 7403/347/27427
++++ 25000: 12009/580/115967
++++ 30000: 13620/709/198377
++++ 35000: 14315/729/209218
++++ 40000: 16175/818/281103
++++ 45000: 16914/835/292123
++++ 50000: 19921/918/358895
++++ 55000: 21849/995/451832
++++ 60000: 23786/1039/481904
++++ 65000: 25807/1098/541248
++++ 70000: 26635/1115/573408
++++ 75000: 29805/1224/722213
++++ 80000: 30876/1255/783579
++++ 85000: 32614/1303/839046
++++ 90000: 34813/1382/972304
++++ 95000: 36581/1410/1008277
++++ 100000: 38377/1468/1090843
++++ 105000: 40969/1504/1217472
++++ 110000: 43995/1507/1269066
++++ 115000: 48842/1515/1339172
+mxtb: 116184 recs in
+      49671 tabs
+      1516 recs out
++ lind/msrt x5 10 v998
++ lind/mx x5 'pft=f(val(v999),8,0),x4,v1/' now count=20
+   15112    BRASIL
+    4307    São Paulo
+    3926    CHILE
+    1420    Rio de Janeiro
+    1227    MÉXICO
+    1165    ARGENTINA
+     858    Rio Grande do Sul
+     752    Minas Gerais
+     706    ESTADOS UNIDOS
+     600    Paraná
+     565    COLÔMBIA
+     544    ESPANHA
+     431    Bahia
+     385    PERU
+     356    Pernambuco
+     353    FRANÇA
+     343    Campinas
+     331    VENEZUELA
+     324    Pelotas
+     299    Ribeirão Preto
++ lind/mx xar2 uctab=ansi 'fst=1 0 '\''.artigos'\''/,(if p(v5) then v5^*/'\''.artigos com area geografica'\''/,if v5^t='\''tabm'\'' then '\''.area=municipio'\''/'\''m='\''v5^*/'\''g='\''v5^g/ else if v5^t='\''tabu'\'' then '\''.area=uf'\''/'\''u='\''v5^*/ else if v5^t='\''tabp'\'' then '\''.area=pais'\''/'\''p='\''v5^*/ fi fi fi fi)' fullinv=xar2 tell=10000
++++ 10000 
++++ 20000 
++++ 30000 
++++ 40000 
++++ 50000 
++++ 60000 
++++ 70000 
++++ 80000 
++++ 90000 
++++ 100000 
++++ 110000 
++++ 271952+53469 links 
++++ xar2.lk1
++++ 10000 .AREA=MUNICIPIO 
++++ 20000 .AREA=PAIS      
++++ 30000 .AREA=PAIS      
++++ 40000 .AREA=PAIS      
++++ 50000 .ARTIGOS        
++++ 60000 .ARTIGOS        
++++ 70000 .ARTIGOS        
++++ 80000 .ARTIGOS        
++++ 90000 .ARTIGOS        
++++ 100000 .ARTIGOS        
++++ 110000 .ARTIGOS        
++++ 120000 .ARTIGOS        
++++ 130000 .ARTIGOS        
++++ 140000 .ARTIGOS        
++++ 150000 .ARTIGOS        
++++ 160000 .ARTIGOS        
++++ 170000 BRASIL          
++++ 180000 BRASIL          
++++ 190000 CHILE           
++++ 200000 G=3538709       
++++ 210000 M=FORTALEZA     
++++ 220000 MONTE ALTO      
++++ 230000 P=BRASIL        
++++ 240000 P=CHILE         
++++ 250000 P=VENEZUELA     
++++ 260000 SAO PAULO       
++++ 270000 U=SAO PAULO     
++++ xar2.lk2
++++ 10000 .ARTIGOS COM AREA GEOGRAFICA                                
++++ 20000 .ARTIGOS COM AREA GEOGRAFICA                                
++++ 30000 .ARTIGOS COM AREA GEOGRAFICA                                
++++ 40000 .ARTIGOS COM AREA GEOGRAFICA                                
++++ 50000 M=CHAPADA DOS GUIMARAES                                     
++++ create=xar2 
++++ maxmfn=116184
++ lind/mx dict=xar2 k1=m= k2=m= 'pft=if val(v1^t)>10 then f(val(v1^t),8,0),x4,v1^*/ fi' now
+      14    M=ARACAJU
+      18    M=ARACATUBA
+      52    M=ARARAQUARA
+      22    M=AREIA
+      52    M=BAMBUI
+      62    M=BAURU
+      89    M=BELEM
+     248    M=BELO HORIZONTE
+      15    M=BENTO GONCALVES
+      13    M=BOA VISTA
+     181    M=BOTUCATU
+      14    M=BRAGANCA PAULISTA
+      12    M=BRASILEIRA
+      69    M=BRASILIA
+      11    M=BUENOS AIRES
+      11    M=CAMARAGIBE
+      27    M=CAMPINA GRANDE
+     343    M=CAMPINAS
+      50    M=CAMPO GRANDE
+      31    M=CAMPOS DOS GOYTACAZES
+      11    M=CANANEIA
+      11    M=CARUARU
+      14    M=CASCAVEL
+      16    M=CAXIAS DO SUL
+      16    M=CHAPECO
+      22    M=CHAVES
+      11    M=COIMBRA
+      16    M=CORONEL PACHECO
+      16    M=CORUMBA
+      27    M=COTIA
+      16    M=CRUZ ALTA
+      25    M=CRUZ DAS ALMAS
+      22    M=CUBATAO
+      50    M=CUIABA
+      91    M=CURITIBA
+      30    M=DOURADOS
+      29    M=DUQUE DE CAXIAS
+      50    M=ELDORADO DO SUL
+      18    M=EMBU
+      29    M=FEIRA DE SANTANA
+     106    M=FLORIANOPOLIS
+     119    M=FORTALEZA
+      76    M=GOIANIA
+      11    M=GOIAS
+      15    M=GUAIRA
+      11    M=GUARAPUAVA
+      13    M=IGUAPE
+      11    M=ILHA SOLTEIRA
+      13    M=ILHEUS
+      11    M=ITAJAI
+      27    M=ITUMBIARA
+      91    M=JABOTICABAL
+      11    M=JEQUITINHONHA
+      31    M=JOAO PESSOA
+      11    M=JUAZEIRO
+      38    M=JUIZ DE FORA
+      24    M=JUNDIAI
+      34    M=LAGES
+      84    M=LAVRAS
+      12    M=LINHARES
+     146    M=LONDRINA
+      19    M=MACAE
+      30    M=MACEIO
+      85    M=MANAUS
+      22    M=MARICA
+      26    M=MARILIA
+      67    M=MARINGA
+      11    M=MONTENEGRO
+      21    M=MONTES CLAROS
+      33    M=MOSSORO
+      43    M=NATAL
+      59    M=NITEROI
+      23    M=NOVA FRIBURGO
+      21    M=NOVA IGUACU
+      18    M=OLINDA
+      22    M=OSASCO
+      19    M=OURO PRETO
+      12    M=PARIQUERA-ACU
+      47    M=PASSO FUNDO
+      22    M=PAULINIA
+      17    M=PAULISTAS
+      13    M=PEDRO DE TOLEDO
+     324    M=PELOTAS
+      47    M=PETROLINA
+      14    M=PINDORAMA
+     183    M=PIRACICABA
+      12    M=POCONE
+      39    M=PONTA GROSSA
+     244    M=PORTO ALEGRE
+      15    M=PRESIDENTE PRUDENTE
+     141    M=RECIFE
+      83    M=RIBEIRA
+     299    M=RIBEIRAO PRETO
+      29    M=RIO BRANCO
+      19    M=RIO CLARO
+     251    M=RIO DE JANEIRO
+      14    M=RIO DOCE
+      34    M=RIO GRANDE
+      12    M=SALTO DE PIRAPORA
+     266    M=SALVADOR
+     125    M=SANTA MARIA
+      12    M=SANTIAGO
+      19    M=SANTO ANDRE
+      21    M=SANTO ANTONIO DE GOIAS
+      33    M=SANTOS
+      65    M=SAO CARLOS
+      12    M=SAO FRANCISCO
+      12    M=SAO GONCALO
+      32    M=SAO JOSE
+      27    M=SAO JOSE DO RIO PRETO
+      21    M=SAO JOSE DOS CAMPOS
+      24    M=SAO LEOPOLDO
+      71    M=SAO LUIS
+      12    M=SAO MANUEL
+    1226    M=SAO PAULO
+      11    M=SAO SEBASTIAO
+      23    M=SELVIRIA
+      28    M=SEROPEDICA
+      23    M=SETE LAGOAS
+      20    M=SOROCABA
+      12    M=SUMIDOURO
+      19    M=TAUBATE
+      44    M=TERESINA
+      16    M=TERESOPOLIS
+      13    M=TIBAGI
+      35    M=UBATUBA
+      24    M=UBERABA
+      81    M=UBERLANDIA
+      12    M=VACARIA
+      14    M=VIAMAO
+     109    M=VICOSA
+      38    M=VITORIA
+      15    M=VITORIA DA CONQUISTA
+      14    M=VOLTA REDONDA
++ lind/mx dict=xar2 k1=u= k2=u= 'pft=if val(v1^t)>10 then f(val(v1^t),8,0),x4,v1^*/ fi' now
+      61    U=ACRE
+      59    U=ALAGOAS
+      28    U=AMAPA
+     147    U=AMAZONAS
+     431    U=BAHIA
+     232    U=CEARA
+      99    U=DISTRITO FEDERAL
+     136    U=ESPIRITO SANTO
+     153    U=GOIAS
+     133    U=MARANHAO
+     181    U=MATO GROSSO
+     175    U=MATO GROSSO DO SUL
+     752    U=MINAS GERAIS
+     178    U=PARA
+     166    U=PARAIBA
+     600    U=PARANA
+     356    U=PERNAMBUCO
+      72    U=PIAUI
+    1169    U=RIO DE JANEIRO
+      78    U=RIO GRANDE DO NORTE
+     858    U=RIO GRANDE DO SUL
+      70    U=RONDONIA
+      44    U=RORAIMA
+     266    U=SANTA CATARINA
+    3081    U=SAO PAULO
+      42    U=SERGIPE
+      29    U=TOCANTINS
++ lind/mx dict=xar2 k1=p= k2=p= 'pft=if val(v1^t)>10 then f(val(v1^t),8,0),x4,v1^*/ fi' now
+      91    P=AFRICA DO SUL
+     107    P=ALEMANHA
+      17    P=ANGOLA
+      31    P=ANTARTICA
+      47    P=ANTIGUA E BARBUDA
+    1165    P=ARGENTINA
+     109    P=AUSTRALIA
+      40    P=BANGLADESH
+      40    P=BARBADOS
+      24    P=BELGICA
+      11    P=BENIN
+     232    P=BOLIVIA
+   15112    P=BRASIL
+      11    P=BULGARIA
+      14    P=BURKINA FASSO
+      58    P=CAMAROES
+     133    P=CANADA
+    3926    P=CHILE
+     123    P=CHINA
+     565    P=COLOMBIA
+      22    P=CONGO
+     129    P=COSTA RICA
+     200    P=CUBA
+      54    P=DINAMARCA
+      27    P=DOMINICA
+      32    P=EGITO
+      32    P=EL SALVADOR
+     155    P=EQUADOR
+     544    P=ESPANHA
+     706    P=ESTADOS UNIDOS
+      21    P=ETIOPIA
+      40    P=FEDERACAO RUSSA
+      29    P=FILIPINAS
+      23    P=FINLANDIA
+     353    P=FRANCA
+      12    P=GAMBIA
+      30    P=GANA
+      18    P=GEORGIA
+      33    P=GRANADA
+      30    P=GRECIA
+      70    P=GUATEMALA
+      34    P=GUIANA
+      21    P=GUIANA FRANCESA
+     115    P=GUINE
+      22    P=HAITI
+      37    P=HOLANDA
+      40    P=HONDURAS
+      14    P=HONG KONG
+      14    P=HUNGRIA
+     184    P=INDIA
+      25    P=INDONESIA
+     131    P=IRA
+      13    P=IRLANDA
+      28    P=ISRAEL
+     102    P=ITALIA
+      33    P=JAMAICA
+     122    P=JAPAO
+      16    P=JORDANIA
+      12    P=LIBANO
+      17    P=MALASIA
+      13    P=MALAUI
+      11    P=MALI
+      14    P=MARROCOS
+      15    P=MAURICIO
+    1227    P=MEXICO
+      23    P=MOCAMBIQUE
+      52    P=NICARAGUA
+      87    P=NIGER
+      55    P=NIGERIA
+      20    P=NORUEGA
+     138    P=NOVA ZELANDIA
+      86    P=PANAMA
+      26    P=PAQUISTAO
+     137    P=PARAGUAI
+     385    P=PERU
+      17    P=POLONIA
+      33    P=PORTO RICO
+     154    P=PORTUGAL
+      29    P=QUENIA
+      88    P=REINO UNIDO
+      33    P=REPUBLICA DOMINICANA
+     111    P=REUNIAO
+      24    P=SENEGAL
+      15    P=SRI LANKA
+      25    P=SUDAO
+      37    P=SUECIA
+      23    P=SUICA
+      18    P=SURINAME
+      45    P=TAILANDIA
+      22    P=TAIWAN
+      92    P=TANZANIA
+      24    P=TRINIDAD E TOBAGO
+      39    P=TURQUIA
+      32    P=UGANDA
+     234    P=URUGUAI
+      28    P=VATICANO
+     331    P=VENEZUELA
+      17    P=VIETNA
+      16    P=ZIMBABUE
++ lind/mx dict=xar2 k1=. k2=. 'pft=f(val(v1^t),8,0),x4,v1^*/' now
+    9995    .AREA=MUNICIPIO
+   25697    .AREA=PAIS
+    9385    .AREA=UF
+  116184    .ARTIGOS
+   35896    .ARTIGOS COM AREA GEOGRAFICA
++ lind/mx xar2 uctab=ansi pft=@tabs/ar1.pft lw=32000 now tell=1000000
++ lind/mx seq=xa.txt -all now create=xa
++ lind/mx xa uctab=ansi 'fst=1 0 '\''pid='\''v2/,v4/v5/v6/v7/v8/v9/v10/v11/v12/,|m=|v4/,|u=|v5/,|p=|v6/,|g=|v8/,'\''t='\''v10,v11,v12' fullinv=xa tell=5000
++++ 5000 
++++ 10000 
++++ 15000 
++++ 20000 
++++ 25000 
++++ 30000 
++++ 35000 
++++ 40000 
++++ 45000 
++++ 347100+53541 links 
++++ xa.lk1
++++ 5000 3512803         
++++ 10000 5001904         
++++ 15000 BA              
++++ 20000 BR              
++++ 25000 BR              
++++ 30000 BR              
++++ 35000 BR              
++++ 40000 BR              
++++ 45000 BR              
++++ 50000 BR              
++++ 55000 BRASIL          
++++ 60000 BRASIL          
++++ 65000 BRASIL          
++++ 70000 BRASIL          
++++ 75000 BRASIL          
++++ 80000 BRASIL          
++++ 85000 BRASIL          
++++ 90000 CAPAO DO LEAO   
++++ 95000 CHILE           
++++ 100000 COLOMBIA        
++++ 105000 ESTADOS UNIDOS  
++++ 110000 G=3304409       
++++ 115000 G=4209300       
++++ 120000 ITIQUIRA        
++++ 125000 M               
++++ 130000 M               
++++ 135000 M=IVORA         
++++ 140000 M=SAO PAULO     
++++ 145000 MG              
++++ 150000 MX              
++++ 155000 P               
++++ 160000 P               
++++ 165000 P               
++++ 170000 P               
++++ 175000 P               
++++ 180000 P               
++++ 185000 P=BR            
++++ 190000 P=BR            
++++ 195000 P=BR            
++++ 200000 P=BR            
++++ 205000 P=BR            
++++ 210000 P=BR            
++++ 215000 P=BR            
++++ 220000 P=CL            
++++ 225000 P=IN            
++++ 230000 P=VE            
++++ 235000 PELOTAS         
++++ 240000 RIO DE JANEIRO  
++++ 245000 RS              
++++ 250000 SAO PAULO       
++++ 255000 SAO PAULO       
++++ 260000 SP              
++++ 265000 T=M             
++++ 270000 T=M             
++++ 275000 T=P             
++++ 280000 T=P             
++++ 285000 T=P             
++++ 290000 T=P             
++++ 295000 T=P             
++++ 300000 T=P             
++++ 305000 T=U             
++++ 310000 T=U             
++++ 315000 U               
++++ 320000 U               
++++ 325000 U=BA            
++++ 330000 U=PA            
++++ 335000 U=RS            
++++ 340000 U=SP            
++++ 345000 US              
++++ xa.lk2
++++ 5000 PID=S0034-89101983000600001^CSCL                            
++++ 10000 PID=S0034-89102006000700010^CSPA                            
++++ 15000 PID=S0042-96862007000500014^CSPA                            
++++ 20000 PID=S0100-40422003000100002^CSCL                            
++++ 25000 PID=S0102-05362005000400034^CSCL                            
++++ 30000 PID=S0102-311X2006001000011^CSPA                            
++++ 35000 PID=S0104-11692001000400009^CSCL                            
++++ 40000 PID=S0717-71781997002500020^CCHL                            
++++ 45000 PID=S1413-86702005000600002^CSCL                            
++++ 50000 PID=S1519-69842005000400004^CSCL                            
++++ create=xa 
++++ maxmfn=49673
++ lind/mx dict=xa k1=t= k2=t= 'pft=f(val(v1^t),8,0),x4,v1^*/' now
+   10545    T=M
+   29532    T=P
+    9596    T=U
++ lind/mx xa btell=0 t=m -all now lw=32000 'pft=v2'\''|'\''v3'\''|'\''v4'\''|'\''v5'\''|'\''v6'\''|'\''v7'\''|'\''v8'\''|'\''v9'\''|'\''v10,v11,v12/'
++ lind/mx xa btell=0 t=u -all now lw=32000 'pft=v2'\''|'\''v3'\''|'\''v4'\''|'\''v5'\''|'\''v6'\''|'\''v7'\''|'\''v8'\''|'\''v9'\''|'\''v10,v11,v12/'
++ lind/mx xa btell=0 t=p -all now lw=32000 'pft=v2'\''|'\''v3'\''|'\''v4'\''|'\''v5'\''|'\''v6'\''|'\''v7'\''|'\''v8'\''|'\''v9'\''|'\''v10,v11,v12/'
++ '[' -f xamBR.xrf ']'
++ rm xamBR.cnt xamBR.iyp xamBR.ly1 xamBR.ly2 xamBR.mst xamBR.n01 xamBR.n02 xamBR.xrf
++ lind/mx seq=xam.txt -all now create=xam
++ lind/mx xam actab=/usr/local/bireme/tabs/acans.tab uctab=ansi 'proc=if l(['\''tabs/tablarg'\'']s(mpu,v3,mpl))>0 then '\''d*'\'' fi' append=xamBR -all now
++ lind/mx seq=xau.txt -all now create=xau
++ lind/mx seq=xap.txt -all now create=xap
++ lind/mx null count=1 pft=@tabs/ar1x.pft lw=999 now
++ cat xax.txt
+ARTIGOS|116184
+ARTIGOS COM AREA GEOGRAFICA|35896
+ARTIGOS COM MUNICIPIO|9995|10545
+ARTIGOS COM UF|9385|9596
+ARTIGOS COM PAIS|25697|29532
++ echo '[INI] Inversao por areas geograficas para SciELO.ORG'
+[INI] Inversao por areas geograficas para SciELO.ORG
++ echo '(if v5^t='\''tabm'\'' then |AM_|v5^*/ fi)'
++ echo '(if v5^t='\''tabu'\'' then |AS_|v5^*/ fi)'
++ echo '(if v5^t='\''tabp'\'' then |AC_|v5^*/ fi)'
++ '[' -f arGeo.iy0 ']'
++ rm arGeo.iy0
++ mx xar2 'fst=82 0 @../tabs/ageo.pft' actab=/usr/local/bireme/tabs/acans.tab uctab=/usr/local/bireme/tabs/ucans.tab fullinv=arGeo tell=5000
++++ 5000 
++++ 10000 
++++ 15000 
++++ 20000 
++++ 25000 
++++ 30000 
++++ 35000 
++++ 40000 
++++ 45000 
++++ 50000 
++++ 55000 
++++ 60000 
++++ 65000 
++++ 70000 
++++ 75000 
++++ 80000 
++++ 85000 
++++ 90000 
++++ 95000 
++++ 100000 
++++ 105000 
++++ 110000 
++++ 115000 
++++ 44329+5344 links 
++++ arGeo.lk1
++++ 5000 AC_BRASIL       
++++ 10000 AC_BRASIL       
++++ 15000 AC_BRASIL       
++++ 20000 AC_CHILE        
++++ 25000 AC_MEXICO       
++++ 30000 AM_CAMPINAS     
++++ 35000 AM_SANTA MARIA  
++++ 40000 AS_PARAIBA      
++++ arGeo.lk2
++++ 5000 AS_RIO GRANDE DO SUL                                        
++++ create=arGeo 
++++ maxmfn=116184
++ mkiy0 arGeo
+arGeo.iy0=         168 bytes
+     .cnt=          56
+     .n01=        3328
+     .n02=        2592
+     .ly1=       36704
+     .ly2=       21344
+     .iyp=      122880
+arGeo.iy0=      187072 bytes
++ echo '[FIM] Inversao por areas geograficas para SciELO.ORG'
+[FIM] Inversao por areas geograficas para SciELO.ORG
++ echo '[INI] Gera dados para servico web'
+[INI] Gera dados para servico web
++ mx xamBR 'fst=1 0 v1' fullinv=xamBR
++ mx dict=xamBR,8801,8802 'join=xamBR=(|mfn=|v8802^m/)' 'proc='\''d32001'\''' -all now create=x
++ mx x 'join=../tabs/tabregiaoBR,11:1,12:2=(v4/)' 'proc=(if p(v1) then '\''a20|^p'\''v8'\''^0'\''v5,'\''^r'\''v12'\''^1'\''v11,'\''^u'\''v6'\''^2'\''v4,'\''^m'\''v3'\''^3'\''v7'\''|'\'' fi)' 'proc='\''s20'\''' 'proc=|<200 0>|v20|</200>|' 'proc='\''G/usr/local/bireme/tabs/gansna,200'\''' 'proc='\''Gtabs/gcharurl,200'\''' 'proc='\''d*a880|'\''v1[1]'\''|<1 0>'\'',@areasgeo1.pft,'\''</1>'\''' create=areasgeoBR -all now
++ rm areasgeoBR.iy0
++ mx areasgeoBR 'fst=1 0 v880^c,v880^*/,v880^*/,v880^c' fullinv=areasgeoBR
++ mkiy0 areasgeoBR
+areasgeoBR.iy0=         168 bytes
+          .cnt=          56
+          .n01=         208
+          .n02=      131544
+          .ly1=         296
+          .ly2=     1326272
+          .iyp=       65536
+areasgeoBR.iy0=     1524080 bytes
++ rm areasgeoBR.cnt areasgeoBR.ly1 areasgeoBR.ly2 areasgeoBR.n01 areasgeoBR.n02 areasgeoBR.iyp
++ echo '[FIM] Gera dados para servico web'
+[FIM] Gera dados para servico web
++ echo 'Bataipora|Bataypora'
++ echo 'Jamari|Candeias do Jamari'
++ echo 'Itamaraca|Ilha_de_Itamaraca'
++ echo 'Picarras|Balneario_Picarras'
++ mx seq=city_alt.seq create=tabs/city_alt -all now
++ mx null count=0 create=tabs/city_alt -all now
++ rm city_alt.seq
++ echo ' |_'
++ echo ''\'''
++ mx seq=gcharurl.seq create=tabs/gcharurl -all now
++ rm gcharurl.seq
++ mx xa btell=0 t=m lw=999 gizmo=/usr/local/bireme/tabs/gansna gizmo=tabs/city_alt gizmo=tabs/gcharurl,4 'pft=v8,'\''|http://tabnet.datasus.gov.br/tabdata/cadernos/'\'',v5,'\''/'\'',v5,'\''_'\'',v4,'\''_Geral.xls'\''/' now
++ sort -u
++ java -cp ../tpl.org/CheckLinksII.jar checkLinks.FileCheckUrls URLDATASUS2v.txt ../outs/URLDATASUS_ok.txt ../outs/URLDATASUSnok.txt
+
+-----------------------------------------------
+       Check Links II -  Bireme/PAHO/WHO
+-----------------------------------------------
+
+ First fase check
+
++++ 100
++++ 200
++++ 300
++++ 400
++++ 500
++++ 600
++++ 700
++++ 800
++++ 900
++++ 1000
++++ 1100
++++ 1200
++++ 1300
+
+ Second fase check
+
+ Merging results
+
+++ wc -l ../outs/URLDATASUSnok.txt
+++ cut -d ' ' -f 1
++ '[' 1 -ne 0 ']'
++ echo 'Lista de documentos nao encontrados ao testar o link:'
++ echo ''
++ echo http://tabnet.datasus.gov.br/tabdata/cadernos/
++ echo ''
++ echo ''
++ cat ../outs/URLDATASUSnok.txt
++ cut -d '|' -f 2
++ cut -c47-
++ mail -s '[SciELO.ORG] Lista de link DATASUS quebrados' francisco.lopes@bireme.org
++ rm mensagem.txt
++ echo === END ar1if.sh ===
+=== END ar1if.sh ===
++ date
+Tue Aug  7 12:13:42 BRT 2007
++ exit
+644.44user 2770.15system 57:06.41elapsed 99%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (1major+304829minor)pagefaults 0swaps

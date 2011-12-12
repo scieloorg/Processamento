@@ -1,0 +1,8 @@
+/*
+v9101 = CISIS_DIR
+v9102 = TEMP_TITLE
+v1 = chave do título selecionado
+v9103 = $CALL_INPUT_FOR_ENDOGENIA_FOR_SELECTED_TITLES
+*/
+,v9101,'/mx ',v9102,' btell=0 bool="',v1,'" ', 
+,'"proc=@temp/avaliacao/endoSetParameters.prc" lw=99999 pft=@avaliacao/endogenia/callInputForEndogeniaForOneTitle.pft now >> ',v9103,##

@@ -1,0 +1,23 @@
+  /* input id and data
+  */
+
+  if e1=0 then
+
+      proc('d*<880 0>'v880'</880>',/*|<12 99>|v12|</12>|*/,,'<12 99>'if v12[1]^l='en' then v12[1]^* else if v12[2]^l='en' then v12[2]^* else v12[1]^* fi fi'</12>')
+
+  else  
+
+      proc('d*'
+        '<880 0>'v880'</880>',
+/*
+        '<12 99>'if v12[1]^l='en' then v12[1]^* else if v12[2]^l='en' then v12[2]^* else v12[1]^* fi fi'</12>'
+        '<83 99>'if v83[1]^l='en' then v83[1]^a else if v83[2]^l='en' then v83[2]^a else v83[1]^a fi fi'</83>'
+        '<85 99>'(if v85^l='en' then v85^k'. ' fi)'</85>'
+*/
+        |<12 99>|v12^*|. </12>|,
+        |<83 99>|v83^a|. </83>|,
+        |<85 99>|v85^k|. </85>|,
+      )
+
+  fi
+

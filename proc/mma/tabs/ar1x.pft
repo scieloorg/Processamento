@@ -1,0 +1,7 @@
+
+  'ARTIGOS|'                    f(npost->xar2('.ARTIGOS'),1,0)                                                  /
+  'ARTIGOS COM AREA GEOGRAFICA|'f(npost->xar2('.ARTIGOS COM AREA GEOGRAFICA'),1,0)                              /
+  'ARTIGOS COM MUNICIPIO|'      f(npost->xar2('.AREA=MUNICIPIO'),1,0)             '|'ref->xam(1,f(maxmfn-1,1,0))/
+  'ARTIGOS COM UF|'             f(npost->xar2('.AREA=UF'),1,0)                    '|'ref->xau(1,f(maxmfn-1,1,0))/
+  'ARTIGOS COM PAIS|'           f(npost->xar2('.AREA=PAIS'),1,0)                  '|'ref->xap(1,f(maxmfn-1,1,0))/
+

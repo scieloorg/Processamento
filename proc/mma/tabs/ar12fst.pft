@@ -1,0 +1,36 @@
+    /* countries
+    */
+    (if p(v11) then v11/ fi)
+    
+    /* states
+    */
+    (if p(v12) then 
+        if v13^2='0' then v12^* / fi
+        v12^*' Brasil'/v12^*' Brazil'/        
+        'estado de 'v12^*         /  'estado da 'v12^*         /  'estado do 'v12^*         /  'state of 'v12^*         /  v12^*' state'         /
+        'estado de 'v12^*' Brasil'/  'estado da 'v12^*' Brasil'/  'estado do 'v12^*' Brasil'/  'state of 'v12^*' Brazil'/  v12^*' state'' Brazil'/
+     fi
+    )
+
+    /* cities
+    */
+    (if p(v13) then 
+        'municipio de '     v13^* /  'cidade de ' v13^* /  v13^*' city'  /  v13^*' municipality'  /
+        'municipios de '    v13^* /  'cidades de 'v13^* /  v13^*' cities'/  v13^*' municipalities'/
+        'municipio '        v13^* /  'cidade '    v13^* /
+        'municipios '       v13^* /  'cidades '   v13^* /
+        'municipality of '  v13^* /  
+        'municipalities of 'v13^* /  
+        
+        v13^*' 'v13^u/
+        v13^*' 'v13^v/
+        
+        v13^*' 'v13^u' Brasil'/v13^*' 'v13^u' Brazil'/
+        v13^*' 'v13^v' Brasil'/v13^*' 'v13^v' Brazil'/
+
+        v13^*' estado de 'v13^v         /   v13^*' estado da 'v13^v         /   v13^*' estado do 'v13^v         /   v13^*' state of 'v13^v         /   v13^*' 'v13^v' state'         /
+
+        v13^*' estado de 'v13^v' Brasil'/   v13^*' estado da 'v13^v' Brasil'/   v13^*' estado do 'v13^v' Brasil'/   v13^*' state of 'v13^v' Brazil'/   v13^*' 'v13^v' state'' Brazil'/
+     fi
+    )
+

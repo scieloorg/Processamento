@@ -1,12 +1,11 @@
 /*
 Nota:
+Fabio Batalha: Este formato utiliza o indice R encontrado apenas no servidor de processamento, se este formato for utilizado em outra instancia Scielo sera necessario criar o indice R e indexar a base de dados.
 */
-
-	if (v706='o') then
+		if (v706='o') then
 		'<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">',#
-	fi
-
-	if (v706='h') then
+		fi
+		if (v706='h') then
 		'<front>',#
 		'<journal-meta>',#
 			'<journal-id pub-id-type="pid">S',v880*1.17,'</journal-id>',#			
@@ -77,9 +76,9 @@ Nota:
 			|<lpage>|v14^l|</lpage>|/,
 			'<copyright-statement/>',#
 			'<copyright-year/>',#
- 	'<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=',v880,'&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri>'
- 	'<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=',v880,'&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri>'
- 	'<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=',v880,'&amp;lng=en&amp;nrm=iso"></self-uri>'
+			'<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=',v880,'&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri>'
+			'<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=',v880,'&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri>'
+			'<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=',v880,'&amp;lng=en&amp;nrm=iso"></self-uri>'
 			,if p(v83) then,
 				(,'<abstract abstract-type="short" xml:lang="',v83^l,'"><p>'v83^a'</p></abstract>',#,)
 			,fi,
@@ -96,14 +95,14 @@ Nota:
 
 			if (ref(l(s('r=',v880,'00001')),proc(if v32701^m>'' then 'R../bases/artigo/',v32701^*,',',v32701^m fi),v706) <> 'c') then
 				,'</article>',#
-		fi
-	fi		
+			fi
+		fi		
 
-	if (v706='c' and v701='1') then
+		if (v706='c' and v701='1') then
 		'<back>',#
 		'<ref-list>',#
-	fi
-	if (v706='c') then
+		fi
+		if (v706='c') then
 		'<ref id="B',v701,'">',#
 			'<nlm-citation citation-type="journal">',#
 				'<person-group person-group-type="author">',#
@@ -150,9 +149,11 @@ Nota:
 				'<publisher-name>',v62,'</publisher-name>',#			
 			'</nlm-citation>',#
 		'</ref>',#
-	fi
-	if (v706='c' and (ref(mfn+1,v706) <> 'c')) then
+		fi
+
+		if (v706='r' and v701='1') then
 		'</ref-list>',#
 		'</back>',#				
 		'</article>',#	
-	fi	
+		fi
+

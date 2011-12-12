@@ -1,0 +1,20 @@
+  
+  /* keep 1 to 6 words, ending word starts with upper char or some english area name
+  */
+  proc(
+    (if p(v1) then proc('d9<9 0>'v1'</9>'),proc('Gsplit=9=words')
+              if v9[last].1>='A' and v9[last].1<='Z' or l->taba(v9[last])>0 then '<2 0>'mpu,v1,mpl'</2>' fi 
+     fi
+    ),proc('d9')
+  )
+
+
+  /* delete null records
+  */
+  if p(v2) then 
+    proc('d1')
+  else 
+    proc('d*') /* */
+  fi
+
+  

@@ -1,0 +1,33 @@
+Iniciativa de portar as rotinas do processo antigo de afiliacao para o diretorio proc
+
+Eh necessario gerar os seguintes indices que estao em uso no BR e SP:
+        INDICE | PROCEDIMENTO GERADOR
+	TipArt | Afil1/aagotagiz.sh
+	 AfOrg | Aorg1/aagoOrg.sh
+
+Os seguintes indices nao sao mais utilizados em BR ou SP:
+	    INDICE | PROCEDIMENTO GERADOR
+	AfPaisPais | Afil1/goPaisPais.sh
+	    AfPais | Afil1/aagoafgiz.sh
+	    AfUfBr | Afil1/aagoafgiz.sh
+	     AfCid | Acid1/aagoCid.sh
+
+No caso de AfPaisPais houve substituicao por v677iah%lang% gerado na bibliometria
+
+Para TipArt:
+	pre-existentes:
+		gizTipArt.txt
+		aafstTipArt.pft
+	processo:
+		ler registros H da base artigo aplicando fst que utiliza gizTipArt
+
+Para AfOrg:
+	pre-existente:
+		aaproc1aOrg.pft
+		aafstOrg.fst
+	processo:
+		ler registros H da base artigo gerando uma modificada por aaproc1aOrg.pft
+		ler a modificada aplicando aafstOrg.fst (que utiliza Aorg1) gerando uma segunda versao
+		aplicar fst na segunda versao da base obtendo AfOrg
+
+

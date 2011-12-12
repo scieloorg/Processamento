@@ -1,0 +1,1 @@
+cisis/mx seq=$1 lw=99999 "pft=@pft/doi_set.pft" now 

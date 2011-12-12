@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<recordset>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="en">
+<s1>HIGH PRESSURE VAPOR-LIQUID EQUILIBRIA OF PALM FATTY ACIDS DISTILLATES-CARBON DIOXIDE SYSTEM</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Nélio T. MACHADO</s1>
+<afiliation>A01 A02</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Gerd BRUNNER</s1>
+<afiliation>A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal do Pará  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>Technische Universität Hamburg-Harburg  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>354-360</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>en</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>16</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700403</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="en">
+<s0>Vapor-Liquid equilibria of palm fatty acids distillates/carbon dioxide system has been investigated experimentally at temperatures of 333, 353, and 373 K and pressures of 20, 23, 26, and 29 MPa using the static method. Experimental data for the quasi-binary system palm fatty acids distillates/carbon dioxide has been correlated with Redlich-Kwong-Aspen equation of state. Modeling shows good agreement with experimental data. Selectivity obtained indicates that supercritical carbon dioxide is a reasonable solvent for separating saturated (palmitic acid) and unsaturated (oleic+linoleic acids) fatty acids from palm fatty acids distillates in a continuous multistage countercurrent column.</s0>
+</fC01>
+<fC01 dir="pt">
+<s0>Foi investigado experimentalmente o equilíbrio líquido-vapor para o sistema Destilado Ácido de Óleo de Palma (PFAD)/Dióxido de Carbono, nas temperaturas de 333, 353 e 373 K e pressões de 20, 23, 26 e 29 MPa, usando-se o método estático. Os dados experimentais do sistema pseudo-binário PFAD/CO2 foram correlacionados com a equação de estado de Redlich-Kwong do pacote computacional ASPEN. O modelo reproduz bem os resultados experimentais. A seletividade obtida indica que o CO2 supercrítico é um solvente razoável para a separação em coluna multi-estágio e contínua, do ácido graxo saturado (ácido palmítico) daqueles insaturados (ácido oleico e ácido linoleico) contidos no PFAD.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>High pressure vapor-liquid equilibrium</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Experiment</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Carbon dioxide</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Fatty acids</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Equation of state</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Separation</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Equilíbrio vapor-líquido a alta pressão</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Experimento</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Dióxido de carbono</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Ácidos graxos</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Equação de estado</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Separação</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="en">
+<s1>SEPARATION OF SATURED AND UNSATURATED FATTY ACIDS FROM PALM FATTY ACIDS DISTILLATES IN CONTINUOUS MULTISTAGE COUNTERCURRENT COLUMNS WITH SUPERCRITICAL CARBON DIOXIDE AS SOLVENT: A PROCESS DESIGN METHODOLOGY</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Nélio Teixeira MACHADO</s1>
+<afiliation>A01 A02</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Gerd BRUNNER</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>U.F.P.A  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>TU Hamburg-Harburg  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>361-370</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>en</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>11</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700404</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="en">
+<s0>In this work the separation of multicomponent mixtures in counter-current columns with supercritical carbon dioxide has been investigated using a process design methodology. First the separation task must be defined, then phase equilibria experiments are carried out, and the data obtained are correlated with thermodynamic models or empirical functions. Mutual solubilities, Ki-values, and separation factors &lt;FONT FACE=&quot;Symbol&quot;&gt;a&lt;/font&gt;ij are determined. Based on this data possible operating conditions for further extraction experiments can be determined. Separation analysis using graphical methods are performed to optimize the process parameters. Hydrodynamic experiments are carried out to determine the flow capacity diagram. Extraction experiments in laboratory scale are planned and carried out in order to determine HETP values, to validate the simulation results, and to provide new materials for additional phase equilibria experiments, needed to determine the dependence of separation factors on concetration. Numerical simulation of the separation process and auxiliary systems is carried out to optimize the number of stages, solvent-to-feed ratio, product purity, yield, and energy consumption. Scale-up and cost analysis close the process design. The separation of palmitic acid and (oleic+linoleic) acids from PFAD-Palm Fatty Acids Distillates was used as a case study.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>VLE</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>High pressure</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Separation analysis</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Hydrodynamics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Experiments</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="en">
+<s1>EXTRACTION OF OIL FROM PRESSED PALM OIL (Elaes guineensis) FIBERS USING SUPERCRITICAL CO2</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Luiz F. FRANÇA</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>M. Angela A. MEIRELES</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal do Pará (UFPA)  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>UNICAMP  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>384-388</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>en</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>11</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700408</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="en">
+<s0>Residual fibers from palm oil production are a good source of carotene, since they contain more than 5% of the original oil, with about 5000 ppm of carotenoids. As carotenoids are thermosensitive molecules, supercritical CO2 can be used for oil recovery, because this technique employs low temperatures. In this work results of oil extraction experiments from pressed palm oil fibers are shown. Fibers were from AGROPALMA, an industry which is located in Tailândia (Pará, Brazil). Extractions were carried out at 200, 250 and 300 bar and at temperatures of 45 and 55oC. Oil was analyzed by UV/vis spectrophotometry for total carotene determination. Results showed a large increase in extraction rate from 200 to 250 bar and a small variation from 250 to 300 bar. The total amount of carotenes did not increase in the course of extraction at 300 bar, but it showed a large increase at 200 and at 250 bar. Free fatty acids are present in amounts larger than those found in commercial oils.</s0>
+</fC01>
+<fC01 dir="pt">
+<s0>As fibras residuais do processo de produção de óleo de palma (óleo de dendê), podem ser uma boa fonte de carotenos, pois contém, ainda, mais de 5% do óleo original, com cerca de 5.000 ppm de carotenóides. Como os carotenóides são moléculas termodegradáveis, é importante um estudo do emprego de CO2 supercrítico na extração deste óleo, visto que esta é uma técnica que emprega baixas temperaturas. Neste trabalho são mostrados os resultados de experimentos de extração do óleo das fibras prensadas de dendê, feitas a 200, 250 e 300 bar e temperaturas de 45 e 55oC. As fibras prensadas foram obtidas da produção industrial da indústria AGROPALMA, localizada em Tailândia (Pará, Brasil). O óleo obtido foi analisado por espectrofotometria UV/vis para a determinação do teor de carotenos totais. Os resultados mostram um aumento na taxa de extração entre 200 e 250 bar, mas esta variação foi pequena entre 250 e 300 bar. O teor de carotenos totais não aumenta durante a extração a 300 bar, mas tem variações importantes a 200 e a 250 bar. Os ácidos graxos livres estão presentes em quantidades superiores àquelas encontradas em óleos comerciais.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Supercritical extraction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>vegetable oil</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>palm oil</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>extraction kinetics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>carotene</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Extração supercrítica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>óleo vegetal</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>óleo de dendê</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>cinética de extração</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>caroteno</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>EXTRAÇÃO DO COLESTEROL COM MISTURAS DE DIÓXIDO DE CARBONO E ETANO SUPERCRÍTICO</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Marleny D. A. SALDAÑA</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Eduardo M HOMEM</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="031000">
+<s1>Rahoma S. MOHAMED</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Estadual de Campinas  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>389-392</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>16</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700409</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Existem fatores nutricionais e dietéticos, como a ligação comprovada entre o excesso do colesterol no sangue e doenças cardíacas e alguns tipos de câncer, que justificam as pesquisas de desenvolvimento de tecnologias que reduzam o teor de colesterol dos alimentos. Estudos anteriores demonstraram a viabilidade da utilização de CO2 e etano na remoção do colesterol do óleo de manteiga. O colesterol apresenta maior solubilidade no etano que no CO2; porém, o etano é de maior custo. A utilização de misturas CO2/etano, portanto, apresenta-se como uma alternativa atraente, devido à redução dos custos energéticos e econômicos. Utilizando um aparelho experimental de extração a altas pressões, que permite um controle independente de temperatura e pressão, foram determinadas as solubilidades do colesterol em misturas de CO2/etano supercríticos com 8%, 16%, 34%, 76%, 88% e 96,5% de etano, a 328,1 K e pressões de 120 a 190 bar. Os resultados experimentais mostram um aumento da solubilidade com a pressão e a composição de etano na mistura. Para correlacionar os dados experimentais foi usado um modelo termodinâmico que utiliza a equação de Peng-Robinson com as regras de mistura de van der Waals e a regra que considera o parâmetro de interação dependente da densidade, resultando numa equação de quarta ordem. A regra de mistura dependente da densidade se mostrou eficaz na correlação dos dados experimentais.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>There are nutritional and dietary factors, such as those linking excess blood cholesterol to heart diseases and cancer, that justify the development of a technology for the reduction of cholesterol levels in consumed meals. Previous studies have demonstrated the viability of using CO2 for the removal of cholesterol from butter oil. Cholesterol has higher solubility in ethane than in CO2. The use of CO2/ethane mixtures, therefore, presents as an attractive alternative, as a compromise between the higher ethane cost better cholesterol removal efficiency obtained and envolved. Using a high pressure experimental extraction apparatus that allows the independent control of temperature and pressure, cholesterol solubilities in supercritical CO2/ethane mixtures with 8%, 16%, 34%, 76%, 88% e 96,5% of ethane were determined at 328,1 K and pressures from 120 to 190 bar. Experimental results show an increase in solubility with pressure and a composition of ethane in the mixture. Experimental data were correlated with a thermodynamics model that uses Peng-Robinson equation with two different mixing rules: the normally used van der Waals and a rule that considers the interaction parameter density dependent resulting in a quartic equation of state. The density dependent mixing rule reveal more successful in the correlation of experimental data.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Extração Supercrítica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Colesterol</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Etano supercrítico</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Modelo Termodinâmico</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Supercritical extraction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>cholesterol</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>supercritical ethane</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>thermodynamics model</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="en">
+<s1>THE EFFECTIVE DIFFUSIVITY OF CLOVE(Eugenia caryophyllus) ESSENTIAL OIL IN PRESSURIZED CO2</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Caciano ZAPATA NOREÑA</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>M. Angela A. MEIRELES</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>UNICAMP  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>393-398</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>en</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>12</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700410</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="en">
+<s0>The effective diffusivity of clove essential oil in subcritical liquid CO2 was estimated. The experimental apparatus employed was a fixed-bed extractor. The fixed bed was formed with grounded (mesh -32 + 65) and compacted clove buds which were considered a solid element. The effective diffusion coefficient was evaluated by fitting the experimental concentration profile to the unsteady state mass balance equation for unidirectional diffusion in a finite solid medium. The diffusion coefficient was related to the concentration of oil in the solid by an exponential function. The estimated values of the effective diffusion coefficient varied from 3.64 to 5.22x10-10 m2/s. The average relative errors were lower than 3.1%.</s0>
+</fC01>
+<fC01 dir="pt">
+<s0>O coeficiente de difusão efetivo do óleo essencial de cravo-da-índia em CO2 líquido subcrítico foi estimado. O equipamento experimental usado foi um extrator de leito fixo. O leito fixo foi formado por cravo-da-índia moído (mesh -32 + 65) e compactado, sendo assim considerado como um meio sólido. O coeficiente de difusão efetivo foi estimado pelo ajuste do perfil de concentração experimental à equação de balanço de massa em estado transiente, para difusão unidirecional em um meio sólido. A dependência do coeficiente de difusão com a concentração de óleo no sólido, foi descrita por uma função exponencial. O coeficiente de difusão determinado variou de 3,64 a 5,22x10-10m2/s. Os erros médios relativos foram menores do que 3,1%.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Diffusion coefficient</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>mass transfer</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>finite difference</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>clove essential oil</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>supercritical extraction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Difusividade mássica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>transferência de massa</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>diferenças finitas</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>óleo essencial de cravo-da-índia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>extração supercrítica</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>EXTRAÇÃO DE OLEORESINA DE CÚRCUMA (Curcuma longa L) COM CO2 SUPERCRÍTICO</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>A. Luis M. CHASSAGNEZ</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Nádia C. F. CORRÊA</s1>
+<afiliation>A01 A02</afiliation>
+</fA11>
+<fA11 dir="031000">
+<s1>M. Angela A. MEIRELES</s1>
+<afiliation>A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal do Pará (UFPA)  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>UNICAMP  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>399-404</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>21</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700411</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Dentre as fontes de corantes naturais mais utilizadas na indústria de alimentos, encontra-se a cúrcuma (Curcuma longa L), um rizoma do qual podem ser obtidas substâncias como a curcumina, demetoxicurcumina e bis-demetoxicurcumina. Estes pigmentos possuem coloração amarela e capacidade de substituir corantes artificiais. Com a finalidade de verificar a influência do pré-tratamento de secagem na extração, foram realizados experimentos de extração de oleoresina de cúrcuma com CO2 supercrítico, na unidade de extração do Laboratório de Engenharia Química da Universidade Federal do Pará, submetendo-se a matéria-prima a uma secagem nas temperaturas de 70 e 105oC. As extrações foram feitas a pressões de 200, 250 e 300 bar, e na temperatura de 45oC. Os resultados estão apresentados em tabelas e gráficos, em termos de rendimentos totais e teor de curcumina presente na oleoresina. A secagem a 70oC favoreceu a extração de oleoresina em termos de tempo de extração, e contribuiu para a manutenção de curcumina na matéria-prima.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>Turmeric (Curcuma longa L) is one of the most used source of natural color in the food industry. Curcuminoids can be obtained from the roots of this plant. These pigments impact a yellow color and they might be able to substitute synthetic dyes. Turmeric oleoresin extraction experiments have been carried out with supercritical CO2 to investigate the influences of the pretreatment of the rhizomes on oleoresin. The extractions were conducted at the Department of Chemical Engineering of the Federal University of Pará (Universidade Federal do Pará). Turmeric was dried at 70ºC and 105ºC. Extractions have been carried out at pressures of 200, 250 and 300 bar and a temperature of 45ºC. Results shown the total yield and the content of curcumin present in the oleoresin. Amount of oleoresin extracted from the material dried at 70ºC was larger while most of the curcuminoids remained in the solid material.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Fluido Supercrítico</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>extração</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>cúrcuma</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>secagem</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>oleoresina</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>curcumina</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Supercritical</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>extraction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>turmeric</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>drying</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>oleoresin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>curcuminoid</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>EXTRAÇÃO DE LIPÍDEOS DA AMÊNDOA DE CASTANHA DE CAJU COM CO2 SUPERCRÍTICO</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Claudia Pilar LAMEIRA</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Gerson L. V. COELHO</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="031000">
+<s1>Cheila G. MOTHÉ</s1>
+<afiliation>A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>UFRRJ  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>UFRJ  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>405-407</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>4</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700412</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Nos últimos anos, vem crescendo o interesse em alimentos com baixo índice de calorias. Nos métodos tradicionais de extração de lipídeos com solventes orgânicos, devido as condições de extração, a integridade dos compostos extraídos e da matriz pode ser afetada pela decomposição térmica ou por contaminação pelo solvente. A extração com fluido supercrítico (EFSC) pode proporcionar um método alternativo para remover lipídeos, sem que haja redução significativa nas propriedades organolépticas do produto. O objetivo deste trabalho é extrair parcialmente o óleo contido na amêndoa da castanha de caju (Anacardium occidentale) com dióxido de carbono (CO2) supercrítico em condições de pressão de 100-170 bar e temperatura de 40-80 (C, para obter um produto de valor calórico reduzido que poderá ser usado como substituto para o amendoim e outras amêndoas na indústria de confeitos. Os experimentos foram realizados em um extrator de 300 ml, dispondo de sistemas de agitação magnética e variação de temperatura. Os resultados experimentais mostraram que o aumento da pressão acarretou um aumento na eficiência de extração. O efeito da temperatura foi o mesmo porém menos significativo.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>In the last years, the interest in low index of calories foods have been increasing. In the traditional methods of extraction of lipids with organic solvents, due the extraction conditions, the integrity of the compound extracted and matrix can be affected by thermal decomposition or by solvent contamination. The supercritical fluid extraction (SFE) can provide an alternative method to remove lipids without losing the organoleptics qualities of the product. The objective of this work is to extract partially the cashew nut kernel oil by supercritical carbon dioxide in pressure conditions of 100-170 bar and 40-80 (C of temperature, to obtain a reduced caloric value product which could be used as peanut and others nuts substitut in the bakery industry. The experiments were done in an extractor of 300 ml with magnetic shaking and heat systems. The experimental results showed that the increase in the pressure improved the extraction efficiency. The temperature effect was the same but less significative.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Extração supercrítica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>lipídeos</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>amêndoa de castanha de caju</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>dióxido de carbono</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Supercritical extraction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>lipids</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>cashew nut</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>carbon dioxide.</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="en">
+<s1>COMPARISON OF GINGER (Zingiber officiale Roscoe) OLEORESIN OBTAINED WITH ETHANOL AND ISOPROPANOL WITH THAT OBTAINED WITH PRESSURIZED CO2</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Lia P. NOBREGA</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Alcilene R MONTEIRO</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="031000">
+<s1>M. Angela A. MEIRELES</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="041000">
+<s1>Marcia O. M MARQUES</s1>
+<afiliation>A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>UNICAMP  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>IAC  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>408-412</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>en</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>24</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700413</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="en">
+<s0>Ginger (Zingiber officinale Roscoe) belongs to the Zingiberacea family. It is a spice of great commercial importance. In this work ginger oleoresin was obtained with ethanol, isopropanol and liquid carbon dioxide. The chemical compositions of the extract were compared with each other. All oleoresin samples had monoterpenes and sesquiterpenes. Carboxylic acids were found in organic solvent extracts for an extraction time of 2 hours. The component responsible the for pungent characteristic of the oleoresin, gingerois, were detected in samples obtained with organic solvent for extraction times of 6 hours and in samples obtained with CO2 liquid for extraction times of 2 hours.</s0>
+</fC01>
+<fC01 dir="pt">
+<s0>O gengibre (Zingiber officinale Roscoe) pertence à família Zingiberacea. É uma especiaria de grande importância comercial. Neste trabalho realizou-se extrações da oleoresina de gengibre com etanol, isopropanol e dióxido de carbono líquido e comparou-se a composição química de cada um dos extratos. A oleoresina obtida tem componentes das classes dos monoterpenos e sesquiterpenos em todas as amostras. Ácidos carboxílicos foram encontrados nos extratos obtidos com solvente orgânico, quando o tempo de extração foi de 2 horas. Os componentes que dão a característica pungente à oleoresina, os gingerois, foram detectados nas amostras obtidas com solvente orgânico, quando o tempo de extração foi de 6 horas e, nas amostras obtidas com CO2 líquido, com 2 horas de extração.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Essential oil</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>oleoresin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>ginger</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>solvent extraction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>supercritical extraction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Óleo essencial</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>oleoresina</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>gengibre</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>extração com solvente</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>extração supercrítica</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>NOVAS APLICAÇÕES DE SISTEMAS SFE &quot;HOME MADE&quot;.: I. PLANTAS MEDICINAIS BRASILEIRAS</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Fernando M. LANÇAS</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Janete H.Y VILEGAS</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="031000">
+<s1>Eliane C. VASCONCELOS</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="041000">
+<s1>Renata M. S. CELEGHINI</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade de São Paulo  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>413-417</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>11</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700414</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Neste trabalho, apresenta-se uma visão geral da evolução do uso da SFE (extração com fluido supercrítico) na análise de plantas medicinais brasileiras dentro das pesquisas desenvolvidas pelo Laboratório de Cromatografia do IQSC-USP. Utilizou-se como fluido extrator o CO2, puro ou modificado com solventes de polaridade baixa a alta (pentano, solventes halogenados, álcoois, água), para a extração seletiva de princípios ativos de Maytenus aquifolium (&quot;espinheira santa&quot;) e Mikania glomerata (&quot;guaco&quot;), respectivamente contendo triterpenos e cumarina. Os extratos obtidos por SFE foram analisados por CGAR (cromatografia gasosa de alta resolução), CLAE-DAD (cromatografia líquida de alta eficiência com detector&quot; photodiodearray&quot;) ou CCD (cromatografia de camada delgada). A SFE forneceu resultados similares ou melhores do que os obtidos com métodos convencionais de extração (Soxhlet, maceração, etc), indicando o potencial uso da SFE para análise e/ou produção de preparações contendo estas plantas medicinais.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>Further applications of &quot;home made&quot; SFE systems. I. Brazilian medicinal plants. In this paper, an overview on the evolution of the utilization of SFE for the analysis of Brazilian medicinal plants in the research developed by the Laboratório de Cromatografia, IQSC-USP, is presented. CO2, pure or with modifiers from low to high polarity (pentane, halogenated solvents, alcohols, water) were used for the selective extraction of active compounds. Maytenus aquifolium (known popularly in Brazil as&quot; espinheira santa&quot;), and Mikania glomerata (&quot;guaco&quot;), containing respectively triterpenes and coumarin, were studied. The extracts obtained by SFE showed similar or better results than of those extracts obtained by conventional extraction methods (Soxhlet, maceration, etc.), which indicates the potential of SFE technique in the analysis and/or production of phytomedicines.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>SFE (extração com fluido supercrítico)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>plantas medicinais</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>CGAR (cromatografia gasosa de alta resolução)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>CLAE-DAD (cromatografia líquida de alta eficiência com detector&quot; photodiodearray&quot;</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>CCD (cromatografia de camada delgada)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>SFE (supercritical fluid extraction)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>medicinal plants</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>HRGC (high resolution gas chromatography)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>HPLC-DAD (high performance liquid chromatography - photodiodearray detector</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>TLC (thin layer chromatography)</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>NOVAS APLICAÇÕES DE SISTEMAS SFE&quot; HOME MADE&quot;.: II. PLANTAS DA AMÉRICA DO SUL</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Fernando M. LANÇAS</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Janete H.Y. VILEGAS</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="031000">
+<s1>A.C. NOSSACK</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="041000">
+<s1>Eliane C. VASCONCELOS</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="051000">
+<s1>Renata M.S. CELEGHINI</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="061000">
+<s1>E.A. CAPPELARO</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="071000">
+<s1>D. von BAER</s1>
+<afiliation>A02</afiliation>
+</fA11>
+<fA11 dir="081000">
+<s1>A. ESCALONA</s1>
+<afiliation>A03</afiliation>
+</fA11>
+<fA11 dir="091000">
+<s1>M. HASEGAWA</s1>
+<afiliation>A03</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade de São Paulo  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>Universidade de Concepción  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="030000">
+<s1>Universidade Central de Venezuela  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>418-422</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>11</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700415</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O Laboratório de Cromatografia do IQSC-USP tem desenvolvido pesquisas em conjunto com outros grupos de pesquisa do Brasil e da América Latina, visando a futura implantação da SFE (extração com fluido supercrítico) nestes laboratórios. No presente trabalho, apresenta-se alguns dos resultados obtidos na cooperação com pesquisadores do Chile e da Venezuela, direcionados para a SFE de substâncias de potencial interesse econômico, princípios ativos ou substâncias tóxicas: triglicerídeos, ácidos graxos, flavonóides, alcalóides, etc. Foram estudadas plantas nativas do Chile e da Venezuela, algumas delas nunca estudadas por métodos fitoquímicos convencionais e pertencentes a várias famílias vegetais: Leguminosae, Chrysobalanaceae, Annonnaceae, etc. O uso da SFE em conjunto com CGAR-EM (cromatografia gasosa de alta resolução - espectrometria de massas) ou CLAE-DAD (cromatografia líquida de alta eficiência com detector&quot; photodiodearray&quot;) permitiu a identificação de algumas substâncias presentes em baixa concentração, a partir de pequenas quantidades de material vegetal; estes dados são de grande importância para a caracterização química das espécies estudadas.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>Further applications of &quot;home made&quot; SFE systems. II. South American plants. The Laboratório de Cromatografia, IQSC-USP, has been developing joint research projects with other research groups from Brazil and Latin America, aiming a future implementation of SFE (supercritical fluid extraction) in these laboratories. In the present work, some of the results obtained in the cooperation with researchers from Chile and Venezuela, focused to SFE of potential economical interest compounds, active compounds or toxic molecules, are presented: triglycerides, fatty acids, flavonoids, alkaloids, etc. Native plants from Chile and Venezuela, belonging to several families (Leguminosae, Chrysobalanaceae, Annonnaceae, etc.) were studied, some of them never studied by conventional phytochemical methods. The utilization of SFE along as HRGC-EM (high resolution gas chromatography - mass spectrometry) or HPLC-DAD (high performance liquid chromatography - diodearray detector) allowed the identification of some compounds, starting from small amounts of plant material; these data are of great significance to the chemical characterization of the studied species.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>SFE (extração com fluido supercrítico)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>produtos naturais</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>CGAR-EM (cromatografia gasosa de alta resolução - espectrometria de massas)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>CLAE-DAD (cromatografia líquida de alta eficiência</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>SFE (supercritical fluid extraction)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>natural products</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>HRGC - MS (high resolution gas chromatography - mass spectrometry)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>HPLC-DAD (high performance liquid chromatography - photodiodearray detector</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>NOVAS APLICAÇÕES DE SISTEMAS SFE &quot;HOME MADE&quot;: III. ENERGIA QUÍMICA E ELÉTRICA</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Fernando M. LANÇAS</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Livia M. ASSIS</s1>
+<afiliation>A02</afiliation>
+</fA11>
+<fA11 dir="031000">
+<s1>Ailton J. de SOUZA</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="041000">
+<s1>Maria H. V. KAMPEN</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="051000">
+<s1>Armando BASSETTO FILHO</s1>
+<afiliation>A03</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade de São Paulo  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>Centro Federal de Educação Tecnológica do Paraná  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="030000">
+<s1>Companhia Paulista de Força e Luz - CPFL  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>423-431</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>14</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700416</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Este trabalho apresenta três aplicações da SFE com diferentes fluídos supercríticos, matrizes e sistemas de extração. Um sistema estático &quot;home made&quot; foi utilizado na pesquisa de fontes alternativas de insumos químicos e energéticos tais como o bagaço de cana-de-açucar e o carvão mineral. Foram usados, respectivamente, o etanol (sem e com catalisador) e o tolueno como fluídos extratores e hidrogênio como gás de pressurização. Na extração dos contaminantes do óleo mineral adsorvidos em bauxita, foi utilizado o dióxido de carbono como fluído extrator em um sistema &quot;home made&quot;/dinâmico. Estudos visando a maximização do rendimento de alguns dos processos também foram realizados, utilizando o planejamento fatorial e a metodologia da superfície de resposta. Os produtos de maior interesse neste trabalho (fração de resinas), obtidos do processo de extração do bagaço de cana-de-açucar e aqueles contaminantes do óleo isolante adsorvidos em bauxita extraídos com fluídos supercríticos foram caracterizados usando cromatografia gasosa de alta resolução com detector de ionização de chama (CGAR - DIC) e cromatografia gasosa de alta resolução com detector seletivo de massas (CGAR - EM) após fracionamento por cromatografia líquida preparativa em 8 frações distintas.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This work presents three aplications of SFE with different supercritical fluids, samples and extraction systems. A home made static system was utilized in the search for alternative chemicals and energetics resources such as sugar cane bagasse and mineral coal. Ethanol (with and without catalyst) and toluene were used, respectively ,as extraction fluids and hydrogen as pressurization gas. The adsorbed contaminants of mineral oil in bauxite were also extracted with carbon dioxide as extractor fluid in a home made dinamical system. Maximization of yields in some processes was studied using factorial design and response surface methodologies. The products obtained from the sugar cane bagasse and those contaminants adsorbed in bauxite insulating oil and extracted with supercritical fluids were characterized using HRGC - FID and HRGC - MS after fractionation in eight fractions by preparative liquid chromatography.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>SFE (Extração com Fluído Supercrítico)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>carvão</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>bagaço de cana-de-açúcar</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>contaminantes óleo isolante</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>SFE (Supercritical Fluid Extraction)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>coal</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>sugar cane bagasse</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>insulating oil contaminants</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>NOVAS APLICAÇÕES DE SISTEMAS SFE &quot;HOME-MADE&quot;.: IV. QUALIDADE DOS ALIMENTOS</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Fernando M. LANÇAS</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Haroldo S. DÓREA</s1>
+<afiliation>A02</afiliation>
+</fA11>
+<fA11 dir="031000">
+<s1>Roberto A. MÜLLER</s1>
+<afiliation>A03</afiliation>
+</fA11>
+<fA11 dir="041000">
+<s1>Camilla B. FAGUNDES</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade de São Paulo  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>Universidade Federal de Sergipe  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="030000">
+<s1>Universidade Federal de Viçosa  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>432-436</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>18</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700417</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>São apresentadas algumas aplicações de um sistema &quot;Home-Made&quot; para Extração com Fluido Supercrítico (EFS) na análise de resíduos de pesticidas e de óleos essenciais em alimentos. Foram desenvolvidos diversos estudos com os parâmetros: temperatura, pressão, escolha e concentração de modificadores. Os resultados são apresentados para amostras de maracujá (resíduos de pesticidas organofosforados e piretróides), mel (resíduos de pesticidas organoclorados) e laranja (óleo essencial).</s0>
+</fC01>
+<fC01 dir="en">
+<s0>Some applications of a home-made SFE (Supercritical Fluid Extraction) system in the analysis of pesticides residues and essential oils in food are reported. Several studies with modification of the parameters: temperature, pressure, choice and concentration of modifiers were developed. The results of pesticides residue analysis are presented for passion fruits (organophosphorus and pyrethroids pesticides), honey (organochroline pesticides) and oranges (essential oils).</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>pesticidas</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>extração com fluido supercrítico (EFS)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>cromatografia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>frutas</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>mel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>pesticides</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>supercritical fluid extraction (SFE)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>chromatography</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>fruits</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>honey</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Ciênc. Tecnol. Aliment.</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>17</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>4</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>FRACIONAMENTO DE ÓLEOS DE CITROS UTILIZANDO FLUIDOS SUPERCRÍTICOS</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Marisa MENDES</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>José Vladimir OLIVEIRA</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA11 dir="031000">
+<s1>Ângela ULLER</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>UFRJ  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>441-445</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0101-2061</s1>
+<s2>1997</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>14</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0101-2061(97)01700419</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O objetivo deste trabalho é o estudo sobre o fracionamento do óleo de laranja. Neste sentido, o limoneno e o linalol foram considerados os componentes-chaves do óleo de laranja, representando os terpenos e compostos oxigenados, respectivamente. Para modelar os dados de equilíbrio de fases foi usada a equação de estado de Peng-Robinson, juntamente com as regras de mistura de van der Waals, uni e biparamétrica, e de Panagiotopoulos e Reid. O uso desses modelos termodinâmicos permitiu determinar as condições de temperatura e pressão que levaram aos melhores valores do par seletividade-capacidade.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>The objective of this work is to study the fractionation of the citrus oils, especially orange oil. The orange oil is considered to be a mixture of two main components, limonene and linalool, which represent the terpenes and oxygenated group fractions, respectively. The Peng-Robinson equation of state using the van der Waals, with one or two parameters, and Panagiotopoulos and Reid mixing rules, were used to correlate and predict the binary and ternary high pressure phase equilibria of CO2 containing systems . The use of thermodynamic models to predict the phase equilibria allowed to establish the conditions of temperature and pressure, which led to the best results of selectivities and capacities of the extraction.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Extração supercrítica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>óleo de laranja</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>fracionamento</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Supercritical extraction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>orange oil</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>fractionation</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0101-2061</s0>
+</fA01>
+<fA03 dir="001000"

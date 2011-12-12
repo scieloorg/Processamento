@@ -1,0 +1,2 @@
+echo $CISIS_DIR
+echo $BASE_TITLE

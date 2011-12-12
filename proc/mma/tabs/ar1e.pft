@@ -1,0 +1,7 @@
+
+  /* lookup geoarea name
+  */
+  proc((e2:=l->tabloc(v2),if e2>0 then '<3 0>'v2'^m'f(e2,1,0) '</3>' fi))
+    
+  proc('d200')
+

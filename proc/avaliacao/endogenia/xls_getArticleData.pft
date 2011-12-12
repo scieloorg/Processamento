@@ -1,0 +1,44 @@
+if p(v83) and p(v85) and p(v72) then
+	/* tem que ter resumo, palavras-chaves e referências bibliográficas */
+,(,`	<Row>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,v31[1],`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,v32[1],`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="Number">`,mid(v65[1],1,4),`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,v14^f[1],`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,v12^*[1],|: |v12^s[1],`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,v10^n,` `,v10^s,`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,
+					,ref(['temp/avaliacao/aff']l(['temp/avaliacao/aff'],v880[1],v10^1),v2^*),
+					,`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,if instr(ref(['temp/avaliacao/aff']l(['temp/avaliacao/aff'],v880[1],v10^1),v2^2),'epart')=0 then ref(['temp/avaliacao/aff']l(['temp/avaliacao/aff'],v880[1],v10^1),v2^2) fi,`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,if instr(ref(['temp/avaliacao/aff']l(['temp/avaliacao/aff'],v880[1],v10^1),v2^2),'epart')>0 then ref(['temp/avaliacao/aff']l(['temp/avaliacao/aff'],v880[1],v10^1),v2^2) fi,ref(['temp/avaliacao/aff']l(['temp/avaliacao/aff'],v880[1],v10^1),v2^3),`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,ref(['temp/avaliacao/aff']l(['temp/avaliacao/aff'],v880[1],v10^1),v2^c),`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,ref(['temp/avaliacao/aff']l(['temp/avaliacao/aff'],v880[1],v10^1),v2^s),`</Data>`,#
+,`				</Cell>`,#
+,`				<Cell>`,#
+,`					<Data ss:Type="String">`,ref(['temp/avaliacao/aff']l(['temp/avaliacao/aff'],v880[1],v10^1),v2^p),`</Data>`,#
+,`				</Cell>`,#
+,`			</Row>`,#
+,),
+,fi,

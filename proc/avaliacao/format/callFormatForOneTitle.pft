@@ -1,0 +1,3 @@
+,'',#,
+,'rem ',v400,' ',v68,' ',v441/,
+,'call avaliacao/format/geraFormat.bat ',v400,' ',replace(v9999,'ACRONIMO',v68),' ',v9001,' ',v9002,' ',v9003/

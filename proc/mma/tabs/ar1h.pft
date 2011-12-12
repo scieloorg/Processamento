@@ -1,0 +1,6 @@
+  
+  /* avoid null results
+  */
+
+  proc(if a(v5) then 'd*' fi)
+

@@ -1,0 +1,15 @@
+
+  /* get input
+  */
+  proc('<2 0>'v12'. 'v83'. 'v85'</2>')
+  
+  /* apply "ansi upper case" + delete comma
+     (gansna because of serverafi)
+  */
+  proc('Ggansuc+comma,2')
+
+  /* extract 6words into repeatable field
+  */
+  proc('Gsplit=2=6words/if=tabloc')
+  proc('Gsplit=2')
+

@@ -1,0 +1,15 @@
+
+ (if p(v5) then 
+     mfn(1)'|'
+     v880[1]'|'
+     v12[1]'|'
+     if v5^t='tabm' then   v5^*'|'  v5^u  '|'   'BR'   '|' ref->tabu(l->tabu(v5^u),v2)'|' v5^g'|' ref->tabp(l->tabp('BR'),v2)'|m|||'  
+     else
+     if v5^t='tabu' then       '|'  v5^u  '|'   'BR'   '|'                   v5^*     '|'     '|' ref->tabp(l->tabp('BR'),v2)'||u||'  
+     else 
+     if v5^t='tabp' then       '|'        '|'    v5^p  '|'                            '|'     '|'  v5^*                      '|||p|'  
+     fi fi fi
+     /
+   fi
+  )
+

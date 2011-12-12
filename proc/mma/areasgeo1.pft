@@ -1,0 +1,58 @@
+
+ if p(v1) then
+
+ /* '<?xml version="1.0" encoding="ISO-8859-1" ?>'/ */
+ '<areasgeo>'/
+ ' <article pid="'v1[1]^*'" country="'v1[1]^c'"/>'/
+ ' <arealist>'/
+
+ s1:=(v20[1]^p)
+ s2:=(v20[1]^r)
+ s3:=(v20[1]^u)
+ s4:=('http://tabnet.datasus.gov.br/tabdata/cadernos/')
+
+ '  <country name="'v20[1]^p'" code="'v20[1]^0'" url="'s4,v20[1]^0'/'v200[1]^p'_Geral'v20[1]^0'.xls">'/
+ '   <region name="'v20[1]^r'" code="'v20[1]^1'" url="'s4,v20[1]^0'/'v200[1]^r'_GeralRegiao.xls">'/
+ '    <state name="'v20[1]^u'" code="'v20[1]^2'" url="'s4,v20[1]^2'/'v20[1]^2'_'v200[1]^u'_GeralUF.xls">'/
+
+ (
+ if p(v20) then
+
+ if s1<>v20^p then 
+  if s3<>'' then '    </state>'/ fi
+  if s2<>'' then '   </region>'/ fi
+  if s1<>'' then '  </country>'/ fi
+ '  <country name="'v20^p'" code="'v20^0'" url="'s4,v20^0'/'v200^p'_Geral'v20^0'.xls">'/
+     s1:=(v20^p)
+     s2:=('')
+     s3:=('')
+ fi
+
+
+ if s2<>v20^r then 
+  if s3<>'' then '    </state>'/ fi
+  if s2<>'' then '   </region>'/ fi
+  '   <region name="'v20^r'" code="'v20^1'" url="'s4,v20^0'/'v200^r'_GeralRegiao.xls">'/
+     s2:=(v20^r)
+     s3:=('')
+ fi
+
+ if s3<>v20^u then 
+  if s3<>'' then '    </state>'/ fi
+  '    <state name="'v20^u'" code="'v20^2'" url="'s4,v20^2'/'v20^2'_'v200^u'_GeralUF.xls">'/
+     s3:=(v20^u)
+ fi
+
+  '     <city name="'v20^m'" code="'v20^3'" url="'s4,v20^2'/'v20^2'_'v200^m'_Geral.xls"/>'/
+
+ fi
+ )
+
+ '    </state>'/
+ '   </region>'/
+ '  </country>'/
+ ' </arealist>'/
+ '</areasgeo>'/
+
+ fi
+

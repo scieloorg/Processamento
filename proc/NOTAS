@@ -1,0 +1,74 @@
+As bases de dados das colecoes em bases-work usam fst/Fasciculo.fst para sua inversao
+A base TITLE em bases-work/title usa as fsts
+	fst/title.fst   para gerar title
+	fst/titsrc.fst  para gerar titsrc
+	fst/titsrcp.fst para gerar titsrcp
+A base LOGO em bases-work/title usa fst/logo.fst para gerar logo
+A base ISSUE em bases-work/issue usa as fsts
+	fst/issue.fst    para gerar issue
+	fst/facic.fst    para gerar facic
+	fst/faccount.fst para gerar faccount
+A base NEWISSUE em bases-work/newissue usa fst/newissue para gerar newissue
+
+# ========================================================================= #
+A adaptacao (ou implantacao) de processamento de SciELOs, tem as segunintes fases:
+
+01- Ajustes no shell Processa_SciELO.MODELO.sh
+01.1 - Garantir existencia e ajustar scielo_crs/shs/crossref_run_mod.sh
+01.2 - Garantir existencia e ajustar doi/create/doi4art_mod.sh
+01.3 - Garantir existencia de add_doi.prc
+02- Ajustes no shell FragCnvIDX.MODELO.sh
+03- Ajustes no shell FragEnvHM1.MODELO.sh
+04- Ajustes no shell FragEnvSCL31.MODELO.sh
+05- Ajustes no shell FragCnvID2.MODELO.sh
+06- Ajustes no shell FragEnvHM2.MODELO.sh
+07- Ajustes no shell FragEnvSCL32.MODELO.sh
+08- Ajustes no txt Envia2MedlinePadrao.txt
+09- Ajustes no pft googleSchoolar_XMLPubMed.pft
+10- Ajustes no shell FechaSciELO.MODELO.sh
+11- Ajustes no txt Envia2LattesLogOn.txt
+12- Ajustes no shell Acid1/aagoCid.sh
+13- Ajustes no pft em bases/Acid1/aaproc1aCid.pft
+14- Ajustes no shell Afil1/aagoafgiz.sh
+15- Ajustes no shell Afil1/aagoafgizUF.sh
+16- Ajustes no shell Afil1/aagotagiz.sh
+17- Ajustes no shell Afil1/goPaisPais.sh
+18- Ajustes no pft em bases/Afil1/aaproc1a.pft
+19- Ajustes no shell Aorg1/aagoOrg.sh
+20- Ajustes no pft em bases/Aorg1/aaproc1aOrg.pft
+21- Ajustes no GeraScielo.bat (incluir geraSubjectlist.sh)
+22- Ajustes no procLangs/config (editar docpaths.seq e mycipar.cip)
+    Obs.: Após adequar o arquivo docpaths.seq a Estancia, deve-se gerar novamente
+          o MF docpaths. Execute o comando abaixo:
+          mx seq=docpaths.seq create=docpaths now -all
+
+23- Ajustes no FragEnvSCL30.MODELO.sh
+24- Ajustes no processamento de bibliometrica
+    Em /bases/???.000/scibiblio/bases/estat
+	cipar.cip			(MOD ou MODELO)
+	SetAmbBibliometriaSciELO.txt	(MOD ou MODELO)
+    Em /bases/???.000/scibiblio/bases/estat/artigo
+	artigo.cip			(MOd ou MODELO)
+	artigoh.cip			(MOD ou MODELO)
+	limpa_tits.prc			(MODELO)
+	GeraBibliometriaSciELO.sh	(-)
+        AtualizaBibliometriaSciELO.sh	(ITIDEFINE)
+25- Ajustes no /bases/???.000/proc/scielo_sjr/shs/conf.sh
+    Alterar o acromino para a estancia
+    Em
+	export scielo_dir="/bases/???.000"
+26- Verificar se s estancia processa DOI, se processar habilitar a linha abaixo em /bases/proc/GeraBasesExternas.bat
+#cisis/mx ../bases/medline/nlinks "proc=@prc/add_doi.prc" copy=../bases/medline/nlinks now -all
+# ========================================================================= #
+====
+Recordatorio (atualizacao de fsts):
+
+ls -d /bases/*.000 > atualizar
+vi atualizar
+for i in `cat atualizar `
+do
+ echo $i
+ mv $i/proc/fst/artigo.fst $i/proc/fst/artigo.20090617.fst
+ cp artigo.fst $i/proc/fst/
+done
+

@@ -1,0 +1,15 @@
+if p(v83) and p(v85) and p(v72) then
+	/* tem que ter resumo, palavras-chaves e referências bibliográficas */
+	,v31,'|',
+	,v32,'|',
+	,mid(v64,1,4),'|',
+	,v14^f,'|',
+	,v12^*[1],|: |v12^s[1],'|',
+	,v10^n[1],' ',v10^s[1],'|',
+	,v70^*[1],'|',
+	,v70^1[1],'|',
+	,v70^2[1],'|',
+	,v70^c[1],'|',
+	,v70^s[1],'|',
+	,v70^p[1],#,
+,fi,

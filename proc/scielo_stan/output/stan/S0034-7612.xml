@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recordset>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>1</s2>
+</fA06>
+<fA08 dir="011POR">
+<s1>Palavras da diretora</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Deborah Moraes Zouain</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA20 dir="000000">
+<s1>5-6</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0/>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000101</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>1</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>3rd Infancy and Youth Judgeship of Porto Alegre (Brazil): a study on the use of administrative analysis in State modernization</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>Terceira Vara da Infância e da Juventude de Porto Alegre: um estudo da aplicação da análise administrativa na modernização do Estado</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Silvia Generali da Costa</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>UFRGS Escola de Administração </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="020000">
+<s1>UFRGS PPGA </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="030000">
+<s1>PUC RS </s1>
+<s2>Porto Alegre RS</s2>
+<s3>BRA</s3>
+</fA14>
+<fA20 dir="000000">
+<s1>7-24</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>30</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000102</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>This paper describes the experience of applying the administrative analysis tool to the modernization of public management, more specifically at the 3rd Infancy and Youth Judgeship of Porto Alegre, Brazil. An action-survey was carried with the following goals: to qualify management procedures; to provide more effective service to clients; to standardize the main administrative processes, aiming at the future municipalization of the socio-educational measures to be applied with open sentencing. The experience has suggested that, in spite of strongly bureaucratized state structures, it is possible to employ rationalization techniques for administrative processes in specific sectors of the State, with relevant results for users of the system and a low implementation cost.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>Este artigo descreve a experiência de aplicação da ferramenta de análise administrativa na modernização da gestão pública, especificamente na Terceira Vara da Infância e da Juventude da Comarca de Porto Alegre (RS). Foi realizada uma pesquisa-ação, com os objetivos de qualificar os procedimentos de gestão; agilizar o atendimento aos clientes e padronizar os principais processos administrativos, com vistas à futura municipalização do atendimento das medidas socioeducativas de meio aberto. A realização dos trabalhos sugeriu que, apesar das estruturas estatais fortemente burocráticas, é possível fazer uso de técnicas de racionalização de processos administrativos em setores específicos do Estado, com resultados significativos para os usuários do sistema e com baixo custo de implantação.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>administrative analysis</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>quality</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>public management</s0>
+<s4/>
+</fC03>
+<fC03 dir="041ENG">
+<s0>modernization</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>análise administrativa</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>qualidade</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>gestão pública</s0>
+<s4/>
+</fC03>
+<fC03 dir="041POR">
+<s0>modernização</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>1</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>Pierre Bourdieu: the theory in practice</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>Pierre Bourdieu: a teoria na prática</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Hermano Roberto Thiry-Cherques</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>FGV Ebape </s1>
+<s2>Rio de Janeiro RJ</s2>
+<s3>BRA</s3>
+<sz>01</sz>
+</fA14>
+<fA20 dir="000000">
+<s1>27-53</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>37</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000103</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>This article presents a program for applying Pierre Bourdieu's investigation methods to human and social sciences research. It begins by presenting their epistemological origins and practices, and then discusses the concept system adopted by Bourdieu and develops a generic research guide based on his investigations. It concludes by summarizing the critique of his concepts and by making a synthetic presentation of his legacy.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>Este artigo apresenta um programa para aplicação da forma de investigar de Pierre Bourdieu às pesquisas em ciências humanas e sociais. A partir da exposição sobre as suas fontes e práticas epistemológicas, o artigo discute o sistema de conceitos que Bourdieu utiliza e desenvolve um roteiro genérico de pesquisa baseado nas suas investigações. Conclui com um resumo das críticas às suas concepções e uma apresentação sintética do seu legado.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>method</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>Bourdieu</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>human sciences</s0>
+<s4/>
+</fC03>
+<fC03 dir="041ENG">
+<s0>social sciences</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>método</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>Bourdieu</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>ciências humanas</s0>
+<s4/>
+</fC03>
+<fC03 dir="041POR">
+<s0>ciências sociais</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>1</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>Sectorial competitiveness forums and public policy articulation: the recent experience of the textile and garment production chain</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>Articulação de políticas públicas a partir dos fóruns de competitividade setoriais: a experiência recente da cadeia produtiva têxtil e de confecções</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Samuel A. Antero</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Estadual do Ceará  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="020000">
+<s1>Escola Nacional de Administração Pública  </s1>
+<s2>Brasília DF</s2>
+<s3>BRA</s3>
+</fA14>
+<fA20 dir="000000">
+<s1>57-79</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>14</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000104</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>This article reflects upon the role of the Competitiveness Forum of the Textile and Garment Production Chain in public policymaking, and presents suggestions/alternatives for this chain. It begins by presenting an overview of the competitiveness forum, outlining the concept, objectives and work methodology, which calls for a tripartite consensus (business, workers, and government) in public policymaking. In then examines the recent evolution of the textile and garment production chain, so as to present a balance of the identified problems and potentials. It analyzes the experience of this sectorial competitiveness forum so as to identify innovations and issues regarding the coordination and cooperation of the several agents involved in sectorial development policy-making. Finally, the article presents the main challenges and difficulties, focusing on two strategic issues: employment and income generation measures, and competitiveness development actions for the textile and garment production chain.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>Este artigo reflete sobre a ação do Fórum de Competitividade da Cadeia Produtiva Têxtil e de Confecções como articulador de políticas públicas e apresenta sugestões/ alternativas para essa cadeia produtiva. Inicia com um panorama sobre o fórum de competitividade, demonstrando seu conceito, objetivos e metodologia de trabalho, que prevê o consenso tripartite (empresários, trabalhadores e governo) para a formulação de políticas públicas. Em seguida, desenvolve uma análise da evolução recente da cadeia produtiva têxtil e de confecções, buscando produzir um primeiro balanço dos problemas e potencialidades identificados. O artigo também analisa a experiência desse fórum de competitividade setorial, visando identificar inovações e problemas na coordenação e cooperação dos diversos atores para a consecução de políticas setoriais de desenvolvimento. Por último, aborda os principais desafios e dificuldades, dando especial ênfase a duas questões estratégicas: as ações para geração de emprego e renda e as ações para o desenvolvimento da competitividade da cadeia têxtil e de confecções.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>competitiveness</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>garment and textile production chain</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>public policies</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>competitividade</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>cadeia produtiva têxtil e confecções</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>políticas públicas</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>1</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>Organizational culture in Brazilian public organizations</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>Cultura organizacional em organizações públicas no Brasil</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>José Calixto de Souza Pires</s1>
+</fA11>
+<fA11 dir="021000">
+<s1>Kátia Barbosa Macêdo</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>Unip  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="020000">
+<s1>Unifan  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="030000">
+<s1>Universidade Católica de Goiás  </s1>
+<s2>Goiânia GO</s2>
+<s3>BRA</s3>
+</fA14>
+<fA14 dir="040000">
+<s1>UCG  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="050000">
+<s1>PUC São Paulo </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="060000">
+<s1>Universidad de Comillas  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="070000">
+<s1>EAE  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="080000">
+<s1>Universidade Federal de Goiás  </s1>
+<s2>Goiânia GO</s2>
+<s3>BRA</s3>
+</fA14>
+<fA20 dir="000000">
+<s1>81-104</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>45</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000105</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>This article presents and discusses concepts and views that help understand features and peculiarities of the organizational culture in public organizations in Brazil. It begins by discussing the concepts and different approaches to culture and organizational culture, specifically by Fleury, Frost, Schein, and Hofstede. It then deals with the culture of public organizations, presenting a brief history of these organizations in Brazil, as well as their concepts and features, among which bureaucracy, centralized authoritarianism, patronizing, lack of continuity, and political interference stand out. Such characteristics interfere with the way people work in these organizations, where attachment to rules and routines, hierarchy overrating, patronizing, and attachment to power can be identified. This is important for the definition of internal processes, for the way people relate to innovation and change, for the construction of organizational values and beliefs, and for human resource policies. The article concludes by pointing out the fundamental features to be considered when dealing with the culture of public organizations in Brazil.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>Este artigo apresenta e discute conceitos e abordagens que contribuem para a compreensão de aspectos e traços relacionados à cultura organizacional de organizações públicas no Brasil. Inicialmente, são tratados os conceitos e diferentes abordagens de cultura e cultura organizacional, especificamente de Fleury, Frost, Schein e Hofstede. A seguir, o artigo aborda a cultura de organizações públicas, apresentando um pequeno histórico das organizações públicas no Brasil, bem como seus conceitos e características, entre as quais se destacam a burocracia, o autoritarismo centralizado, o paternalismo, a descontinuidade e a ingerência política. Essas características interferem no modo como os trabalhadores atuam nessas organizações, observando-se o apego às regras e rotinas, a supervalorização da hierarquia, o paternalismo nas relações e o apego ao poder. Isso é importante na definição dos processos internos, na relação com inovações e mudança, na formação dos valores e crenças organizacionais e nas políticas de recursos humanos. Na conclusão, o artigo salienta os aspectos fundamentais a serem considerados ao se lidar com a cultura de organizações públicas no Brasil.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>culture</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>organizational culture</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>public organizations in Brazil</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>cultura</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>cultura organizacional</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>organizações públicas no Brasil</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>1</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>A new management model for science, technology and innovation in the Department of Science and Technology policy (1995-2002)</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>A busca de um novo modelo de gestão para a ciência, tecnologia e inovação na política do MCT (1995-2002)</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Alexandre Veronese</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>Ibict  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="020000">
+<s1>Centro Universitário da Cidade Instituto de Pesquisas e Estudos Jurídicos </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="030000">
+<s1>Iuperj  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="040000">
+<s1>UFF  </s1>
+<s2>Rio de Janeiro RJ</s2>
+<s3>BRA</s3>
+</fA14>
+<fA20 dir="000000">
+<s1>107-124</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>28</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000106</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>This article shows how the agenda of the 1995 administrative reform was incorporated into the policy goals of the Department of Science and Technology during its two last terms (1995-2002). The area of science and technology (S&amp;T) in Brazil and abroad has gone through dramatic changes. One of these changes refers to the pressures for a new form of managing the S&amp;T process. This article begins by analyzing the stage of development of S&amp;T in Brazil and its roadblocks. It then discusses the State reform of the 1980's and 90's and the 1995 administrative reform, as well as the S&amp;T policy agenda, emphasizing the search for new institutional models. It concludes that both the sector and the Brazilian society are highly bureaucratic. And, because this process of bureaucratization was not identified when the Department of Science and Technology outlined its sectorial policies, the department invested in a deregulation proposal that probably will not respond to the need for new management models in its research units.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>Este artigo mostra como a agenda da reforma administrativa de 1995 foi incorporada aos objetivos traçados pela política científica do Ministério da Ciência e Tecnologia (MCT) nos dois governos passados (1995-2002). A área de ciência e tecnologia, no Brasil e no mundo, tem passado por dramáticas mudanças. Um desses tipos de mudança se refere às pressões para o estabelecimento de uma nova forma de gerir o processo científico e tecnológico. Este artigo começa com uma análise do estágio de desenvolvimento do setor de ciência e tecnologia brasileiro e seus impasses. A seguir, faz uma exposição sobre a reforma do Estado nas décadas de 1980 e 1990 e a reforma administrativa de 1995. Depois, trata da agenda da política de C&amp;T, com ênfase na busca de novos formatos institucionais. Conclui que, ao mesmo tempo que o setor está burocratizado, a sociedade brasileira também segue o percurso de sua burocratização. E, assim, mostra que, por esse processo de burocratização da sociedade não ter sido identificado no traçado das políticas setoriais do MCT, o ministério apostou numa proposta de desregulamentação que, provavelmente, não dará conta da necessidade de novos formatos na política de gestão para as suas unidades de pesquisa.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>state reform</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>1995 administrative reform</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>science and technology management</s0>
+<s4/>
+</fC03>
+<fC03 dir="041ENG">
+<s0>science and technology policies</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>reforma do Estado</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>reforma administrativa de 1995</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>gestão em ciência e tecnologia</s0>
+<s4/>
+</fC03>
+<fC03 dir="041POR">
+<s0>política científica e tecnológica</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>1</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>Ensuring the strategic fit of information and communication technology: the case of Petrobras' oil refinery units</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>Assegurando o alinhamento estratégico da tecnologia de informação e comunicação: o caso das unidades de refino da Petrobras</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Marcos Villas</s1>
+</fA11>
+<fA11 dir="021000">
+<s1>Marcus Fonseca</s1>
+</fA11>
+<fA11 dir="031000">
+<s1>T. Diana L. v. A. de Macedo-Soares</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>PUC-Rio IAG </s1>
+<s2> </s2>
+<s3/>
+<sz>03</sz>
+</fA14>
+<fA14 dir="020000">
+<s1>PUC-Rio  </s1>
+<s2>Rio de Janeiro RJ</s2>
+<s3>BRA</s3>
+</fA14>
+<fA14 dir="030000">
+<s1>Petrobras Reduc </s1>
+<s2>Rio de Janeiro RJ</s2>
+<s3>BRA</s3>
+<sz>02</sz>
+</fA14>
+<fA20 dir="000000">
+<s1>127-154</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>37</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000107</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>Information and communication technology (ICT) is a critical factor for company competitiveness. While some authors question the fact that ICT should be considered a source of competitive advantage, there is a strong consensus regarding the importance of ensuring its alignment with firm strategy so that it can contribute to the optimization of corporate performance. Ensuring this fit, that is, the consistency between the ICT strategy and the company's strategy, with a view to enhancing organizational effectiveness, became all the more important after the opening of Brazil's oil market in January 2002 and the ensuing increased competition in the oil sector in this country. The objectives of this article are to share the results of a multiple case study of the oil refinery units of Petrobras, and to propose a conceptual framework to help ICT management guarantee strategic fit between its actions and the units' business strategies, in order to optimize ICT's contribution to their performance. The study's results, in keeping with the perceptions of managers from different business areas at Petrobras, showed that there is merely a partial fit between ICT strategies and the business strategy of the oil refinery units at issue. As an additional contribution, the study suggests that the ICT strategic fit be promoted within the context of the evolutionary cycle of the "balanced scorecard" performance appraisal and the strategic management methodology that is being implemented throughout the company.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>A tecnologia de informação e comunicação (TIC) é fator crítico de competitividade das empresas. Embora alguns autores questionem o fato de a TIC poder ser considerada uma fonte de vantagem competitiva, há consenso quanto à necessidade do seu alinhamento à estratégia da empresa de modo que ela possa contribuir para a otimização do desempenho organizacional. Assegurar este alinhamento, ou seja, a consistência da estratégia da TIC com a da empresa, com vistas a aumentar sua efetividade, tornou-se particularmente importante com o acirramento da competição no setor de petróleo, em decorrência da abertura deste mercado no Brasil a partir de janeiro de 2002. Este artigo compartilha os resultados de um estudo de casos múltiplos nas unidades de negócios do refino da Petrobras e apresenta uma proposta de modelo conceitual para auxiliar a gestão da TIC no sentido de garantir o alinhamento de suas ações com as estratégias do negócio, com vistas a potencializar a contribuição da TIC para um melhor desempenho dessas unidades. Com base nos resultados da pesquisa, conclui-se que nelas existe um grau de alinhamento parcial da TIC à estratégia da empresa, sendo esta visão compartilhada pelos gerentes das suas diversas áreas de negócios. Como contribuição adicional, recomenda-se que a promoção do alinhamento estratégico da TIC seja construída no contexto do ciclo evolutivo da metodologia de avaliação do desempenho e gestão estratégica, balanced scorecard (BSC), que está sendo implementada na Petrobras.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>strategy</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>strategic planning</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>information technology</s0>
+<s4/>
+</fC03>
+<fC03 dir="041ENG">
+<s0>strategic fit</s0>
+<s4/>
+</fC03>
+<fC03 dir="051ENG">
+<s0>balanced scorecard</s0>
+<s4/>
+</fC03>
+<fC03 dir="061ENG">
+<s0>oil and gas sector</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>estratégia</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>planejamento estratégico</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>tecnologia de informação</s0>
+<s4/>
+</fC03>
+<fC03 dir="041POR">
+<s0>alinhamento estratégico</s0>
+<s4/>
+</fC03>
+<fC03 dir="051POR">
+<s0>balanced scorecard</s0>
+<s4/>
+</fC03>
+<fC03 dir="061POR">
+<s0>setor de petróleo</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>1</s2>
+</fA06>
+<fA08 dir="011POR">
+<s1>A conjuntura das escolhas públicas: estratégias institucionais em ano eleitoral</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Jorge Vianna Monteiro</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>FGV Ebape </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="020000">
+<s1>PUCRio Departamento de Economia </s1>
+<s2>Rio de Janeiro RJ</s2>
+<s3>BRA</s3>
+</fA14>
+<fA20 dir="000000">
+<s1>157-168</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0/>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000108</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>2</s2>
+</fA06>
+<fA08 dir="011POR">
+<s1>Palavras da diretora</s1>
+</fA08>
+<fA11 dir="011000">
+<s1> </s1>
+</fA11>
+<fA14 dir="010000">
+<s1>  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA20 dir="000000">
+<s1>177-178</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0/>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000201</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>2</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>The workaholic phenomenon in business management</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>O fenômeno workaholic na gestão de empresas</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Maurício Serva</s1>
+</fA11>
+<fA11 dir="021000">
+<s1>Joel Lincoln Oliveira Ferreira</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>PUC-PR  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="020000">
+<s1>Centro Internacional de Pesquisa e Informação sobre a Economia Pública, Social e Cooperativa  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="030000">
+<s1>Faculdades Jorge Amado  </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA20 dir="000000">
+<s1>179-198</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>27</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000202</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>This article investigates and establishes the relationship between organizational demands on the modern manager and the workaholic phenomenon, identifying some implications on the life of the individual. It analyzes the relations of mutual influences within contexts, organizational theories, demands on the manager and the workaholic phenomenon. The focus is on the manager, the person who occupies the command position, makes decisions and has a certain degree of accumulated responsibilities, in a relatively broad configuration of the domestic scene, since the qualitative research was made with eight business managers, from different segments and sectors spread over Brazil.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>Este artigo levanta e estabelece as relações entre as exigências organizacionais sobre o gerente moderno e o fenômeno workaholic, identificando algumas implicações na vida dos indivíduos. O artigo analisa as relações de influências mútuas entre contextos, teorias organizacionais, exigências sobre os gerentes e fenômeno workaholic. O foco de estudo é o gerente, aquele que ocupa cargo de comando, toma decisões e tem certo grau de responsabilidade acumulada, em configuração relativamente ampla do cenário nacional, porquanto a pesquisa de natureza qualitativa foi feita com oito gerentes de empresas de segmentos e ramos diferentes, atuando em várias regiões do Brasil.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>organizational demands</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>workaholic phenomenon</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>person-organization relation</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>exigências organizacionais</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>fenômeno workaholic</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>relação indivíduo-organização</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>2</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>Social conflict and welfare state: state and social development in Brazil</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>Conflito social e welfare state: Estado e desenvolvimento social no Brasil</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Fábio Guedes Gomes</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>UFPB  </s1>
+<s2> </s2>
+<s3/>
+<sz>01</sz>
+</fA14>
+<fA20 dir="000000">
+<s1>201-234</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>37</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000203</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>This article defends the theory that the class struggle in Brazil has not been able to engender the formation of a welfare state. On the contrary, the nation which emerged in the 1930s - above all in its more modern capitalistic form - has always prevented social movements that could pose any threat of a rupture. Since when it was a monarchy, Brazil has dealt with its conflicts in a repressive fashion, with the goal of maintaining a certain harmony in the interest of the expansion and the propagation of capitalism as well as regional integration. This text, therefore, is an attempt, albeit premature, to understand the process involving the formation of the social security system in Brazil, by analyzing the experiences of a number of countries and their respective characteristics, thus examining a few studies and making comparisons with the class struggle dynamic in Brazil and the role of the State in this process.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>Este artigo argumenta que no Brasil a luta de classes não alcançou dimensões profundas que pudesse engendrar a constituição do welfare state. Ao contrário, o Estado, sobretudo sua forma mais moderna, capitalista, que emergiu a partir da década de 1930, sempre se antecipou aos movimentos sociais que representassem ameaças de rupturas. De forma repressiva, o Estado brasileiro desde o Império dissipou os conflitos com o objetivo de manter uma certa harmonia em favor do processo de expansão e reprodução capitalista e a integração dos espaços regionais. O artigo, portanto, é uma tentativa, prematura, de entender o processo de constituição dos sistemas de seguridade social, analisando as experiências de alguns países e suas respectivas características, com isso confrontando alguns estudos e realizando comparações com a dinâmica da luta de classes no Brasil e a função do Estado nesse processo.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>welfare state</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>social conflict</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>political economy</s0>
+<s4/>
+</fC03>
+<fC03 dir="041ENG">
+<s0>political administration</s0>
+<s4/>
+</fC03>
+<fC03 dir="051ENG">
+<s0>public policies</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>welfare state</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>conflito social</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>economia política</s0>
+<s4/>
+</fC03>
+<fC03 dir="041POR">
+<s0>administração política</s0>
+<s4/>
+</fC03>
+<fC03 dir="051POR">
+<s0>políticas públicas</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>2</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>Analyzing the development projects for the Tietê and Paraná valleys</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>Análise dos projetos de desenvolvimento dos vales dos rios Tietê e Paraná</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Elaine Mendonça Bernardes</s1>
+</fA11>
+<fA11 dir="021000">
+<s1>Fernando Curi Peres</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>Unesp Departamento de Fitotecnia, Tecnologia de Alimentos e Socioeconomia </s1>
+<s2> </s2>
+<s3/>
+<sz>01</sz>
+</fA14>
+<fA14 dir="020000">
+<s1>USP Departamento de Economia e Sociologia Rural </s1>
+<s2> </s2>
+<s3/>
+<sz>02</sz>
+</fA14>
+<fA20 dir="000000">
+<s1>237-252</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>11</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000204</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>This article analyzes the proposed alternatives expressed in the plans and projects for the region of the Tietê and Paraná valleys, in the state of São Paulo, Brazil. The plans and projects were analyzed by the logical structure method, which consists in representing a project in a 4 &amp;times; 4 matrix. The elements of the matrix make it possible to analyze the project using criteria related to the scientific method, systems analysis and program management. The results revealed inconsistencies in the existing plans and projects for the region.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>Este artigo avalia as alternativas propostas para a região dos vales dos rios Tietê e Paraná, no estado de São Paulo. Os projetos formalmente elaborados para a região foram analisados através do método da estrutura lógica. Tal método consiste em representar um projeto na forma de uma matriz 4 &amp;times; 4 cujos elementos permitem a análise do projeto em questão pela utilização de critérios relacionados ao método científico, à análise de sistemas e ao ponto de vista da gerência de programas. Os resultados encontrados demonstraram a inconsistência nos planos e projetos existentes para a região.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>project analysis</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>logical structure method</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>regional development</s0>
+<s4/>
+</fC03>
+<fC03 dir="041ENG">
+<s0>Tietê-Paraná waterway</s0>
+<s4/>
+</fC03>
+<fC03 dir="051ENG">
+<s0>development plans</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>análise de projetos</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>método da estrutura lógica</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>desenvolvimento regional</s0>
+<s4/>
+</fC03>
+<fC03 dir="041POR">
+<s0>hidrovia Tietê-Paraná</s0>
+<s4/>
+</fC03>
+<fC03 dir="051POR">
+<s0>planos de desenvolvimento</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>2</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>Institutional apparatus for tourism management</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>Aparato institucional para a gestão do turismo: o caso do estado de Sergipe</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Marcilio de Medeiros Brito</s1>
+</fA11>
+<fA11 dir="021000">
+<s1>Maria Arlete Duarte de Araújo</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>UFRN PPGA </s1>
+<s2>Aracaju SE</s2>
+<s3>BRA</s3>
+<sz>01</sz>
+</fA14>
+<fA14 dir="020000">
+<s1>FGV-SP Eaesp </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA20 dir="000000">
+<s1>253-270</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>31</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000205</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>The importance of tourism increases more and more in today's world. Due to its transversal and complex features, management of tourism activities has many challenges. This article analyzes how the organizational structure of tourism, as it is, makes tourism management difficult in the state of Sergipe, Brazil. For this purpose, the authors researched documentation and interviewed managers and technical personnel in the three administrative units that integrate the institutional apparatus for tourism management. The results revealed that the organizational structure impairs tourism management because, among other problems, there is an intra- and interoganizational overlap of functions, low institutionalization of planning, development and marketing processes, and little articulation among agencies.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>O turismo é um fenômeno cuja importância vem crescendo no mundo contemporâneo. Devido ao seu caráter transversal e complexo, são múltiplos os desafios para o gerenciamento de suas atividades setoriais. Partindo dessas premissas, este artigo analisa de que forma a estrutura organizacional do turismo, da maneira como está configurada, dificulta a sua gestão no caso do estado de Sergipe. Para tanto, utilizou-se pesquisa documental e entrevistas com técnicos e gerentes das três unidades administrativas que compõem o aparato institucional de gestão do turismo. Os resultados revelaram que a estrutura organizacional prejudica a gestão do turismo na medida em que há sobreposições de função tanto intra quanto interorganizacionais, baixa institucionalização dos processos de planejamento, desenvolvimento e marketing turísticos, pouca articulação entre os órgãos.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>structures</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>organizations</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>tourism</s0>
+<s4/>
+</fC03>
+<fC03 dir="041ENG">
+<s0>management</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>estruturas</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>organizações</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>turismo</s0>
+<s4/>
+</fC03>
+<fC03 dir="041POR">
+<s0>gestão</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>2</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>Challenges of public policy planning: different views and practices</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>Desafios do planejamento em políticas públicas: diferentes visões e práticas</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>José Antônio Puppim de Oliveira</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>FGV Ebape </s1>
+<s2>Rio de Janeiro RJ</s2>
+<s3>BRA</s3>
+<sz>01</sz>
+</fA14>
+<fA20 dir="000000">
+<s1>273-287</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>37</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000206</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>This article analyzes the different ways policymakers and academia deal with public policy planning especially in developing countries, Brazil in particular. It points out that many public policy problems in developing countries are related to the way planning is carried out, as a technicist and bureaucratic activity, centralized in the hands of economists and focused on prediction models. This leads to shortcomings in the main points of the planning activity: the decision-making process, which is a social and political construction. After reviewing the history of planning in Brazil and in the world, the text argues that planning in Brazil needs less simulations and econometric models, and more precise information, transparency, ethics and common sense to accept different views, as well as a willingness to negotiate and involve the stakeholders.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>Este artigo analisa conceitualmente as diversas maneiras de se pensar planejamento, particularmente com respeito a políticas públicas. O artigo focaliza principalmente os problemas de planejamento nos chamados países em desenvolvimento, em especial no Brasil. Esses problemas estão relacionados à ênfase dada ao tecnicismo, à burocracia de formulação e controle e às previsões dos economistas. Isso tende a colocar sombra na parte mais importante do planejamento: o processo de decisão, que é uma construção política e social. O artigo mostra que o planejamento em políticas públicas tem de ser visto como um processo, e não como um produto técnico somente. A importância do processo se dá principalmente na implementação, pois esta é que vai levar aos resultados finais das políticas, programas ou projetos. O artigo argumenta que o planejamento é um processo de decisão político-social que depende de informações precisas, transparência, ética, temperança, aceitação de visões diferentes e vontade de negociar e buscar soluções conjuntas que sejam aceitáveis para toda a sociedade, principalmente para as partes envolvidas, levando continuamente ao aprendizado.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>planning</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>public policies</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>implementation</s0>
+<s4/>
+</fC03>
+<fC03 dir="041ENG">
+<s0>Brazil</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>planejamento</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>políticas públicas</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>implementação</s0>
+<s4/>
+</fC03>
+<fC03 dir="041POR">
+<s0>Brasil</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>2</s2>
+</fA06>
+<fA08 dir="011ENG">
+<s1>Towards an agribusiness without exclusion</s1>
+</fA08>
+<fA08 dir="011POR">
+<s1>Para um agronegócio sem exclusão</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Sergio Rozenbaum</s1>
+</fA11>
+<fA11 dir="021000">
+<s1>Sergio Proença Leitão</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>PUC-Rio IAG </s1>
+<s2>Rio de Janeiro RJ</s2>
+<s3>BRA</s3>
+<sz>01</sz>
+<sz>02</sz>
+</fA14>
+<fA20 dir="000000">
+<s1>289-312</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>34</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000207</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+<fC01 dir="010ENG">
+<s0>Ever since the creation of groups of unemployed rural workers, as a result of the industrialization of rural areas, governments have been allocating resources for the disappropriation of lands for agrarian reform, without considering the need for an adequate infrastructure and mainly the means for providing the citizens who lived in those lands with a standard quality of living. This article suggests a change in the Brazilian agroindustrial policy to offer rural jobs, taking advantage of the exporting nature of the agriculture business. The experience of other countries with social issues is taken into account.</s0>
+</fC01>
+<fC01 dir="010POR">
+<s0>Desde que a industrialização do campo passou a criar contingentes de trabalhadores rurais desempregados, os governos vêm gastando recursos na desapropriação de terras para reforma agrária, sem levar em consideração a necessidade de também prover uma infra-estrutura adequada e, principalmente, os meios para o sustento digno desses cidadãos excluídos. Este artigo propõe uma mudança na política agroindustrial brasileira, destinada a ofertar empregos no campo, aproveitando a vocação exportadora do agronegócio. A experiência de outros países na questão das tensões sociais é tomada como referência.</s0>
+</fC01>
+<fC03 dir="011ENG">
+<s0>agribusiness</s0>
+<s4/>
+</fC03>
+<fC03 dir="021ENG">
+<s0>transforming change</s0>
+<s4/>
+</fC03>
+<fC03 dir="031ENG">
+<s0>export</s0>
+<s4/>
+</fC03>
+<fC03 dir="041ENG">
+<s0>industrialization</s0>
+<s4/>
+</fC03>
+<fC03 dir="011POR">
+<s0>agronegócio</s0>
+<s4/>
+</fC03>
+<fC03 dir="021POR">
+<s0>mudança transformadora</s0>
+<s4/>
+</fC03>
+<fC03 dir="031POR">
+<s0>exportação</s0>
+<s4/>
+</fC03>
+<fC03 dir="041POR">
+<s0>industrialização</s0>
+<s4/>
+</fC03>
+</record>
+<record dir="">
+<fA01 dir="011000">
+<s0>0034-7612</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Rev. Adm. Pública</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>40</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>2</s2>
+</fA06>
+<fA08 dir="011POR">
+<s1>A conjuntura das escolhas públicas: quão suprema é a revisão judicial no jogo de políticas públicas?</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Jorge Vianna Monteiro</s1>
+</fA11>
+<fA14 dir="010000">
+<s1>FGV Ebape </s1>
+<s2> </s2>
+<s3/>
+</fA14>
+<fA14 dir="020000">
+<s1>PUC-Rio Departamento de Economia </s1>
+<s2>Rio de Janeiro RJ</s2>
+<s3>BRA</s3>
+</fA14>
+<fA20 dir="000000">
+<s1>315-323</s1>
+</fA20>
+<fA21 dir="000000">
+<s1/>
+</fA21>
+<fA23 dir="010000">
+<s01>POR</s01>
+</fA23>
+<fA43 dir="010000">
+<s1>0034-7612</s1>
+<s2>2006</s2>
+</fA43>
+<fA45 dir="000000">
+<s0/>
+</fA45>
+<fA47 dir="011000">
+<s0>S0034-7612(06)04000208</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0/>
+</fA64>
+<fA66 dir="010000">
+<s0/>
+</fA66>
+</record>
+</recordset>

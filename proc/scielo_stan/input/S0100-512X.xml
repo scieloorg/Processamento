@@ -1,0 +1,5655 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<recordset>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="">
+<s1></s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Virginia Figueiredo</s1>
+<afiliation></afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>161-162</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0></s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611201</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="">
+<s0></s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Investigações fenomenológicas sobre a pintura</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Eliane Escoubas</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Université de Paris XII Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>163-173</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>32</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611202</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Tenta-se aqui elaborar uma fenomenologia do espaço pictural, com base nos textos de Heidegger, Merleau-Ponty e Henry Maldiney. As análises feitas foram confrontadas in fine com as de historiadores de arte, principalmente Wölfflin.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This article aims to elaborate a phenomenology of the pictorial space, based on texts by Heidegger, Merleau-Ponty and Henry Maldiney. The analyses made will be compared in fine with the ones art historians produced, in particular Wölfflin's.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Heidegger</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Merleau-Ponty</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Maldiney</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Wölfflin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Pintura</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Espaço</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Aaparecer</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Ritmo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Heidegger</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Merleau-Ponty</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Maldiney</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Wölfflin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Painting</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Space</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>to Appear</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Rhythm</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Do conceito de Darstellung em Walter Benjamin ou verdade e beleza</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Jeanne-Marie Gagnebin</s1>
+<afiliation>A01 A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>PUC/SP Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>Unicamp Departamento de Teoria Literária </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>183-190</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>7</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611204</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Este artigo tenta explicitar o conceito de Darstellung utilizado por W. Benjamin para caracterizar a tarefa da filosofia no prefácio de Origem do Drama Barroco Alemão. Procede em três tempos: primeiro, a diferença entre verdade e conhecimento; segundo, a relação entre verdade, exposição, de si mesma e beleza; terceiro, a interpretação bastante peculiar que Benjamin dá da doutrina das Idéias e do Symposion de Platão.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This article tries to render explicit the concept of Darstellung used by W. Benjamin to characterize the task of the philosophy on the preface of The origin of German Tragic Drama. It proceeds in three times: first, the difference between truth and knowledge; second, the relationship between truth, its own exposition and beauty; third, Benjamin's interpretation, rather peculiar, of the doctrine of the Ideas and the Symposion by Plato.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Darstellung</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>W. Benjamin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Verdade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Conhecimento</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Platão</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Darstellung</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>W. Benjamin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Truth</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Knowledge</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Plato</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Nota sobre o conceito de Bildung (formação cultural)</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Rosana Suarez</s1>
+<afiliation>A01 A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>PUC-Rio Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>Universidade Federal do Rio de Janeiro  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>191-198</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>5</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611205</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Apresento um breve estudo do conceito alemão de Bildung, com base no artigo &quot;Bildung et Bildungsroman&quot;, de Antoine Berman. O conceito é desenvolvido em cinco etapas: Bildung como trabalho, como viagem, como tradução, como viagem à Antigüidade e como prática filológica. Estas sugestões podem contribuir para a interpretação de obras de filosofia da arte e da cultura, por exemplo, passagens de Hegel, de Hölderlin, do romântico Friedrich Schlegel e de Nietzsche.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>The following research is about the German concept of Bildung, based on the article &quot;Bildung et Bildungsroman&quot;, by Antoine Berman. The concept is developed in five stages: Bildung in the sense of work, of travel, of translation, of returning to the ancient history and in the sense of philological practice. This research can contribute for the interpretation of works of philosophy of the art and the culture, as, for example, the passages from Hegel, from Hölderlin, from the romantic Friedrich Schlegel and from Nietzsche.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Bildung</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>cultura</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>estética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>classicismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>romantismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>filologia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>tradução</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Hegel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Hölderlin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>F. Schlegel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Nietzsche</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Bildung</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Culture</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Aesthetics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Classicism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Romanticism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Philology</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Translation</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Hegel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Hölderlin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>F. Schlegel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Nietzsche</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Cassirer e Sartre sobre o esclarecimento</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Vinicius de Figueiredo</s1>
+<afiliation>A01 A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal do Paraná Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>CNPq  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>199-213</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>19</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611206</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O presente ensaio levanta alguns aspectos da estética no século XVIII. Partindo da apresentação de duas interpretações hoje clássicas sobre o assunto (a de Cassirer e a de Sartre), busca rever o pressuposto analítico comum a ambas, para, em seguida, apontar as conseqüências que a relação entre autor e público trazem para a compreensão de aspectos estilísticos que nos parecem centrais para a literatura do Esclarecimento.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This paper aims at throwing some light on the Eighteenth-Century aesthetics. After examining two classical interpretations - Cassirer e Sartre's - concerning this subject, I argue that both authors share a common analytical pressupposition. My main purpose is to show that without taking account of the the relationship between author and public, we cannot understand some essential characteristics of the literature in the Enlightenment.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Cassirer</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Sartre</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Iluminismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Público</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Autor</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Cassirer</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Sartre</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Enlightenment</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Public</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Author</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Reflexão e fundamento: sobre a relação entre gosto e conhecimento na estética de Kant</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Pedro Costa Rego</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal do Paraná Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>214-228</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>5</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611207</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>A Crítica da Faculdade do Juízo, de Kant, é primordialmente uma investigação crítica acerca de uma certa classe de juízos chamados reflexionantes, que se subdivide em dois grupos, estéticos e teleológicos, e se define em oposição a uma outra classe, a dos chamados juízos determinantes. Nosso objetivo neste artigo é elaborar a hipótese de um privilégio fundacional do juízo reflexionante estético relativamente ao conhecimento determinante. Para tanto, pretendemos cumprir duas etapas. Em primeiro lugar, procederemos a uma análise da conexão entre os temas centrais - e aparentemente dissociados - do belo e da faculdade do juízo enquanto tal que justifica a passagem do projeto de uma crítica do gosto ao de uma crítica do juízo e delimita como alvo da obra o fundamento de determinação (Bestimmungsgrund) de uma &quot;intersubjetividade&quot; conceitualmente indeterminada. Em segundo lugar, passaremos à análise da relação entre a reflexão e o princípio da finalidade da natureza, com base na Introdução da terceira Crítica, a fim de identificar, na formulação &quot;prática&quot; do princípio do gosto, o germe de uma anterioridade que subordina a determinação à reflexão estética.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>Kant's Critique of Judgment is chiefly a critical investigation into a certain class of judgments identified as &quot;reflective&quot;, divided into the aesthetic and the teleological sub-classes and defined in opposition to those termed by Kant &quot;determinant judgments&quot;. In this paper I intend to elaborate, in two expositive moments, the hypothesis of a foundational primacy of reflective aesthetic judgment over determinant knowledge. Firstly, I analyse the connection between the main themes - apparently dissociated - of beautiful and faculty of judgment in order to disclose both the ground of Kant's move from a Critique of Taste into a Critique of Judgment and the determining ground of a conceptually indeterminate intersubjectivity considered as the main aim of the work. In the next step I investigate the relationship between reflection and the principle of finality of nature on the basis of third Critique's Introduction in order to verify, through the &quot;practical formula&quot; of the principle of taste, the accuracy of the thesis supporting the primacy of aesthetic reflection over determination.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Reflexão</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Finalidade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Juízo de Gosto</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Faculdade do Juízo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Reflection</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Finality</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Judgment of Taste</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Faculty of Judgment</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>A especificidade do estético e a razão prática em Schiller</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Ricardo Barbosa</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade do Estado do Rio de Janeiro Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>229-242</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>12</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611208</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O presente trabalho examina um problema recorrente no pensamento de Friedrich Schiller: o da unidade da razão na autonomia das formas fundamentais da racionalidade. Ele é analisado aqui no contexto da correspondência de Schiller com o Príncipe de Augustenburg em 1793 e do ensaio &quot;Sobre a utilidade moral dos costumes estéticos&quot;. O propósito do trabalho é discutir esse problema desde a perspectiva do nexo entre a esfera estética e a razão prática. Segundo Schiller, o gosto seria uma condição necessária da liberdade.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This paper examines a recurrent problem in Friedrich Schiller's thinking: the unity of reason in the autonomy of the main forms of rationality. It is here analyzed in the context of Schiller's correspondence with the Prince of Augustenburg in 1793 and of the essay &quot;The Moral Utility of Aesthetic Manners&quot;. The purpose of the paper is to discuss this problem from the perspective of the connection between the aesthetical sphere and the practical reason. According to Schiller, taste would be a necessary condition of freedom.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Schiller</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Kant</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Estética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Razão Prática</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Schiller</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Kant</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Aesthetic</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Practical Reason</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Schiller e os gregos</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Pedro Süssekind</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Pontifícia Universidade Católica do Rio de Janeiro  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>243-259</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>36</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611209</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Este artigo pretende mostrar como se articulam o helenismo classicista e a reflexão sobre a poesia moderna na teoria estética de Schiller, com base em uma breve análise de alguns ensaios do autor, levando em conta comentários de E. M. Butler (A tirania da Grécia sobre a Alemanha) e Peter Szondi.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This paper intends to show how Grecism and the consideration about modern poetry are articulated in Schiller's aesthetical theory, based on a brief analysis of some of his essays and on the commentaries of E. M. Butler (The tyranny of Greece over Germany) and Peter Szondi.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Estética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Poética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Antigo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Moderno</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Aesthetics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Poetics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Ancient</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Modern</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Uma concepção dialética da arte a partir da gênese do conceito de trabalho na fenomenologia do espírito de Hegel</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Márcia Gonçalves</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade do Estado do Rio de Janeiro Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>260-272</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>6</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611210</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>A Fenomenologia do Espírito de Hegel não é ainda o lugar específico da posição de sua filosofia da arte propriamente dita. Entretanto, é possível compreender a relação sistemática entre alguns conceitos fundamentais desta obra de 1807 e a concepção hegeliana de arte da maturidade. A partir desta relação, destacaremos em nossa interpretação três diferentes e complementares teses: 1. Da obra de arte como produto ideal do trabalho do espírito (Geist); 2. Do simbolismo da religião natural como produto do trabalho do artesão à beleza da religião da arte; 3. Da necessidade do oráculo à subjetividade concreta do ator de teatro.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>Hegel's Phenomenology of Mind is not the specific place of the position of his philosophy of arts. However, it is possible to understand the systematic relationship between many fundamental concepts of this work of 1807 and the Hegel's conception of art in his maturity. Through this relationship, we will detach in our interpretation three different and complementary theses: 1. From the work of art as ideal product of the work of the &quot;Geist&quot;; 2. The symbolism of the natural religion as product of the worker to the beauty of the religion of the arts; 3. The necessity of the oracle to the concrete subjectivity of the actor of the theatre.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Hegel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Fenomenologia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Arte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Hegel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Phenomenology</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Art</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Nietzsche, Bayreuth e a época trágica dos gregos</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Iracema Macedo</s1>
+<afiliation>A01 A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Capes  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>UFMG Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>283-292</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>17</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611212</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Trata-se de um estudo das interpretações de Richard Wagner e de Nietzsche sobre a &quot;época trágica&quot; e da investigação que fizeram, em suas obras, acerca do vínculo da posteridade com a arte grega. Tendo como fio condutor a relação com a Grécia, analisam-se também as razões filosóficas do companheirismo e do posterior rompimento teórico entre Wagner e Nietzsche.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>It concerns a study on both Richard Wagner's and Nietzsche's interpretations on the &quot;tragic age&quot;. In addition, it involves the investigation they had done in their work regarding the link between posterity and the Greek art. Utlilizing the relationship whit Greece as a point of reference, the work also analyses the philosophic reasons for the friendschip and subsequent theoretical rupture between Wagner and Nietzsche.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Wagner</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Nietzsche</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Grécia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Wagner</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Nietzsche</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Greece</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>O &quot;jovem&quot; Lukács: trágico, utópico e romântico?</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Ester Vaisman</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>UFMG Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>293-310</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>9</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611213</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Dada o caráter polêmico da trajetória intelectual do &quot;Jovem&quot; Lukács, sobretudo em relação às obras A alma e as formas e A teoria do romance, o objetivo central do presente artigo é delinear com largos traços a trajetória de Lukács em sua fase de juventude, tendo como base seus próprios textos e depoimentos, com vistas a problematizar certas atribuições feitas a esse importante período de sua produção intelectual.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>Given the controversial character of &quot;Young&quot; Lukács' intellectual path, essentially concerning to the works The Soul and The Forms and Theory of the Romance, the central objective of the present article is to delineate with wide lines the path of Lukács in his youth phase (based on their own texts and testimonies) and, thus, to discuss certain attributions done for this important period of his intellectual production.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Estética lukácsiana</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Romantismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Ciências do Espírito</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Lukács's aesthetics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Romanticism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Spirits' Science</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Os tempos felizes: a presença de elementos classicistas na estética lukacsiana</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Carla Milani Damião</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Mackenzie Departamento de Filosofia </s1>
+<s2>São Paulo </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>311-320</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>9</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611214</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O presente artigo pretende investigar aspectos classicistas no pensamento de Lukács, ressaltando em sua teoria as idéias de epicidade, símbolo e alegoria como os principais termos de sua estética que mostram vínculos com teorias tradicionais.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This article aims to deal with some classicist aspects of Lukács' thought, highlighting in his theory the ideas of epic, symbol and allegory as the main concepts of his Aesthetics related to the traditional theories.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Filosofia e Literatura</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Epopéia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Romance</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Símbolo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Alegoria</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Philosophy and Literature</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Epic</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Novel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Symbol</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Allegory</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="en">
+<s1>Benjamin's conception of language and Adorno's aesthetic theory</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Rodrigo Duarte</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>UFMG Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>321-331</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>en</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>12</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611215</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="en">
+<s0>According to the theory of language of the young Benjamin, the primary task of language isn't the communication of contents, but to express itself as a &quot;spiritual essence&quot; in which also men take part. That conception according to which language would be a medium to signification of something outside it leads to a necessary decrease of its original strength and is thus denominated by Benjamin bürgerlich. The names of human language are remainders of an archaic state, in which things weren't yet mute and had their own language. Benjamin suggests also that all the arts remind the original language of things, as they make objects &quot;speak&quot; in form of sounds, colors, shapes etc. That relationship between arts as reminders of the &quot;language of things&quot; and the possible reconciliation of mankind with itself and with nature has been developed by Theodor Adorno in several of his writings, specially in the Aesthetic Theory, where the artwork is ultimately conceived as a construct pervaded by &quot;language&quot; in the widest meaning - not in the &quot;bourgeois&quot; sense.</s0>
+</fC01>
+<fC01 dir="pt">
+<s0>De acordo com a teoria da linguagem do jovem Benjamin, a tarefa primordial da linguagem não é a comunicação de Conteúdos, mas expressar a si própria como uma &quot;essência espiritual&quot;, da qual também o gênero humano toma parte. Essa concepção, de acordo com a qual a linguagem seria um médium para a significação de algo fora dela leva necessariamente a uma diminuição de sua potência originária e é, portanto, chamada por Benjamin burguesa (bürgerlich). Os nomes da linguagem humana são resquícios de um estado arcaico, no qual as coisas ainda não eram mudas e tinham sua própria linguagem. Benjamin sugere também que todas as artes rememoram a linguagem originária das coisas, na medida em que fazem os objetos &quot;falarem&quot; em forma de sons, cores, formas etc. Essa relação entre arte como resquício da &quot;linguagem das coisas&quot; e a possível reconciliação do gênero humano consigo próprio e com a natureza foram desenvolvidas por Theodor Adorno em vários de seus escritos, especialmente na Teoria Estética, onde a obra de arte é concebida, em última análise, como permeada de &quot;linguagem&quot; no seu significado mais amplo, não no sentido &quot;burguês&quot;.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Critical Theory of Society</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Frankfurt School</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Language of Things</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Teoria Crítica da Sociedade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Escola de Frankfurt</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Linguagem das Coisas</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Indústria cultural: o empobrecimento narcísico da subjetividade</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Verlaine Freitas</s1>
+<afiliation></afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>332-344</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>25</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611216</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O objetivo do texto é fazer uma análise da dimensão crítica do conceito de indústria cultural proposto por Adorno e Horkheimer a partir da noção psicanalítica de narcisismo, tal como Adorno a interpretou. A cultura de massa será vista como propiciando o prazer substancialmente ilusório de satisfazer a ânsia de engrandecimento do ego, no mesmo instante em que mantém o indivíduo atado às tendências inerciais de unificação social.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>The goal of the text is to analyze the critical dimension of the cultural industry concept as proposed by Adorno and Horkheimer, starting from the psychoanalytical notion of narcissism such as Adorno has interpreted it. The mass culture is to be seen as offering the radically illusory pleasure of satisfying the anxiety of magnification of the ego, exactly in the moment when it keeps the individual within the inertial tendencies of the social unity.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Indústria Cultural</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Narcisismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Adorno</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Mímesis</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Trágico</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Culture Industry</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Narcissism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Adorno</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Mimesis</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Tragic</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Sobre a alteridade do artista em relação ao mundo que o cerca, segundo Herbert Marcuse</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Imaculada Kangussu</s1>
+<afiliation></afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>345-356</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>18</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611217</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O artigo apresenta a primeira reflexão de Herbert Marcuse a respeito da separação entre arte e vida, desenvolvida em sua tese de doutorado, Der deutsche Kunstlerroman (O romance do artista alemão). A dissonância entre o mundo da arte e o mundo da vida percebida nesse texto inicial permeia o pensamento do filósofo em toda sua obra futura. A infinita riqueza interior da imaginação e da criatividade humana será sempre vista em conflito estético e social com o chamado mundo real.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>The article presents the first Herbert Marcuse reflection towards the separation between art and life, which is developed in his doctoral dissertation, Der deutsche Kunstlerroman (The German Artist Novel). The dissonance between the world of art and that of life per pass the philosopher thought and all his future works. The infinite inner richness of human imagination will always be in aesthetic and social conflict with the so-called real world.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Estética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Literatura</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Teoria Crítica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Poesia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Beleza</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Eros</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Aesthesis</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Literature</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Critique Theory</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Poetry</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Beauty</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Eros</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Sobre o problema da autonomia da arte e suas implicações hermenêuticas e ontológicas</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Sandra Abdo</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>357-366</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>4</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611218</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O presente artigo discute o problema da autonomia da arte e suas implicações hermenêuticas e ontológicas, tomando por base as concepções de Herbert Marcuse e de Luigi Pareyson.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This article discusses the problem of artistic autonomy and its hermeneutic and ontological implications from the point of view of Herbert Marcuse's and Luigi Pareyson's theory.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Arte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Autonomia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Marcuse</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Pareyson</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Art</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Autonomy</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Marcuse</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Pareyson</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Arte e política: o quadro normativo e a sua reversão</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Pedro Dolabela Chagas</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>367-381</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>10</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611219</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O presente ensaio analisa a relação entre arte e política a partir da sua autonomia recíproca, definida como um pressuposto epistemológico para o estudo daquela relação. Analisaremos como as especificidades ontológicas da arte (nos planos da recepção, da produção e do seu entrelaçamento entre semântica e sensorialidade) podem propiciar acontecimentos de caráter político, e também como tais especificidades podem se conciliar com a atividade crítica ou judicativa de vocação política, de maneira que elas sejam respeitadas, e não agredidas. Conforme argumentaremos, uma filosofia que bem se presta a esta função é a de Deleuze e Guattari. Porém, para que a sua importância fique clara, este ensaio será quase integralmente dedicado a expor os estilemas conceituais, cuja longa vigência na tradição filosófica dificultou, ao fim e ao cabo, que a reflexão sobre arte e política escapasse à ação normativa (que se revela na posição tutorial do filósofo quanto à ação do receptor e, muitas vezes, também na compreensão que ele faz do objeto &quot;arte&quot;). Pretendemos que o contraste entre o rigor destes estilemas, e a flexibilização que eles recebem em Deleuze e Guattari, sugira a obra destes últimos como uma via para a reversão do quadro normativo.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This essay focuses the relations between art and politics in their mutual autonomy, which is seen as an epistemological condition for the study of that relation. We'll analyze how the ontological particularities of art (in what refers to its production, reception, and complex interweaving of its semantic and sensorial aspects) can give rise to politically charged events, and also how those particularities can be conciliated with political criticism without being aggressed and deformed by it. We'll argue that Deleuze and Guattari's philosophy serves this purpose well; nevertheless, to make their importance clear, this essay will be almost totally dedicated to exposing the conceptual features whose long life in the philosophical tradition has made the reflection about art and politics become frequently normative (which can be seen in the tutorial position that the philosopher assumes towards the receptor of art, and also quite often in the understanding that is given to the term &quot;art&quot;). We expect that the contrast between the rigor of these features, and the flexibility they acquire in the works of Deleuze e Guattari will show the possibility of a way out of the normative field.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Recepção</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Crítica de Arte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Aísthesis</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Reception</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Art Criticism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Aísthesis</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>O autor de si mesmo: Machado de Assis leitor de Schopenhauer</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Rosa Maria Dias</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade do Estado do Rio de Janeiro Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>382-392</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>4</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611220</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Esse texto tem por objetivo mostrar que Machado de Assis construiu a crônica &quot;O autor de si mesmo&quot; fazendo uso da metafísica do amor de Schopenhauer.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>The following text aims to show that Machado de Assis shaped his chronicle &quot;Author of one's own&quot; (&quot;O autor de si mesmo&quot;) by means of Arthur Schopenhauer's metaphysics of love.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Metafísica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Amor</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Criança</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Metaphysics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Love</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Child</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>De interfaces tecnológicas e rascunhos de experiências</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Rita Velloso</s1>
+<afiliation>A01 A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade FUMEC FEA </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>PUC Minas Departamento de Arquitetura e Urbanismo </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>393-413</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>16</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611221</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Discutem-se os efeitos de Internet sem fio, câmeras de vigilância, telas enormes de televisão em estações de metrô e tocadores de mp3 sobre a freqüentação dos espaços públicos, por meio da análise de alguns resultados do uso desses aparatos no cotidiano (e mesmo nas estratégias de planejamento) das cidades. Quando à experimentação do espaço arquitetônico (visível) faz-se somar uma rede (invisível) reconfiguradora de relações individuais e coletivas com os lugares, e o conceito de participação chega a uma condição limítrofe, exigindo perguntar até que ponto a materialidade da arquitetura é um componente necessário à transformação da experiência que está em curso.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This paper discusses the effects of wireless internet, huge tv screens in subway stations, mp3players in public spaces occupancy. It analyses some results of these apparatus usage in everyday life of big cities, even in their planning strategies. It intends to put into question if that materiality concerning architecture is a necessary element to transformation of experience that is in course.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Espaços Públicos</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Participação</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Experiência</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Interfaces Digitais</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Public Spaces</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Participation</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Experience</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Digital Interfaces</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Fenomenologia e crise da arquitetura</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>José Luiz Furtado</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Ouro Preto Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>414-428</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>15</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611222</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Ao se fazer no espaço limítrofe entre a engenharia e a arte, a arquitetura enfrenta simultaneamente problemas estéticos e técnicos. Esta situação a torna tarefa sempre inacabada, ciência tecida no diálogo constante entre dois valores e fazeres tradicionalmente antagônicos. Diante desse quadro, busca-se comumente enraizar a arquitetura em fundamentos exteriores aos seus próprios conceitos, seja na improvisação criadora dos indivíduos, inerente à vida urbana, ou nos diversos saberes sobre o homem que equacionam as necessidades universais às quais ela deveria responder. Estas considerações preliminares conduzem ao cerne de uma questão propriamente filosófica acerca dos fundamentos pré-reflexivos do mundo da vida (Lebenswelt) e, no caso da arquitetura, sobre a experiência do habitar que constitui o campo ontológico &quot;regional&quot; de onde parte a ciência/arte aqui investigada.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>Architecture faces technical and aesthetical problems since it exists in the space between Engineering and Art. This situation turns Architecture into an endless task, a science made in a ceaseless dialogue between two traditional antagonistic values. Art and Engeneering seek to base Architecture in foundations that are outside its own concepts, either when they try to base it in creative improvisation of individuals in their urban lives or when they try to put its roots in several different cognizances about humankind to which it should respond. This introductory essay intends to take us to the experience of inhabitation which constitutes the ontological &quot;region&quot; where this science/art departs from.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Arquitetura</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Fenomenologia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Estética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Architecture</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Phenomenology</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Aesthetics</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Duas formas de se ouvir o silêncio: revisitando 4'33&quot;</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Fábio Akcelrud Durão</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>UFRJ Departamento de Letras Anglo-Germânicas </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>429-441</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>24</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611223</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Após tecer rápidas considerações sobre arte e nada, o presente texto reinterpreta o 4'33'', de John Cage, no atual contexto de superprodução semiótica. Salienta-se que, ao invés de ser uma abertura para a vida, a peça depende tanto de uma justificativa teórica, quanto de uma disposição formal. Vem desta uma dupla possibilidade, pois o silêncio de 4'33'' pode ser tanto concebido como o objetivo (impossível) a ser alcançado, quanto um meio para se interromper o falatório das coisas. Correspondendo a estas duas possibilidades estão diferentes estruturas de dissociação de meios e fins: a busca concentrada e uma passividade agressiva. Estas duas posturas são relacionadas no texto ao estado atual do capitalismo, caracterizado por uma superprodução mercantil de signos.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>After briefly dwelling on the relationship between art and nothing(ness), the essay interprets John Cage's so-called silent piece, his much-commented 4'33'', in the context of today's semiotic overproduction. It posits a twofold way of listening to the piece, insofar as silence may be conceived either as the (impossible) aim to be reached by listening, or as a means to interrupt the continuous blabbering of things. Underlying these two possibilities there are different dispositions of means and ends, namely a concentrated search for something and an aggressive passivity. These two postures are related in the text to the current state of capitalism, characterized as it is by a commodified overproduction of signs.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Silêncio</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Nada</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Superprodução Semiótica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Capitalismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Silence</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Nothing(ness)</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Semiotic Overproduction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Capitalism</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Isto é um cachimbo</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Virginia Figueiredo</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>442-457</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>11</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611224</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Partindo do quadro de René Magritte, La trahison des images (Ceci n'est pas une pipe), este texto pretende tecer um comentário sobre as relações entre arte e realidade. Visando esse objetivo, tentarei interpretar a obra do pintor belga à luz do ensaio heideggeriano sobre a &quot;Origem da obra de arte&quot;, não sem antes passar em revista alguns resultados da análise contida no livro de Michel Foucault, assim como algumas reflexões do filósofo da arte norte-americano Arthur Danto.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>Departing from the painting La trahison des images (Ceci n'est pas une pipe), by René Magritte, this paper intends to comment the relationships between art and reality. Aiming this objective, I will try to interpret the work of the Belgian painter according to Heidegger's essay on &quot;The Origin of the work of art&quot;, and also reviewing some of the results of the analysis made by Michel Foulcault in his book, along with some thoughts of Arthur Danto.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Magritte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Foucault</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Arthur Danto</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Heidegger</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Arte e Realidade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Magritte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Foucault</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Arthur Danto</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Heidegger</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Art and Reality</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>O Belo e o Destino: uma introdução à Filosofia de Hegel</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Kátia Silva Araújo</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>458-464</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0></s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611225</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="">
+<s0></s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>As filosofias de Schelling</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Emília Assis Lima</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>465-469</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0></s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611226</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="">
+<s0></s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Nietzsche e o renascimento do trágico</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Roberto Machado</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal do Rio de Janeiro Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>174-182</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>2</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611203</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O objetivo deste artigo é expor como a proposta de renascimento do trágico existente em O nascimento da tragédia insere o primeiro livro de Nietzsche no projeto cultural iniciado por Winckelmann, Goethe e Schiller, na segunda metade do século XVIII, que privilegia a arte grega como modelo da arte alemã. Destacarei, para isso, tanto as continuidades entre os dois momentos quanto as descontinuidades que Nietzsche introduz nesse projeto clássico da intelectualidade alemã ao pensar a cultura grega a partir da filosofia de Schopenhauer e da música de Wagner.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>The purpose of this article is to discuss Nietzsche's theory on the rebirth of the tragic presented in his early writings as part of the German cultural project introduced by Winckelmann, Goethe and Schiller in the second half of the 18th century. Departing from the idea that this project established Greece as a model to be followed by Germany, I will point out Nietzsche's supporting views to it as well as his innovative idea of bringing together the philosophy of Schopenhauer and the music of Wagner to think the Greek culture.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Arte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Trágico</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Grécia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Alemanha</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Art</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Tragic</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Greece</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Germany</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>112</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>O trágico, o cômico e a &quot;distância artística&quot;: arte e conhecimento n'A Gaia Ciência, de Nietzsche</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Ernani Chaves</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal do Pará Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>273-282</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>13</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611211</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>A partir da leitura de A Gaia Ciência, pretendemos mostrar alguns elementos importantes que, nesse livro, se constituem em torno do tema da &quot;distância&quot;. Analisando principalmente três aforismos do livro, procura-se esclarecer o deslocamento no texto e no pensamento de Nietzsche da distância como Ferne, de origem romântica, à distância como Distanz. Entretanto, procura-se ao final mostrar que Nietzsche desloca o tema romântico da Ferne, caracterizando-a como uma &quot;distância artística&quot;, que se torna o traço distintivo entre a perspectiva da arte e a perspectiva do conhecimento.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This reading of The Gay Science intends to show some important elements which, in this book, gravitate around the theme of &quot;distance&quot;. Analysing particularly three aphorisms of the book, our goal is to clarify the movement, in the text and in Nietzsche's thought as well, from distance as Ferne, with its romantic source, to distance as Distanz. However, in the end, we intend to show that Nietzsche dislocates the romantic theme of the Ferne, taking it as an &quot;artistic distance&quot;, which becomes the distinctive trace between the perspectives of art and knowledge.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Distância</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Trágico</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Cômico</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Arte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Conhecimento</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Distance</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Tragic</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Comic</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Art</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Knowledgement</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>111</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Homenagem a Richard H. Popkin (*1923 - dagger2005)</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>José Raimundo Maia Neto</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>7-8</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0></s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611101</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="">
+<s0></s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>111</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>O Platonismo de Russell na metafísica e na matemática</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Guido Imaguire</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal do Ceará Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>9-28</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>36</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611102</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Neste artigo, analiso o surgimento e a superação do Platonismo em B. Russell, tanto na sua filosofia da matemática como na sua metafísica. Começo por explicitar os argumentos que levaram Russell a aderir ao chamado &quot;Platonismo Proposicional&quot; - posição que será tecnicamente relevante na definição de números. Na seção seguinte, discutirei até que ponto a teoria das descrições definidas determina, necessariamente, uma adesão ao nominalismo, e as dificuldades que surgem para o logicismo conseqüentes do abandono do platonismo. Finalmente, mostrarei como a posição madura de Russell caracteriza-se mais como um reducionismo do que propriamente como um nominalismo, e como este é fundado no princípio do mínimo vocabulário.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>In this paper, I analyze the emergence and the overcoming of Platonism both in Russell's philosophy of mathematics and his metaphysics. I begin by examining the arguments which led Russell to endorse a position that I term &quot;Propositional Platonism&quot; - this position proves to be relevant for Russell's definition of numbers. In the following section, I address the question of the extent to which Russell's theory of descriptions implies the acceptance of nominalism. Moreover, I examine the difficulties which arise for logicism, if it no longer goes hand in hand with platonism. Finally, I argue argue that Russell's mature position is to be characterized as a form of reductionism rather than as a variant of nominalism</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Filosofia da Matemática</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Metafísica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Russell</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Philosophy of Mathematics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Metaphysics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Russell</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>111</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>O tecido quebradiço das ilusões: Nietzsche sobre a origem da arte e da linguagem</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Mirko Wischke</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Centro de Pesquisa em Filosofia de Língua Alemã de Olmütz  </s1>
+<s2> </s2>
+<s3>República Tcheca</s3>
+</fA14>
+<fA20 dir="000000">
+<s1>29-43</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>25</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611103</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Este artigo trata de duas questões suscitadas em &quot;Tentativa de uma autocrítica&quot;: como conceber um pessimista sorridente e alegre que esquece com uma risada todo &quot;conforto metafísico&quot; e como reconciliar sua posição ontológica - não há ser, mas devir - com sua concepção da tarefa da arte. O autor aborda a concepção nietzscheana da aparência (Schein) como uma estrutura epistemológica que coloca a ontologia e a filosofia da arte de Nietzsche no contexto de uma concepção de linguagem, levando-o a requerer dos filósofos que eles criem novos valores</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This article addresses two questions concerning Nietzsche's &quot;Attempt at Self-Criticism&quot;: how are we to conceive of a joyful pessimist, who forgets with a laugh all &quot;metaphysical comfort-taking&quot;? And how are we to reconcile his ontological position - according to which there is no being, but only becoming - with his conception of the task of art? The author regards Nietzsche's conception of appearance (Schein) as an epistemological framework that places ontology and philosophy of art in the context of a conception of language leading Nietzsche to demand of philosophers that they create new values</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Consolo Metafísico</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Linguagem</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Arte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Valores</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Metaphysical Solace</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Language</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Art</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Values</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>111</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Fé, razão e crença na apologia Raymond Sebon: somos cristãos como somos perigordinos ou alemães?</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Telma de Souza Birchal</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>UFMG Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>44-54</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>11</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611104</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O presente artigo procura analisar a noção de fé em Montaigne, confrontando-a com as idéias de razão e de crença, e também em sua relação com o lugar que é conferido à autoridade pelo autor dos Ensaios. Discute-se principalmente a interpretação bastante estabelecida de que o ceticismo de Montaigne reduziria a fé à esfera das crenças e dos costumes.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This paper analyzes Montaigne's concept of &quot;faith&quot;, in comparison with the concepts of &quot;reason&quot; and &quot;belief&quot;, and in relation to the place assigned to authority by the author of the Essays. The paper mainly discusses the traditional interpretation's claim that Montaigne's skepticism would reduce faith to the sphere of customs and beliefs.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Montaigne</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Ceticismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Fé</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Crença</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Razão</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Montaigne</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Skepticism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Faith</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Belief</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Reason</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>111</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>O igualitarismo liberal de Dworkin</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Darlei Dall'Agnol</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Santa Catarina Centro de Filosofia e Ciências Humanas </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>55-69</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>15</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611105</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O presente artigo apresenta os principais componentes da filosofia política de Dworkin, aqui chamada de &quot;igualitarismo liberal.&quot; Para atingir esse objetivo, reconstrói a sua teoria do Direito e sua compreensão do direito fundamental de todos cidadãos ao igual respeito e consideração. Além disso, discute criticamente a sua tentativa de compatibilizar essa igualdade formal, bem como uma concepção mais substancial de igualdade, com a liberdade.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This paper sorts out the main elements in Dworkin's political philosophy here called &quot;liberal igualitarianism.&quot; To reach this aim, it reconstructs his conception of Law and his understanding of the citizens' most fundamental right to equal respect and concern. Moreover, it analyzes his attempt to reconcile this formal equality, as well as a more substantial equality, with freedom</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Liberalismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Direito</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Igualdade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Liberdade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Dworkin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Liberalism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Law</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Equality</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Freedom</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Dworkin</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>111</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Afinidades eletivas e pensamento econômico: 1870-1914</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>João Antônio de Paula</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Faculdade de Ciências Econômicas/CEDEPLAR </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>70-90</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>26</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611106</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O artigo busca mostrar a aplicabilidade do conceito de &quot;afinidades eletivas&quot; para tratar das relações entre o pensamento econômico, a literatura e a filosofia. Em particular destaca-se o pensamento institucionalista, a escola histórica alemã e o pensamento neoclássico</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This article seeks to demonstrate that the concept of &quot;elective affinities&quot; can be applied to the relations between economic thought, literature, and philosophy. The institutionalist thought, the German historical school, and the neoclassical thought are particularly highlighted</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Pensamento Econômico</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Economia Política Clássica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Economia Neoclássica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Escola Histórica Alemã</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Institucionalismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Afinidades Eletivas</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Economic Thought</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Classical Political Economy</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Neoclassical Economics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>German Historical School</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Institutionalism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Elective Affinities</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>111</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Da soberania do inútil</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Antônio Teixeira</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Departamento de Psicologia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>91-103</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>31</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611107</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O autor demonstra, de início, a importância do aspecto qualitativo da percepção eliminado pelo saber científico no discurso poético. A seguir, salienta que a percepção dos elementos da natureza na forma de utensílios, através do trabalho, introduziu uma relação de exterioridade que interrompeu a forma original de participação subjetiva. Conclui discutindo, nos termos de uma relação de participação íntima, não instrumental, do sujeito para com o objeto, a noção freudiana de viscosidade da libido</s0>
+</fC01>
+<fC01 dir="en">
+<s0>From the beginning the author demonstrates the importance in poetic discourse of qualitative aspects of perception eliminated by scientific knowledge. The author then shows that the perception of nature as utensils through work has introduced a relationship of externality that has interrupted original subjective participation. He concludes by discussing in terms of an intimate relationship, not of an instrumental participation involving the subject and the object, the Freudian notion of libido's viscosity</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Inútil</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Trabalho</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Viscosidade da Libido</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Useless</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Work</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Libido's Viscosity</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>111</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>A Quixote mulher - ficção e filosofia</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Lívia Guimarães</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>104-116</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>3</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611108</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Neste artigo, apresento uma interpretação feminista do romance The Female Quixote, de Charlotte Lennox, publicado em 1752. Em minha hipótese, Lennox responde às acusações de que romances são falsos e, por isso, repreensíveis, ao defender o gênero enquanto instrumento de crítica social e meio de transmissão e obtenção de conhecimentos das mulheres. Assim, ao mesmo tempo em que atribui valor ético, político e epistêmico a narrativas ficcionais, ela contribui também para uma reconceptualização dos conceitos de &quot;verdadeiro&quot; e &quot;falso&quot;.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>I present in this paper a feminist interpretation of the novel The Female Quixote, by Charlotte Lennox. In my hypothesis, Lennox meets the charge of falsity leveled against early modern novels with a defense of the genre as a tool of social critique and a medium for the achievement and transmission of women's knowledge. Thereby she promotes a revision of the concepts of &quot;truth&quot; and &quot;falsity&quot;, while at the same time she endows fictional narratives with ethical, political and epistemic significance.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Ficção</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Filosofia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Quixote</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Mulher</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Lennox</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Fiction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Philosophy</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Quixote</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Female</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Lennox</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>111</s2>
+</fA06>
+<fA08 dir="en">
+<s1>On Intellectus Agens and Aristotellian separate substances: Aquinas' waterloo</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Hector Zagal</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidad Panamerica Facultad de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>117-137</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>en</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>3</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611109</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="en">
+<s0>The present paper deals with Saint Thomas's commentary to Aristotle's De Anima III, in wich we find the famous analogy of light. It is sustained that due to the limitations of the analogy, Saint Thomas is forced to introduce a series of Neo-platonic elements incompatible with Aristotle's philosophy. The author means to explain this &quot;betrayal&quot; to Aristotle's philosophy by one of his most credited commentators. It is concluded that in order to reconcile the pagan world with the Catholic theology, Thomas Aquinas needs to redirect Aristotle through a less economical argument; that is, the introduction of the Intellectus Agens</s0>
+</fC01>
+<fC01 dir="pt">
+<s0>Este artigo trata do comentário de São Tomás de Aquino ao De Anima III de Aristóteles, no qual se encontra a famosa analogia da luz. Sustenta-se que, devido às limitações da analogia, São Tomás é forçado a introduzir uma série de elementos neoplatônicos incompatíveis com a filosofia de Aristóteles. O intuito do autor é explicar essa &quot;traição&quot; à filosofia de Aristóteles, feita por um de seus comentadores mais abalizados. Conclui-se que, a fim de conciliar o mundo pagão com a teologia católica, Tomás de Aquino precisa redirecionar Aristóteles, através de uma argumentação menos econômica; isto é, através da introdução do Intellectus Agens</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Mind</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Medieval Philosophy</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Intellect</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Soul</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Knowledge</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Mente</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Filosofia Medieval</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Intelecto</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Alma</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Conhecimento</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>46</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>111</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>As simetrias do modelo hempeliano de explicação</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Túlio Roberto Xavier de Aguiar</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Ouro Preto Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>138-152</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2005</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>11</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(05)04611110</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Este artigo faz um exame crítico do modelo nomológico dedutivo de Hempel. Nós focalizamos a atenção sobre certas simetrias desse modelo geradas pela exigência de condições nomicamente suficientes para uma explicação. Tais condições, argüimos, são incapazes de traduzir corretamente as relações explanatórias e causais.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This article critically examines Hempel's deductive-nomological model. We focus on the model's symmetries produced by requirements of nomic sufficient conditions for explanations. Such conditions, we argue, cannot translate correctly the explanatory and causal relations.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Hempel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Explicação</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Causação</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Condições Suficientes</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Hempel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Explanation</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Causation</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Sufficient Conditions</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>110</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Apresentação</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Ernesto Perini-Santos</s1>
+<afiliation></afiliation>
+</fA11>
+<fA11 dir="021000">
+<s1>Virginia Figueiredo</s1>
+<afiliation></afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>207-208</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0></s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04511001</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="">
+<s0></s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>110</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>O papel das vivências no Aufbau</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Sofia Inês Albornoz Stein</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Pelotas Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>224-237</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>15</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04511003</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Este artigo faz a análise de alguns aspectos do sistema de constituição do Logische Aufbau der Welt (A construção lógica do mundo) de Rudolf Carnap, tendo em vista duas possíveis interpretações da base autopsicológica escolhida pelo autor, ou seja, das vivências. Alguns autores, como Michael Friedman e Moulines, vêem o Aufbau como sendo um sistema estrutural cujas formas não são determinadas pelas experiências básicas - pelas vivências. Outros, como, por exemplo, Stegmüller, afirmam que as estruturas, as definições do Aufbau, resultam de relações que podem ser estabelecidas entre estas. Acompanhando os argumentos desses intérpretes e a proposta epistemológica do próprio Carnap, sustento a necessidade de pensar a base autopsicológica, as vivências, como determinantes das relações estruturais do Aufbau.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This paper is an analysis of some aspects of the constitutional system of Carnap's Logische Aufbau der Welt. It considers two possible interpretations of the autopsychological basis - the elementary experiences - as this concept is used in Carnap's book. Some authors, like Michael Friedman and Moulines, see the Aufbau as a structural system whose forms are not determined by basic experiences - elementary experiences. Others, as for instance Stegmüller, say that the structures, the definitions, within the Aufbau are the result of relations which can be established among those experiences. Following the arguments of these interpreters as well as Carnap's epistemological proposal, I sustain in this paper that it is necessary to think about the autopsychological basis - the elementary experiences - as determining Aufbau's structural relations.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Rudolf Carnap</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>sistema de constituição</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>vivências</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>empirismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>estruturalismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Rudolf Carnap</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>constructional system</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>elementary experiences</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>empiricism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>structuralism</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>110</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Conteúdo não conceitual, holismo e normatividade</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Ernesto Perini-Santos</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>238-263</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>35</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04511004</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>A atribuição de conteúdos não conceituais serve à explicação da riqueza da experiência. No entanto, a integração de estados perceptivos, através do tempo e entre diferentes modalidades, necessários à constituição da experiência, parece dever apelar a um vocabulário conceitualista, ao qual se aplicam princípios de racionalidade. Procuro neste artigo contestar esta segunda tese: conteúdos não conceituais são parte da experiência humana, que é organizada de acordo com princípios racionais. A integração da experiência não depende de um vocabulário conceitualista, no entanto, princípios de racionalidade aplicam-se à integração própria à experiência humana. Conteúdos não conceituais são parte da experiência e a eles se aplicam princípios de racionalidade, mesmo se só podem ser atribuídos em um determinado curso de ações e identificados por meio de mecanismos demonstrativos, precisamente porque não são recrutados em conceitos.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>The attribution of non-conceptual contents aims at a fine-grained description of experience. But it seems that the integration of different perceptual states, necessary to constitute the experience, demands a conceptual vocabulary, to which rational constraints apply. In this paper, I argue against this second thesis: non-conceptual contents are part of human experience, organized according to rational constraints. Integration of experience does not demand a conceptual vocabulary, although rational constraints apply to the integration of human experience. Non conceptual contents are part of human experience, and therefore are subject to rational constraints, even if they can only be attributed in a given course of actions, and identified through demonstrative devices, precisely because they are not regimented by concepts.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Conteúdo não conceitual</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>externalismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>normatividade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>holismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Non-conceptual content</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>externalism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>normativity</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>holism</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>110</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>O sensível e o inteligível: Merleau-Ponty e o problema da racionalidade</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Luiz Damon Santos Moutinho</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal do Paraná  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>264-293</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>16</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04511005</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Este artigo investiga a crítica merleau-pontiana ao idealismo moderno a partir do modelo reflexivo adotado por este último. Procura mostrar a necessidade em que o filósofo se vê de superar a separação entre o domínio da &quot;sensibilidade&quot; e do &quot;entendimento&quot;, como condição para redefinir o problema da racionalidade. Procura mostrar ainda que a &quot;reflexão radical&quot; proposta por Merleau-Ponty, em oposição à reflexão idealista, leva-o a retomar as tarefas que outrora cabiam à metafísica clássica.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This paper investigates Merleau-Ponty's criticism of modern idealism, which stems from the reflective model adopted by the latter. It aims at showing the need the philosopher has of going beyond the separation between the realm of &quot;sensitivity&quot; and the one of &quot;understanding&quot;, as a condition to redefine the problem of rationality. It aims also at showing that the &quot;radical reflection&quot; proposed by Merleau-Ponty, as opposed to idealistic reflection, leads him to resume the tasks that used to be dealt with by classical metaphysics.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Merleau-Ponty</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>idealismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>sensibilidade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>entendimento</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>racionalidade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Merleau-Ponty</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Idealism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>sensitivity</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>understanding</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>rationality</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>110</s2>
+</fA06>
+<fA08 dir="en">
+<s1>Prolegomenon for an ethics of visibility in Hannah Arendt</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Bethânia Assy</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Estadual do Rio de Janeiro Departamento de Direito </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>294-320</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>en</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>33</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04511006</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="en">
+<s0>This paper aims to discuss the Arendtian notions of appearance and perception in order to promote a displacement of those conceptions from the generally associated domain of passive apprehension of the faculty of knowledge towards the domain of a praxiology of action and language, based on an active perception. Arendt's appropriations on the Heideggerian &quot;to take one's &lt;it&gt; place&quot; (sich hin-stellen) will be discussed, as well as the Augustinian &quot;finding oneself in the world&quot; (diligere). A twofold disposition of appearance will be distinguished: producing and position, whose transposed to the Arendtian notion of world correspond, respectively, to fabrication (poiesis) of the world, man's objective in-between space, and to action (praxis) in the world, man's subjective in-between space. Those conceptual replacements, in a broad sense, uphold a closer imbrication between the activities of the mind and acting, stricto sensu, and consequently, foment not only the valorization of the public space, but the visibility of our acts and deeds as well, calling out the dignity of appearance in ethics.</s0>
+</fC01>
+<fC01 dir="pt">
+<s0>Este trabalho tem como objetivo discutir as noções arendtianas de aparência e percepção, a fim de promover um deslocamento dessas concepções do domínio geralmente associado da apreensão passiva da faculdade de conhecimento em direção a uma praxiologia da ação e da linguagem, baseada na percepção ativa. As apropriações de Arendt do &quot;apresentar-se como&quot; (sich hin-stellen) heideggeriano serão discutidas, bem como o &quot;achar-se no mundo&quot; (diligere) agostiniano. Será feita a distinção de uma dupla disposição da aparência: produção e posição, que transpostas para a noção arendtiana de mundo correspondem, respectivamente, à fabricação (poiesis) do mundo, o espaço-entre objetivo do homem, e à ação (praxis) no mundo, o espaço-entre subjetivo do homem. Essas substituições conceituais, em sentido mais amplo, sustentam uma imbricação mais próxima entre as atividades da mente e a atuação, stricto sensu e, conseqüentemente, fomentam não só a valorização do espaço público, como também a visibilidade de nossas ações e feitos, evocando a dignidade da aparência na ética.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Ethics of visibility</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Hannah Arendt</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Martin Heidegger</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Active Perception</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Appearance</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Ética da visibilidade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Hannah Arendt</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Martin Heidegger</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>percepção ativa</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>aparência</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>110</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Meta-estética e ética francesa do sentido (Derrida, Deleuze, Serres, Nancy)</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Stéphane Huchet</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Escola de Arquitetura </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>321-349</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>21</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04511007</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>&quot;Meta-estética e ética francesa do sentido&quot; é uma análise de alguns conceitos formadores do chamado &quot;pós-estruturalismo&quot; e de certos aspectos de sua seqüência histórica. Através de fontes textuais de pensadores que ocupam um momento significativo da produção filosófica internacional, com Jacques Derrida, Gilles Deleuze, Michel Serres e Jean-Luc Nancy, dos anos sessenta até os noventa, o texto coloca em perspectiva conceitos nevrálgicos e estratégicos ressituados nas suas implicações críticas. A manifestação das convergências ligando os pensamentos desses quatro filósofos permite ressaltar os bastidores especulativos de uma &quot;condição poética do pensamento&quot; (Alain Badiou) delineando os contornos de uma meta-estética do sentido que é ao mesmo tempo uma ética. Essa fusão, bem sintetizada na fórmula de Michel Serres, que diz que &quot;a moral é a física&quot;, é determinada pelas elaborações, as experimentações e as conquistas realizadas na filosofia derridiana da desconstrução, na filosofia deleuziana do conceito, na filosofia serresiana da física e na filosofia nancyana da arealidade. Os processos em jogo nesses sistemas tentam descobrir nos estratos aporéticos do pensamento as chances de induzir uma cosmologia paradoxal e inaudita.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>&quot;Meta-aesthetic and French ethics of sense&quot; analyses some concepts which shape the so-called &quot;post-structuralism&quot; and some aspects of its historical sequencing. Through textual sources of thinkers which determine a very significant moment of the international philosophical production, such as Jacques Derrida, Gilles Deleuze, Michel Serres and Jean-Luc Nancy, it leads from the sixties to the nineties, the text puts into perspective some crucial and strategic concepts replaced in its critical implications. The manifestation of the convergences that link the ideas of these four philosophers enables to enforce the speculative background of what Alain Badiou calls the &quot;poetical condition of thinking&quot;, delimiting the outlines of a meta-aesthetic of sense which, at the same time, is an ethics. This coalescing, so well summarized by Michel Serres' formula - &quot;morals is physics&quot; - is determined by the elaborations, the experimentations and the conquests carried out by the Derridian philosophy of deconstruction, the Deleuzian philosophy of concept, the Serresian philosophy of physics and the Nancyan philosophy of areality. The at stake betted in these &quot;systems&quot; try to discover in the aporetical stratum of thinking the chances to induce a paradoxical and unheard cosmology.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Meta-estética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>desconstrução</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>conceito</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>geo-ética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>arealidade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>evento</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Meta-aesthetics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Desconstruction</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Concept</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Geo-ethics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Areality</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Event</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>110</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Animais, homens e sensações segundo Descartes</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Ethel Menezes Rocha</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal do Rio de Janeiro IFCS Departamento de Filosofia</s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>350-364</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>05</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04511008</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O objetivo central deste artigo é examinar em que sentido Descartes está efetivamente comprometido com a tese forte de que, no caso dos animais não-humanos, não há sensação propriamente dita, mas apenas movimentos da matéria, e em que sentido os argumentos em favor dessa tese tornam problemática a tese, com a qual Descartes também se diz comprometido, de que todos os animais humanos têm sensações.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>My main purpose in this article is to analyze the extent to which Descartes is indeed commited to with the strong claim that, in the case of non-human animals, there are no sensations, but rather only movements of matter, and analyze to what extent his arguments in favor of this claim makes problematic the other claim to which he also seems to be committed, that is, that all human animals have sensations.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Sensações</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>máquinas</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>animais</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Sensations</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Machines</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Animals</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>110</s2>
+</fA06>
+<fA08 dir="fr">
+<s1>Être et don: Simone Weil et la philosophie</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Fernando Rey Puente</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>365-371</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0></s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04511009</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="">
+<s0></s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>110</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Epistemologia das Ciências Humanas _ Tomo 1: Positivismo e Hermenêutica</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Guaracy Araújo</s1>
+<afiliation>A01 A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Pontifícia Universidade Católica de Minas Gerais Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>Universidade Federal de Minas Gerais  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>372-375</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0></s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04511010</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="">
+<s0></s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>110</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>O pensamento sem estaca zero (A mentalidade externalista e as razões nossas de cada dia)</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Hilan Bensusan</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade de Brasília Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>209-223</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>18</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04511002</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O reconhecimento de uma autoridade (de fatos, de observações compartilhadas, de princípios comumente aceitos etc.) por parte de quem se convence é o que buscamos quando nos engajamos em uma prática de oferecer razões para um pensamento ou uma ação. Parece que o ato do reconhecimento é um elemento constitutivo do estado em que temos (ou aceitamos) razões. Por outro lado, muitas vezes estamos inclinados a dizer que temos ou não temos razão; como se, caso a tenhamos, o reconhecimento da autoridade da nossa razão seja compulsório. Por vezes, quando nos movemos no espaço das razões, temos a impressão de que elas já estão lá, de que elas são independentes do nosso melhor julgamento, e o melhor que temos a fazer é aprender a ficar sensíveis a elas. Neste texto examino o realismo quanto a razões como uma formulação do externalismo e considero as conexões entre externalismo em semântica e em epistemologia. Argumento que um realismo quanto a razões pode fazer uso de uma estratégia davidsoniana para conciliar a idéia de que razões estão no mundo com a concepção destas últimas segundo a qual o reconhecimento lhes é constitutivo.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>When we offer reasons for a belief or an action we prompt the audience to recognize authorities (of facts, of shared observations, of commonly held principles etc.). This recognition seems to be constitutive of the very state we find ourselves in when we have or accept reasons. On the other hand, often we are inclined to say that either we have or we don't have reasons for something; we sound as if in case we have reasons, their acceptance is compulsory. Sometimes, when we move in the space of reasons we have the impression that reasons are already there, that they are independent from our best judgment and we should rather learn to be sensitive to their claim. In this paper I consider realism about reasons as a way of stating externalism and I then examine connections between externalism in semantics and in epistemology. I argue that a realism about reasons could make use of a Davidsonian strategy to put together the idea that reasons are in the world with the conception according to which recognition is part of what constitutes a reason.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Razões</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>externalismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Annerkenung</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Davidson</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Reasons</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>externalism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Annerkenung</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Davidson</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>109</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>A história como sacrifício em Blaise Pascal</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Luís César Guimarães Oliva</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade de São Paulo Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>7-31</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>23</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04510901</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Este trabalho desenvolve o tema da História em Pascal, bus­cando constituí-lo por meio da noção teológica de sacrifício. No contexto pascaliano, a História só é relevante enquanto História Espiritual, a história da salvação dos homens escolhidos entre os condenados pela queda adâmica. Como tal, a História não pode ser regida pela temporalidade vivida ordinaria­mente, mas pela temporalidade da graça, que direciona todos os instantes para o ponto central, o sacrifício de Jesus Cristo. Por isso, os homens só têm esperança de salvação na medida em que se integram ao Corpo Crístico, que prossegue em sacrifício desde o início até o fim dos tempos.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This work develops the theme of History in Pascal's thought through the theological notion of sacrifice. In Pascal's works, History is rele­vant only as Spiritual History, the history of salvation of the men that God has chosen among the sinners. As such, History cannot be guided by ordinary temporality, but only by graces temporality, that directs every single instant to the central point: the sacrifice of Christ. Because of that, men only have hope of salvation as long as they integrate Christ's holy Body that continues in sacrifice since the beginning until the end of Time.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>História</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Sacrifício</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Satisfação</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Partes do sacrifício</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Aniquilação</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Salvação</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>History</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Sacrifice</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Parties of the Sacrifice</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Annihilation</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Salvation</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>109</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Hegel e W. Benjamin: variações em torno da crise da arte na época moderna</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Marco Aurélio Werle</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade de São Paulo Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>32-45</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>15</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04510902</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Este artigo analisa e compara a reflexão de Hegel e de W. Benjamin sobre a crise da arte na época moderna, a partir de semelhanças e diferenças entre a tese do fim da arte, defendida pelo primeiro, e a concepção da perda da aura na arte, afirmada pelo segundo. Ao contrário de W Benjamin, que se detém na mudança do conceito de arte promovida pelos meios técnicos, Hegel pensa a transformação da arte a partir de um ponto de vista histórico amplo, que envolve toda a história da arte, desde os tempos antigos até a época moderna.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This article analyzes and compares Hegel's and W. Benjamin's reflections on the crisis of art in modern age, taking as its basis the resemblances and differences between (i) the thesis of the end of art, championed by the former, and (ii) the conception of aura decay in the work of art, posited by the latter. While W. Benjamin sticks to the change in the concept of art brought on by technique, Hegel considers the transformations in art from a broad historical point of view, from ancient times through modern age.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Hegel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>W. Benjamin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>estética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>idealismo alemão</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>fim da arte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Hegel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>W. Benjamin</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>aesthetics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>German Idealism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>end of the art</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>109</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>A morte e a vida da arte</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Márcia C. F. Gonçalves</s1>
+<afiliation>A01 A02</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Estadual do Rio de Janeiro  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA14 dir="020000">
+<s1>Freie Universität Berlin  </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>46-56</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>6</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04510903</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>Este artigo pretende oferecer uma re-interpretação da suposta tese hegeliana sobre o fim da arte. A especulação estética de Hegel não envolve uma constatação do fim da arte enquanto fenômeno histórico, mas apenas da sua transformação gradual a partir do predomínio da reflexão sobre intuição na idade moderna.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This article intends to offer a re-interpretation of Hegel s supposed thesis about the end of the art. Hegel's aesthetic speculation doesn't involve the verification of the end of the art as a historical phenomenon, but just of its gradual transformation starting from the prevalence of the reflection in the modern age.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Hegel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>estética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>fim da arte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>reflexão</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Hegel</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>aesthetics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>end of the art</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>reflection</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>109</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>A legalidade como forma de Estado de direito</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Delamar José Volpato Dutra</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Santa Catarina Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>57-80</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>14</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04510904</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O presente estudo visa a demonstrar que o Estado legal, assim como concebido por Weber e Kelsen, não pode ser identificado com o Estado de direito, mesmo que a legalidade seja uma condição necessária deste. Isso acontece porque a legalidade não é uma condição suficiente do Estado de direito em razão de não resolver adequadamente o que Habermas n&amp;#959;meia de dial&amp;#953;tica entre igualdade de fato e de direito. O texto apresenta, a seguir, a partir de Habermas, quatro fases de juridiciza&amp;#951;ão: 1] o Estado absolutista burguês; 2] o Estado burguês de direito; 3] o Estado democrático de direito e 4] o Estado social e democrático de direito. As três últimas fases são figurações conceituais do Estado de direito, regulando, verticalmente, a relação dos indivíduos para com o Estado e, horizontalmente, a relação para com o mercado. Por fim, apresentam-se os efeitos colaterais advindos de cada uma dessas fases de figuração do Estado de direito. Defende-se a tese de que tais efeitos são decorrência de uma perspectiva substancialista do Estado de direito, que interpreta os sujeitos apenas como atores, ou destinatários de direitos. Tais problemas são melhor resolvidos por uma perspectiva procedimental do Estado de direito, a qual, ao tratar os sujeitos como autores, pode contar com uma perspectiva autocorretiva dos problemas decorrentes do que Weber chamou de materialização do direito.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>In this paper I argue that legal state as presented by Weber and Kelsen cannot be identified with the rule of law, because legality is a necessary but not a sufficient condition for making it possible. The ultimate reason for this is that it doesn't solve what Habermas calls the &quot;dialectic of legal and factual equality&quot;. This paper presents three models of the rule of law, confronting them with the absolute state. These are the liberal, the democratic and the welfare state models. These regulate in different ways the relations both between the individual and the state and between individuals among themselves. Undesired effects of each model are also presented and discussed. It claims that these undesired effects stem from the fact that in each case we have to do with a substantive model of the rule of law, treating the subjects as mere addressees of the law Those problems are better solved by the procedural model of the rule of law proposed by Habermas, because it treats the subjects of rights as makers of the law.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Weber</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Kelsen</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Habermas</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Estado de direito</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>legalidade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Weber</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Kelsen</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Habermas</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>rule of law</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>legality</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>109</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Nietzsche e Platão: arte e orquestração das paixões</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Luzia Gontijo Rodrigues</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Instituto Santo Inácio (ISI-CES) Faculdade de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>136-158</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>29</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04510906</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O objetivo deste texto é apontar os pontos de proximidade e de diferença entre as reflexões de Nietzsche e de Platão sobre o papel da arte para o autogoverno do indivíduo e a autonomia e soberania da cultura.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This article aims to show the points of difference and affinities between Nietzsche's and Plato's thoughts on the role of the art in the individual self-governing and sovereign of culture.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>arte</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>cultura</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>autonomia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>autodisciplina</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>art</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>culture</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>autonomy</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>self-discipline</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>109</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Ética, ciência e tecnologia</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Ivan Domingues</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>159-174</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>12</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04510907</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O artigo visa pensar a relação entre ética, ciência e tecnologia, enfatizando o problema de sua revinculação depois da cisão entre os juízos de fato e os juízos de valor, ocorrida no início dos tempos modernos. Uma vez examinada a ética da aristocracia guerreira e a moral do santo, procura-se delinear o caminho tomando como referência a ética da responsabilidade, cujo protótipo é a moral do sábio, desaparecido no curso dos tempos modernos, em razão da fragmentação do saber e do advento do especialista. Ao fim do estudo, é discutida a relação entre a ética e a metafísica, com o intuito de ajustar a questão antropológica à perspectiva cosmológica, bem como de fornecer as bases de um novo humanismo, objetivando a humanização da técnica e a geração de um novo homem, alfabetizado em ciência, tecnologia e humanidades.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>The article aims at thinking the relation among ethics, science and technology, emphasizing the problem of their re-tying, after the division into judgments of fact and judgments of value, wich happened in the begininning of modern times. Since the warlike aristocracy's ethics and the saint man's moral are examined, it tries to outline its way, taking as a reference the ethics of responsability, whose prototype is the wise man's moral, which disappeared in the course of modern times, due to the fragmentation of knowing and the advent of the specialist. At the end of the study, the relationship between ethics and metaphysics is discussed, aiming at adjusting the anthropological question to the cosmological perspective, as well as at providing the bases of a new humanism, objectifying the humanization of the technique and the generation of a new man, literate at science, technology and the humanities.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>ética</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>ciência</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>tecnologia</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>nihilismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>ethics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>science</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>tecnology</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>nihilism</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>109</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Possibilidade, compossibilidade e incompossibilidade em Leibniz</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Edgar Marques</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Estadual do Rio de Janeiro Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>175-187</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>15</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04510908</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="pt">
+<s0>O presente artigo tem por objetivo tornar claro que há um problema referente à origem da incompossibilidade na metafísica de Leibniz, fornecendo, em um segundo momento, uma resposta ao problema.</s0>
+</fC01>
+<fC01 dir="en">
+<s0>This paper aims to make evident that there is a problem concerning the origin of incompossibility in Leibniz 's metaphysics. It presents, in a second moment, a solution to this problem.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Leibniz</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>metafísica</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>possiblidade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>compossibilidade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>incompossibilidade</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Leibniz</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>metaphysics</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>possibility</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>compossibility</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>incompossibility</s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>109</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>A propósito de &quot;possibilidade, compossibilidae e incompossibilidade em Leibniz&quot;, de Edgar Marques</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Déborah Danowski</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Pontifícia Universidade Católica do Rio de Janeiro Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>188-190</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0></s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04510909</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="">
+<s0></s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>109</s2>
+</fA06>
+<fA08 dir="pt">
+<s1>Teoria crítica da indústria cultural</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>Verlaine Freitas</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>Universidade Federal de Minas Gerais Departamento de Filosofia </s1>
+<s2> </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>191-198</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>pt</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0></s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04510910</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="">
+<s0></s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+</record>
+<record label="">
+<fA01 dir="011000">
+<s0>0100-512X</s0>
+</fA01>
+<fA03 dir="001000">
+<s0>Kriterion</s0>
+</fA03>
+<fA05 dir="000000">
+<s2>45</s2>
+</fA05>
+<fA06 dir="000000">
+<s2>109</s2>
+</fA06>
+<fA08 dir="en">
+<s1>A quasi-materialist, quasi-dualist solution to the mind-body problem</s1>
+</fA08>
+<fA11 dir="011000">
+<s1>John-Michael Kuczynski</s1>
+<afiliation>A01</afiliation>
+</fA11>
+<fA14 dir="010000">
+<s1>University of California Departamento de Filosofia </s1>
+<s2>Santa-Bárbara </s2>
+<s3></s3>
+</fA14>
+<fA20 dir="000000">
+<s1>81-135</s1>
+</fA20>
+<fA21 dir="000000">
+<s1></s1>
+</fA21>
+<fA23 dir="010000">
+<s0>en</s0>
+</fA23>
+<fA43 dir="010000">
+<s1>0100-512X</s1>
+<s2>2004</s2>
+</fA43>
+<fA45 dir="000000">
+<s0>14</s0>
+</fA45>
+<fA47 dir="011000">
+<s0>S0100-512X(04)04510905</s0>
+</fA47>
+<fA60 dir="000000">
+<s1>P</s1>
+</fA60>
+<fA61 dir="000000">
+<s0>A</s0>
+</fA61>
+<fA64 dir="011000">
+<s0></s0>
+</fA64>
+<fA66 dir="010000">
+<s0></s0>
+</fA66>
+<fC01 dir="en">
+<s0>If the mental can affect, or be affected by, the physical, then the mental must itself be physical. Otherwise the physical world would not be explanatorily closed. But it is closed. There are reasons to hold that materialism (in both its reductive and non-reductive varieties) is false. So how are we to explain the apparent responsiveness of the physical to the mental and vice versa? The only possible solution seems to be this: physical objects are really projections or isomorphs of objects whose essential properties are mental. (A slightly less accurate way of putting this would be to say: the constitutive - i.e. the non-structural and non-phenomenal - properties of physical objects are mental, i.e. are such as we are used to encountering only in &quot;introspection&quot;.) The chair, qua thing that I can know through sense perception, and through hypotheses based strictly thereupon, is a kind of shadow of an object that is exactly like it, except that this other objects essential properties are mental. This line of thought, though radically counterintuitive, explains the apparent responsiveness of the mental to the physical, and vice versa, without being open to any of the criticisms to which materialism, dualistic interaction ism, and epiphenomenalism are open.</s0>
+</fC01>
+<fC01 dir="pt">
+<s0>Se o mental pode afetar ou ser afetado pelo físico, então o mental deve ser ele mesmo físico. Se não fosse assim, as explicações do mundo físico não poderiam ser fechadas - e elas são fechadas. Há razões para se pensar que o materialismo é falso, tanto em suas versões redutivistas quanto nas não redutivistas. Mas como explicar então a aparente sensibilidade do físico ao mental e do mental ao físico? A única solução possível parece ser a seguinte: objetos físicos são na realidade projeções ou isomorfos de objetos cujas propriedades essenciais são mentais. Um modo um pouco menos preciso de apresentar essa tese é o de dizer que propriedades constitutivas, i.e. não estruturais e não fenomenais, de objetos físicos são mentais, i.e. são propriedades tais as que habitualmente encontramos apenas por &quot;introspecção&quot;. A cadeira, na medida em que a conheço através da percepção sensorial e de hipóteses estritamente baseadas na percepção, é um tipo de sombra de um objeto que é exatamente como ela, com a única diferença de suas propriedades essenciais serem mentais. Esse raciocínio, embora radicalmente contraintuitivo, explica a aparente sensibilidade do mental ao físico e inversamente, sem se expor às críticas feitas ao materialismo, ao interacionismo dualista e ao epifenomenalismo.</s0>
+</fC01>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Philosoph of the mind</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Problem of the Body-Mind</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Physicalism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="en">
+<s0>Dualism</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="">
+<s0></s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Filosofia da mente</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Problema do Corpo-Mente</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Fisicalismo</s0>
+<s4></s4>
+</fC03>
+<fC03 dir="pt">
+<s0>Dualismo</s0>
+<s4></s4>
+</fC03>
+</record>
+</recordset>

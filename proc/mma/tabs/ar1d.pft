@@ -1,0 +1,5 @@
+  /* sort desc by length
+  */
+  proc('d2'(e1:=size(v2),if e1>2 then '<2 0>'f(999-e1,3,0)v2'</2>' fi))
+  proc('s2')
+  proc('d2'|<2 0>|v2*3|</2>|)

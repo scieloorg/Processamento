@@ -1,0 +1,1000 @@
+   87  wc -l URLDATASUSnok.txt |cut -d " " -f "1"
+   88  echo "Bataipora|Bataypora"                             >city_alt.seq
+   89  echo "Jamari|Candeias do Jamari"                      >>city_alt.seq
+   90  echo "Itamaraca|Ilha_de_Itamaraca"                    >>city_alt.seq
+   91  echo "Picarras|Balneario_de_Picarras"                 >>city_alt.seq
+   92  mx seq=city_alt.seq create=tabs/city_alt -all now
+   93  rm city_alt.seq
+   94  echo " |_"  >gcharurl.seq
+   95  echo "'"   >>gcharurl.seq
+   96  mx seq=gcharurl.seq create=tabs/gcharurl -all now
+   97  rm gcharurl.seq
+   98  mx xa btell=0 t=m lw=999 gizmo=$TABS/gansna gizmo=tabs/city_alt gizmo=tabs/gcharurl,4 "pft=v8,'|http://tabnet.datasus.gov.br/tabdata/cadernos/',v5,'/',v5,'_',replace(v4,' ','_'),'_Geral.xls'/" now | sort -u > URLDATASUS2v.txt
+   99  java -cp ../tpl.org/CheckLinksII.jar checkLinks.FileCheckUrls URLDATASUS2v.txt ../outs/URLDATASUS_ok.txt ../outs/URLDATASUSnok.txt
+  100  if [ `wc -l ../outs/URLDATASUSnok.txt |cut -d " " -f "1"` -ne "0" ]; then   mail -s "[SciELO.ORG] Lista de link DATASUS quebrados" "francisco.lopes@bireme.org" < ../outs/URLDATASUSnok.txt; fi
+  101  less ../outs/URLDATASUSnok.txt
+  102  echo "Bataipora|Bataypora"                             >city_alt.seq
+  103  echo "Jamari|Candeias do Jamari"                      >>city_alt.seq
+  104  echo "Itamaraca|Ilha_de_Itamaraca"                    >>city_alt.seq
+  105  echo "Picarras|Balneario_Picarras"                    >>city_alt.seq
+  106  mx seq=city_alt.seq create=tabs/city_alt -all now
+  107  rm city_alt.seq
+  108  mx xa btell=0 t=m lw=999 gizmo=$TABS/gansna gizmo=tabs/city_alt gizmo=tabs/gcharurl,4 "pft=v8,'|http://tabnet.datasus.gov.br/tabdata/cadernos/',v5,'/',v5,'_',replace(v4,' ','_'),'_Geral.xls'/" now | sort -u > URLDATASUS2v.txt
+  109  java -cp ../tpl.org/CheckLinksII.jar checkLinks.FileCheckUrls URLDATASUS2v.txt ../outs/URLDATASUS_ok.txt ../outs/URLDATASUSnok.txt
+  110  less URLDATASUSnok.txt 
+  111  less ../outs/URLDATASUSnok.txt 
+  112  mail -s "[SciELO.ORG] Lista de link DATASUS quebrados" "francisco.lopes@bireme.org" < ../outs/URLDATASUSnok.txt
+  113  cat ../outs/URLDATASUSnok.txt 
+  114  cat ../outs/URLDATASUSnok.txt | cut -d "|" -f "2"
+  115  cat ../outs/URLDATASUSnok.txt | cut -d "|" -f "2"
+  116  cat ../outs/URLDATASUSnok.txt | cut -d "|" -f "2" | cut -c30-
+  117  cat ../outs/URLDATASUSnok.txt | cut -d "|" -f "2" | cut -c40-
+  118  cat ../outs/URLDATASUSnok.txt | cut -d "|" -f "2" | cut -c46-
+  119  cat ../outs/URLDATASUSnok.txt | cut -d "|" -f "2" | cut -c49-
+  120  cat ../outs/URLDATASUSnok.txt | cut -d "|" -f "2" | cut -c50-
+  121  cat ../outs/URLDATASUSnok.txt
+  122  cat ../outs/URLDATASUSnok.txt | cut -d "|" -f "2" | cut -c47-
+  123    echo "Lista de documentos nao encontrados ao testar o link:"   > mensagem.txt
+  124    echo ""                                                       >> mensagem.txt
+  125    echo "http://tabnet.datasus.gov.br/tabdata/cadernos/"         >> mensagem.txt
+  126    echo ""                                                       >> mensagem.txt
+  127    echo ""                                                       >> mensagem.txt
+  128    cat ../outs/URLDATASUSnok.txt | cut -d "|" -f "2" | cut -c47- >> mensagem.txt
+  129  less mensagem.txt 
+  130  mail -s "[SciELO.ORG] Lista de link DATASUS quebrados" "francisco.lopes@bireme.org" < mensagem.txt
+  131  ll *.sh
+  132  cd ../tpl.org
+  133  ll
+  134  less get_files.sh 
+  135  cd iso/art.chl
+  136  cd ../iso/art.chl
+  137  ll]
+  138  ll
+  139  scp serverafi:/bases/lnk.000/art.chl/artigo.iso .
+  140  scp serverofi:/bases/lnk.000/art.chl/artigo.iso .
+  141  vi get_files.sh 
+  142  vi ../../tpl.org/get_files.sh 
+  143  cd ../../
+  144  tpl.org/get_files.sh 
+  145  cd iso/art.chl
+  146  scp serverofi:/bases/lnk.000/art.chl/artigo.iso .
+  147  cd ../..
+  148  nohup ./tpl.org/ORG.sh >&outs/20070727.org.out &
+  149  less outs/20070727.org.out
+  150  less outs/20070727.org.out
+  151  exit
+  152  scielo.sp
+  153  mx ../bases/artigo/artigo
+  154  mx ../bases/artigo/artigo tp=h
+  155  mx ../bases/artigo/artigo tp=h iso=artigoh.iso -all now
+  156  mx ../bases/artigo/artigo tp=l iso=artigol.iso -all now
+  157  mx ../bases/artigo/artigo tp=i iso=artigoi.iso -all now
+  158  mx ../bases/artigo/artigo tp=c iso=artigoc.iso -all now
+  159  exit
+  160  cd /bases/scl.000/bases/artigo
+  161  ls
+  162  grep R ../tphaf.sh 
+  163  $LIND/mx artigo "TP=P"
+  164  $LIND/mx artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi"
+  165  $LIND/mx artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704'</704>'"
+  166  $LIND/mx artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi"
+  167  $LIND/mx artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704'</704><880 0>'v880'</880>'" 
+  168  $LIND/mx artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" 
+  169  $LIND/mx artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'"
+  170  cd ..
+  171  ls
+  172  cd aot
+  173  ls *.sh
+  174  cd ..
+  175  mkdir rogerio
+  176  cd rogerio
+  177  cat >delent.seq
+  178  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'"
+  179  $LIND/mx seq=delent.seq create=delent -all now
+  180  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'"
+  181  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'" "proc='Gsplit/clean=704'"
+  182  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'" "proc='Gsplit/clean=704'" 
+  183  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'" "proc='Gsplit/clean=704'" "proc='d704<704 0>'f(size(v704),1,0)'</704>'"
+  184  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'" "proc='Gsplit/clean=704'" "proc='d704<704 0>'f(size(v704),1,0)'</704>'" "proc='d704<704 0>'f(size(v704),1,0)'</704>'" to=100000 tab=704 now|sort
+  185  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'" "proc='Gsplit/clean=704'" "proc='d704<704 0>'f(size(v704),1,0)'</704>'" "proc='d704<704 0>'f(size(v704),1,0)'</704>'" to=100000 tab=v704 now|sort
+  186  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'" "proc='Gsplit/clean=704'" "proc='d704<704 0>'f(size(v704),1,0)'</704>'"
+  187  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'" "proc='Gsplit/clean=704'" "proc='d704<704 0>'f(size(v704),1,0)'</704>'" "tab/width:23/lines:300000/tab:704=v880" lw=0 now to=100>art_size.txt
+  188  more art_size.txt 
+  189  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'" "proc='Gsplit/clean=704'" "proc='d704<704 0>'f(size(v704),1,0)'</704>'" "tab/width:23/lines:300000/tab:704=v880" lw=0 now to=500>art_size.txt
+  190  more art_size.txt 
+  191  $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'" "proc='Gsplit/clean=704'" "proc='d704<704 0>'f(size(v704),1,0)'</704>'" "tab/width:23/lines:300000/tab:704=v880" lw=0 now >art_size.txt &
+  192  fg 1
+  193  nohup $LIND/mx ../artigo/artigo "TP=P" "proc=if p(v32701) then 'R../artigo/',v32701^*,',',v32701^m',' fi" "proc='d*<704 200>'v704^*'</704><880 0>'v880'</880>'" "proc='Gdelent,704'" "proc='Gsplit/clean=704'" "proc='d704<704 0>'f(size(v704),1,0)'</704>'" "tab/width:23/lines:300000/tab:704=v880" lw=0 now tell=100000 >art_size.txt &
+  194  ls
+  195  ls
+  196  ps
+  197  ls
+  198  ls
+  199  ls
+  200  ls
+  201  ls
+  202  ls
+  203  ls
+  204  more art_size.txt 
+  205  more art_size.txt 
+  206  more art_size.txt 
+  207  ll art_size.txt 
+  208  ls -lh art_size.txt 
+  209  exit
+  210  cd /bases/scl.000/scibiblio/bases/estat/artigo
+  211  mx dict=run/artigoc "pft=v1^k/" now
+  212  du -sh artigo co-autor jcr tab30
+  213  cd ..
+  214  du -sh artigo co-autor jcr tab30
+  215  du -sh artigo/artigonp.mst artigo/artigonp.xrf
+  216  cd artigo
+  217  cd ..
+  218  cd ..
+  219  cd ..
+  220  cd /bases/spa.000/scibiblio/bases/estat/artigo
+  221  mx dict=run/artigoc "pft=v1^k/" now
+  222  cd ..
+  223  du -sh artigo co-autor jcr tab30
+  224  exit
+  225  scielo.org
+  226  ll
+  227  ll outs -tr
+  228  less outs/20070727.org.out
+  229  cd iso
+  230  ll *.fst
+  231  vi ../tpl.org/GeraInvertidos.sh 
+  232  vi ../tpl.org/trfIndices.sh 
+  233  mz searchp from=DT_ to=DT_ +all
+  234  mx dict=searchp,1,2/1 k1=DT_ k2=DT_
+  235  mz searchp from=DT_ to=DT_
+  236  mz searchp from=DT_ to=DT_ now
+  237  exit
+  238  scielo.org
+  239  cd mma
+  240  vi ar1if.sh 
+  241  cd ..
+  242  vi tpl.org/ORG.sh 
+  243  ll *.out
+  244  less 20070727.gotphrelen.out
+  245  vi tpl.org/ORG.sh 
+  246  less 20070727.gotikwab.out
+  247  mv *.out outs
+  248  ll *out
+  249  ll
+  250  ll -tr
+  251  ll org.000.log
+  252  less org.000.log
+  253  rm org.000.log
+  254  ll
+  255  cd iso 
+  256  mx  ../afp/org710
+  257  mx  ../afp/org710
+  258  mx  ../afp/org710 "pft=mhu"
+  259  mx  ../afp/org710 gizmo=$TABS/gansuc
+  260  id2i $TABS/gansuc.id create=$TABS/gansuc
+  261  mx  ../afp/org710 gizmo=$TABS/gansuc
+  262  mx  ../afp/org710
+  263  mx  ../afp/org710
+  264  cd ../mma
+  265  mx xar2
+  266  mx xar2 from 10000
+  267  mx xar2 from=10000
+  268  mx xar2 from=20000
+  269  cd ..
+  270  less tpl.org/ORG.sh 
+  271  less tpl.org/ORG.sh 
+  272  exit
+  273  cd /bases/scl.000/bases/artigo
+  274  ls
+  275  cd /bases/spa.000/bases/artigo
+  276  ls
+  277  mx artigo 
+  278  mx artigo "tp=c"
+  279  mx artigo "tp=c and 0042-9686"
+  280  cat artigo.fst 
+  281  mz artigo
+  282  mx dict=artigo 
+  283  cat artigo.fst 
+  284  mx dict=artigo k1=MDL=
+  285  mx dict=artigo k1=MDL=
+  286  exit
+  287  cd /bases/org.000
+  288  cd mma
+  289  ls -ltr
+  290  mx dict=arGeo
+  291  mx dict=arGeo
+  292  mx dict=arGeo,1,2
+  293  mx artigos
+  294  mx ../artigos
+  295  mx ../iso/artigos
+  296  mx dict=arGeo,1,2
+  297  mx ../iso/artigos from=102424
+  298  ls -ltr
+  299  mx dict=xa
+  300  mx xam
+  301  mx ../iso/artigos "text=S0301-732X1997000100012^cchl"
+  302  ls -ltr
+  303  mx ../iso/artigos from=102424
+  304  mx xam
+  305  mx ../iso/artigos "text=S0365-94022001000100003^cchl"
+  306  ls -ltr
+  307  mx xam 
+  308  mx xam text="S0365-94022001000100003^cchl"
+  309  scielo.sp
+  310  vi Processa_SciELO.SP.sh 
+  311  cd /bases/spa.002/proc
+  312  vi Processa_SciELO.SP.sh 
+  313  exit
+  314  scielo.br
+  315  nohup ./Processa_SciELO.BR.sh >& outs/procPX120070731.out &
+  316  less outs/procPX120070731.out
+  317  exit
+  318  scielo.br
+  319  mx ../bases/artigo/artigo "proc=@prc/Article.prc" "pft=if v10^n>'' and v10^s='' then mfn/ fi" now
+  320  run
+  321  ll ../bases/iah/library/*.iy0
+  322  ll ../bases/iah/library/*.iy0
+  323  run
+  324  mz ../bases/iah/library//v677iahe
+  325  mz ../bases/iah/library//v677iahp
+  326  mz ../bases/iah/library//v677iahp
+  327  ll ~
+  328  ll -a ~
+  329  ll -a ~/.ssh/
+  330  less -a ~/.ssh/id_rsa.pub 
+  331  less -a ~/.ssh/id_dsa.pub 
+  332  exit
+  333  scielo.org
+  334  cd iso
+  335  cd art.org
+  336  ll *.iy0
+  337  mz artigo searchp
+  338  mz searchp
+  339  scielo.sp
+  340  cd ..
+  341  cd ..
+  342  ll
+  343  mkdir spa.002
+  344  cd spa.002
+  345  cp -rp /bases/spa.000/* .
+  346  cd mma
+  347  cls
+  348  cd serial
+  349  ll
+  350  ll
+  351  mx v85n5
+  352  mx v85n5 -all now
+  353  mkdir bwho
+  354  cd bwho
+  355  ll /bases/spa.001/serial
+  356  ll /bases/scl.001/serial
+  357  ll /bases/scl.001/serial/se
+  358  mkdir v85n5/
+  359  ll /bases/scl.001/serial/se/v20n3
+  360  cd v85n5
+  361  mkdir base
+  362  ll /bases/scl.001/serial/se/v20n3/base
+  363  cd base
+  364  mv /bases/spa.002/serial/v85n5.??? .
+  365  ll
+  366  mx v85n5 iso=bwhov85n5.iso -all now
+  367  ll
+  368  ll /bases/scl.001/serial
+  369  cd ../../../
+  370  cat /bases/scl.001/serial/scilista.
+  371  cat /bases/scl.001/serial/scilista.lst 
+  372  vi scilista.lst
+  373  cat scilista.lst
+  374  ll /bases/scl.001/serial/code
+  375  mx /bases/scl.001/serial/code/newcode
+  376  mx /bases/scl.001/serial/code/newcode +control count=0
+  377  ll /bases/scl.001/serial/title
+  378  mx /bases/scl.001/serial/title/title
+  379  ll /bases/scl.001/serial/issue
+  380  mx /bases/scl.001/serial/issue/issue
+  381  mx /bases/scl.001/serial/issue/issue +control count=0
+  382  mx /bases/scl.001/serial/issue/issue +control count=0
+  383  mx /bases/scl.001/serial/issue/issue
+  384  ll /bases/scl.001/serial/newissue
+  385  ll /bases/scl.001/serial/
+  386  ll
+  387  vi ../proc/Processa_SciELO.SP.sh 
+  388  mkdir code
+  389  mkdir title
+  390  mkdir issue
+  391  ll ../bases/issue
+  392  cp ../bases/issue/issue.mst issue
+  393  cp ../bases/issue/issue.xrf issue
+  394  ll issue
+  395  ll ../bases/title
+  396  ll ../bases/title/title.???
+  397  cp -p ../bases/title/title.mst title
+  398  cp -p ../bases/title/title.xrf title
+  399  ll ../bases/code
+  400  ll ../
+  401  ll ../bases-work
+  402  ll ../bases
+  403  ll /bases/scl.000/serial/code
+  404  ll /bases/scl.001/serial/code
+  405  cp -p /bases/scl.001/serial/code/*.mst code
+  406  cp -p /bases/scl.001/serial/code/*.xrf code
+  407  ll code
+  408  ll
+  409  cd ../proc
+  410  echo "" >> ../serial/scilista.lst
+  411  echo "" >> ../serial/scilista.lst
+  412  cat ../serial/scilista.lst 
+  413  sed 's/^$/artigo/' ../serial/scilista.lst
+  414  sed 's/^$/artigo/' ../serial/scilista.lst > work
+  415  grep -v "^artigo" work > ../serial/scilista.lst
+  416  cat ../serial/scilista.lst 
+  417  ll *.log
+  418  ll log
+  419  rm log/*
+  420  ll log
+  421  ll outs
+  422  rm  outs/*
+  423  nohup ./GeraPadrao.bat >&outs/20070731.spaTST.out &
+  424  less outs/20070731.spaTST.out
+  425  less outs/20070731.spaTST.out
+  426  ll ../serial
+  427  ll /bases/spa.000/serial
+  428  ll /bases/spa.000/serial/bwho/
+  429  ll /bases/spa.000/serial/bwho/v85n5
+  430  ll /bases/spa.000/serial/bwho/v85n5/base
+  431  ll /bases/spa.000/serial/code
+  432  ll /bases/spa.000/serial/issue
+  433  ll /bases/spa.000/serial/title
+  434  cd ../serial
+  435  ll
+  436  ll /bases/spa.001/serial
+  437  ll /bases/spa.000/serial
+  438  cp -r /bases/spa.000/serial/* .
+  439  ll
+  440  ll /bases/spa.000/serial
+  441  cd ..
+  442  rm -rf serial/*
+  443  cd serial
+  444  ll
+  445  cp -r /bases/spa.000/serial/* .
+  446  ll
+  447  cd ../
+  448  cd proc
+  449  nohup ./Processa_SciELO.SP.sh >& outs/20070731.spaTSTb.out &
+  450  less outs/20070731.spaTSTb.out
+  451  less outs/20070731.spaTSTb.out
+  452  less outs/20070731.spaTSTb.out
+  453  run
+  454  cd ../bases
+  455  ll
+  456  mx artigo
+  457  mx artigo/artigo
+  458  mz artigo/artigo
+  459  mz artigo/artigo from=ART= to=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ now
+  460  mz artigo/artigo from=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ
+  461  mz artigo/artigo from=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ to=AU=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ now|grep =",\b"
+  462  mz artigo/artigo from=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ to=AU=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ now|grep =","
+  463  mz artigo/artigo from=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ to=AU=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ now
+  464  mz artigo/artigo from=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ to=AU=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ now|less
+  465  mz artigo/artigo from=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ to=AU=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ now|grep ","
+  466  mz artigo/artigo from=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ to=AU=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ now|grep ",\b"
+  467  mz artigo/artigo from=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ to=AU=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ now|grep ","
+  468  mz artigo/artigo from=AU=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+  469  mz artigo/artigo from=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ to=AU=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ now|grep ","
+  470  mz artigo/artigo from=ART=S0042-9686ZZZZZZZZZZZZZZZZZZZZZZZZZZ to=AU=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ now|less
+  471  cd ../proc
+  472  ll fst/
+  473  ll fst/artigo.fst
+  474  vi fst/artigo.fst
+  475  mx ../bases/artigo/artigo "fst=@10 0 mpl,if v706='h' then ('AU=',v10^s|, |,v10^n/) fi,"
+  476  mx ../bases/artigo/artigo "fst=10 0 mpl,if v706='h' then ('AU=',v10^s|, |,v10^n/) fi,"
+  477  mx ../bases/artigo/artigo "fst=998 0 mpl,if v706='h' then ('AU=',v10^s|, |,v10^n/) fi," "pft=v998/"
+  478  mx ../bases/artigo/artigo "fst=998 0 mpl,if v706='h' then ('AU=',v10^s|, |,v10^n/) fi," from=3 count=1
+  479  mx ../bases/artigo/artigo "fst=998 0 mpl,if v706='h' then (if v10>'' then 'AU=',v10^s|, |,v10^n/ fi) fi," from=3 count=1
+  480  vi fst/artigo.fst
+  481  ll fst
+  482  vi fst/search.fst 
+  483  mz ../bases/iah/library/searchp
+  484  vi fst/searchp.fst 
+  485  vi fst/searchp.fst 
+  486  mx ../bases/artigo/artigo "pft=if v10^n>'' and v10^s='' then mfn/ fi" now
+  487  ll ../bases/artigo/*.cnt
+  488  ll ../bases/artigo/*.iy0
+  489  mz ../bases/artigo/author
+  490  mz ../bases/artigo/author now|grep ","
+  491  mz ../bases/artigo/author now|grep ",\b"
+  492  mz ../bases/artigo/author now|grep ",/b"
+  493  mz ../bases/artigo/author now|grep "ZOU\b"
+  494  mz ../bases/artigo/author now|grep "ZOU/b"
+  495  mz ../bases/artigo/author now|grep "ZOU"
+  496  mz ../bases/artigo/author now|grep "ZOU\b"
+  497  mz ../bases/artigo/author now|grep "-\b"
+  498  mz ../bases/artigo/author now|grep "\-\b"
+  499  mz ../bases/artigo/author now|grep "\-\n"
+  500  ll ../bases/artigo/*.cnt
+  501  ll ../bases/issue/*.cnt
+  502  mz ../bases/issue/faccount
+  503  mz ../bases/issue/facic
+  504  ll ../bases/issue/*.cnt
+  505  mz ../bases/issue/issue
+  506  ll ../bases/title
+  507  ll ../bases/title/*.cnt
+  508  mz ../bases/title/logo
+  509  mz ../bases/title/logo
+  510  mz ../bases/title/serarea
+  511  mz ../bases/title/title
+  512  ll ../bases/title/*.cnt
+  513  mz ../bases/title/titsrc
+  514  mz ../bases/title/titsrcp
+  515  ll ../bases/newissue/
+  516  mz ../bases/newissue/newissue
+  517  ll ../bases/
+  518  ll ../bases/iah
+  519  ll ../bases/iah/library
+  520  mz ../bases/iah/TipArt
+  521  mz ../bases/iah/library/TipArt
+  522  ll ../bases/iah/library/*.cnt
+  523  ll ../bases/iah/library/*.iy0
+  524  mz ../bases/iah/library/AfCid
+  525  ll ../bases/iah/library/*.cnt
+  526  mz ../bases/iah/library/AfOrg
+  527  ll ../bases/iah/library/*.cnt
+  528  mz ../bases/iah/library/AfPais
+  529  ll ../bases/iah/library/*.cnt
+  530  mz ../bases/iah/library/AfPaisPais
+  531  ll ../bases/iah/library/*.cnt
+  532  mz ../bases/iah/library/search
+  533  mz ../bases/iah/library/searchp
+  534  ll ../bases/iah/library/*.cnt
+  535  ll ../bases/iah/library/AfCid
+  536  mz ../bases/iah/library/AfCid
+  537  ll ../bases/iah/library/*.cnt
+  538  ll ../bases/iah/library/*.iy0
+  539  less outs/20070731.spaTSTb.out 
+  540  cd ../scibiblio/bases/estat/
+  541  ll
+  542  vi cipar.cip
+  543  ll
+  544  less SetAmbBibliometriaSciELO.txt
+  545  vi SetAmbBibliometriaSciELO.txt
+  546  vi UnsetAmbBibliometriaSciELO.txt 
+  547  cd artigo
+  548  ll
+  549  ll *.sh
+  550  less GeraBibliometriaSciELO.sh 
+  551  ll *.cip
+  552  less gigabase.cip
+  553  less artigo.cip
+  554  vi artigo.cip
+  555  vi artigoh.cip
+  556  grep -i "spa.000" *
+  557  vi limpa_tits.prc
+  558  vi GeraBibliometriaSciELO.sh 
+  559  ll
+  560  grep -i "spa.000" *
+  561  grep -ir "spa.000" ../*
+  562  vi ../artigo/old/artigo.cip
+  563  vi ../artigo/old/artigoh.cip
+  564  vi ../co-autor/v677.sh
+  565  scielo.sp
+  566  cd /bases/spa.002/proc
+  567  less Processa_SciELO.SP.sh 
+  568  cd ../scibiblio/bases/estat/artigo
+  569  dos2unix GeraBibliometriaSciELO.sh
+  570  dos2unix ../tab30/gt30/Atualizatc30issn.sh
+  571  dos2unix ../SetAmbBibliometriaSciELO.txt
+  572  dos2unix ../jcr/titles_gera.sh
+  573  dos2unix artigo-cit_TB.sh
+  574  dos2unix ../co-autor/genco-autor.sh
+  575  dos2unix all_rev_ano_pais.sh
+  576  dos2unix xml/genselbox.sh
+  577  dos2unix ../UnsetAmbBibliometriaSciELO.txt
+  578  dos2unix xmltest/genselbox.sh
+  579  echo "[TIME-STAMP] Iniciando processamento de bibliometria em `date`"
+  580  shopt -u -o histexpand
+  581  ./GeraBibliometriaSciELO.sh
+  582  shopt -s -o histexpand
+  583  echo "[TIME-STAMP] Terminando processamento de bibliometria em `date`"
+  584  cd -
+  585  ll ../bases/iah/library/*.iy0
+  586  mz ../bases/iah/library/v677iahe
+  587  mz ../bases/iah/library/v677iahp
+  588  mz ../bases/iah/library/v677iahp
+  589  mz ../bases/iah/library/v677iahp
+  590  nohup ./Processa_SciELO.SP.sh >&outs/20070731.spaTSTc.out &
+  591  less outs/20070731.spaTSTc.out
+  592  less outs/20070731.spaTSTc.out
+  593  ll
+  594  ll ../bases/iah/library/
+  595  mz ../bases/iah/library/v677iahe
+  596  exit
+  597  scielo.org
+  598  cd mma
+  599  ls
+  600  head xam.txt
+  601  ls
+  602  mx dict=arGeo,1,2
+  603  scielo.sp
+  604  mz ../bases/iah/library/v677iahe
+  605  mz ../bases/iah/library/v677iahp
+  606  cd ../scibiblio/bases/estat/artigo/
+  607  nohup ./GeraBibliometriaSciELO.sh >$ /bases/spa.000/outs/nohup.GeraBibliometria.out &
+  608  less /bases/spa.000/outs/nohup.GeraBibliometria.out
+  609  less /bases/spa.000/outs/nohup.GeraBibliometria.out
+  610  run
+  611  less /bases/spa.000/outs/nohup.GeraBibliometria.out
+  612  jobs
+  613  fg i
+  614  fg 1
+  615  run
+  616  jobs
+  617  run
+  618  nohup ./GeraBibliometriaSciELO.sh >& /bases/spa.000/outs/nohup.GeraBibliometria.out &
+  619  less /bases/spa.000/outs/nohup.GeraBibliometria.out
+  620  cd -
+  621  mz ../bases/iah/library/v677iahp
+  622  ll ../bases/iah/library/v677iah*
+  623  exit
+  624  scielo.sp
+  625  cd /bases/spa.002/proc
+  626  ll
+  627  ll ../bases-work/
+  628  ll ../bases-work/bwho/
+  629  mx ../bases-work/bwho/bwho
+  630  mx ../bases-work/bwho/bwho "text=v85n5"
+  631  mx ../bases-work/bwho/bwho from=241381
+  632  mx ../bases-work/bwho/bwho from=241381
+  633  mx ../bases-work/bwho/bwho tp=h from=241381
+  634  mx ../bases-work/bwho/bwho tp=h
+  635  mx ../bases-work/bwho/bwho tp=h from=241381
+  636  mx ../bases-work/bwho/bwho from=241381
+  637  mx ../bases-work/bwho/bwho from=241381 "pft=if v706='h' then (v70/),(v10/),# fi"
+  638  mx ../bases-work/bwho/bwho from=241381 lw=999 "pft=if v706='h' then (v70/),(v10/),# fi"
+  639  mx ../bases-work/bwho/bwho from=241381 lw=999 "pft=if v706='h' then mfn/,(v70/),(v10/),# fi"
+  640  mx ../bases-work/bwho/bwho from=241381 lw=999 from=241405
+  641  mx ../bases-work/bwho/bwho from=241381 lw=999 "pft=if v706='h' then mfn/,(|V70=|v70/),(|v10=|v10/),# fi"
+  642  mx ../bases-work/bwho/bwho from=241381 lw=999 "pft=if v706='h' then mfn/,(|V70=|v70/),(|v10=|v10/),# fi" now
+  643  mx ../bases-work/bwho/bwho from=241381 lw=999 from=241405
+  644  mx ../bases-work/bwho/bwho from=241381 lw=999 "pft=if v706='h' then mfn,x30,v4/,(|V70=|v70/),(|v10=|v10/),# fi"
+  645  mx ../bases-work/bwho/bwho from=241381 lw=999 "pft=if v706='h' then mfn,x30,v4/,(|V70=|v70/),(|v10=|v10/),# fi" now
+  646  mx ../bases-work/bwho/bwho from=241381 lw=999 "pft=if v706='h' then mfn,x30,v4/,(|V70=|v70/),(|v10=|v10/),# fi" now > marcio.lst
+  647  vi marcio.lst
+  648  mz ../bases/iah/library/v677iahp
+  649  exit
+  650  scielo.sp
+  651  ll ../serial
+  652  mz ../bases/artigo/artigo
+  653  vi fst/artigo.fst
+  654  nohup ./Processa_SciELO.SP.sh >&outs/procPX120070731.out &
+  655  less outs/procPX120070731.out
+  656  mz ../bases/iah/library/AfCid
+  657  mz ../bases/iah/library/AfOrg
+  658  run
+  659  ll ../bases/iah/library/*.cnt
+  660  ll ../bases/iah/library/*.iy0
+  661  scielo.org
+  662  ll
+  663  cd mma
+  664  dir
+  665  ll tabs
+  666  ll w*
+  667  vi ar1if.sh 
+  668  cd ..
+  669  ls
+  670  ls tabs
+  671  cd tabs
+  672  more wikicountries.See.txt
+  673  more wikicountries.See.txt
+  674  ls
+  675  more wikicities100kSA.txt
+  676  ls
+  677  more wikicountries.txt
+  678  ls
+  679  wc -l wikicities100kSA.txt
+  680  mx tablarg
+  681  mz tablarg
+  682  mx tablarg
+  683  x
+  684  exit
+  685  cd /bases/scl.000/scibiblio/bases/estat/artigo
+  686  \. Aval_SciELO_atual_Homolog.sh 
+  687  exit
+  688  scielo.sp
+  689  nohup ./Processa_SciELO.SP.sh >&outs/procPX120070731.chico.out &
+  690  less outs/procPX120070731.chico.out
+  691  mx ../bases/iah/library/v677iahe
+  692  mz ../bases/iah/library/v677iahe
+  693  exit
+  694  cd /bases/scl.000/proc/fst/
+  695  vi artigo.fst 
+  696  exit
+  697  cd /bases/scl.000/scibiblio/bases/estat/sci
+  698  ll
+  699  $LIND/mx cipar=../cipar.cip artigot uctab=ansi lw=0 "pft=if v1*4.1<>'_' then (v1[1]'|'v2'|'replace(f(iocc,5,0),' ','0')/) fi" now|sort>sci_jcr.seq
+  700  mx seq=sci_jcr.seq create=jcranos -all now
+  701  $LIND/mx cipar=../cipar.cip jcranos create=del -all now uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001d25','<25 0>'f(ravr((v25,x1)),1,0)'</25>'" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(999999999-val(v25),1,0)'</25>'"
+  702  MX DEL
+  703  mx del
+  704  mx del loop=200
+  705  mx del loop=1000
+  706  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" 
+  707  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" from=1001
+  708  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,='ARTIGOS_'v1'_'v2" from=1001
+  709  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af='ARTIGOS_'v1'_'v2" from=1001
+  710  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af='ARTIGOS_'v1'_'v2" from=1001 "text=0102-8650"
+  711  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af='ARTIGOS_'v1'_'v2" from=1001 "text=0102-8650"
+  712  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af='ARTIGOS_'v1'_'v2" from=1001 "text=0102-8650" "proc='d32001d25','<25 0>'f(ravr((v25,x1)),1,0)'</25>'"
+  713  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001d25','<25 0>'f(ravr((v25,x1)),1,0)'</25>'" from=1001 "text=0102-8650"
+  714  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001d25',proc('<25 0>'f(ravr((v25,x1)),1,0)'</25>'),proc('d25<25 0>'f(val(v25)/npost(['artigoh']v2'_'v1),1,0)'</25>')" from=1001 "text=0102-8650"
+  715  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001d25',proc('<25 0>'f(ravr((v25,x1)),1,0)'</25>'),proc('<26 0>'f(val(v25)/npost(['artigoh']v2'_'v1),1,0)'</26>')" from=1001 "text=0102-8650"
+  716  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001d25',proc('<25 0>'f(ravr((v25,x1)),1,0)'</25>'),proc('<26 0>'f(npost(['artigoh']v2'_'v1),1,0)'</26>')" from=1001 "text=0102-8650"
+  717  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001d25',proc('<25 0>'f(ravr((v25,x1)),1,0)'</25>'),proc('<26 0>'f(val(v25),1,0)'</26>')" from=1001 "text=0102-8650"
+  718  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25>'),proc('<26 0>'f(val(v25),1,0)'</26>')" from=1001 "text=0102-8650"
+  719  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25>'),proc('<26 0>'f(val(v25)/npost(['artigoh']v2'_'v1),1,0)'</26>')" from=1001 "text=0102-8650"
+  720  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25>'),proc('d25<25 0>'f(val(v25)/npost(['artigoh']v2'_'v1),1,0)'</25>')" from=1001 "text=0102-8650"
+  721  $LIND/mx cipar=../cipar.cip jcranos create=del -all now uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25>'),proc('d25<25 0>'f(val(v25)/npost(['artigoh']v2'_'v1),1,0)'</25>')" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(999999999-val(v25),1,0)'</25>'"
+  722  $LIND/mx del create=jcranos -all now
+  723  $LIND/msrt jcranos 9 v25^s
+  724  $LIND/mx jcranos "fst=@sci_jcr.fst" "fullinv/ansi=jcranos" tell=20000
+  725  $LIND/mx jcranos
+  726  $LIND/mx jcranos
+  727  $LIND/mx cipar=../cipar.cip jcranos create=del -all now uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25>'),proc('d25<25 0>'f(val(v25)/npost(['artigoh']v2'_'v1),1,0)'</25>')" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'"
+  728  $LIND/mx del loop=1000
+  729  $LIND/mx cipar=../cipar.cip jcranos  uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25>'),proc('d25<25 0>'f(val(v25)/npost(['artigoh']v2'_'v1),1,0)'</25>')" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'"
+  730  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>')" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'"
+  731  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'"
+  732  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'" from=1001 
+  733  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'" from=1001 "text=0102-8650" 
+  734  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'" "text=0102-8650" 
+  735  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'" from=838
+  736  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'" from=838
+  737  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'"  from=838
+  738  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'"
+  739  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi"
+  740  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi"  from=838 
+  741  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi"  from=839
+  742  $LIND/mx cipar=../cipar.cip jcranos uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>') fi"  from=839
+  743  $LIND/mx cipar=../cipar.cip artigot uctab=ansi lw=0 "pft=if v1*4.1<>'_' then (v1[1]'|'v2'|'replace(f(iocc,5,0),' ','0')/) fi" now|sort>sci_jcr.seq
+  744  mx seq=sci_jcr.seq create=jcranos -all now
+  745  $LIND/mx cipar=../cipar.cip jcranos lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'"
+  746  $LIND/mx cipar=../cipar.cip jcranos lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'" from=1001
+  747  $LIND/mx cipar=../cipar.cip jcranos lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'" from=1001 "text=0102-8650"
+  748  $LIND/mx cipar=../cipar.cip artigot uctab=ansi lw=0 "pft=if v1*4.1<>'_' then (v1[1]'|'v2'|'replace(f(iocc,5,0),' ','0')/) fi" now|sort>sci_jcr.seq
+  749  mx seq=sci_jcr.seq create=jcranos -all now
+  750  $LIND/mx cipar=../cipar.cip jcranos create=del -all now uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'"
+  751  $LIND/mx del create=jcranos -all now
+  752  $LIND/msrt jcranos 9 v25^s
+  753  $LIND/mx jcranos "fst=@sci_jcr.fst" "fullinv/ansi=jcranos" tell=20000
+  754  $LIND/mx jcranos "fst=@sci_jcr.fst" 
+  755  $LIND/mx jcranos loop=100
+  756  $LIND/mx jcranos loop=70
+  757  $LIND/mx sci_jcr_ctgTB create=aces_art_ORD "join=jcranos,4,2:1,25=mpu,v1"  "proc='d32000d998d999', " -all now
+  758  rm jcranos.*
+  759  $LIND/mxtb del create=sci_jcr_ctgTB "80:(v8'_'v7[1]/)" class=10000
+  760  $LIND/mx sci_jcr_ctgTB create=aces_art_ORD "join=jcranos,4,2:1,25=mpu,v1"  "proc='d32000d998d999', " -all now
+  761  $LIND/mx jcranos "fst=@sci_jcr.fst" "fullinv/ansi=jcranos" tell=20000
+  762  mx seq=sci_jcr.seq create=jcranos -all now
+  763  $LIND/mx jcranos "fst=@sci_jcr.fst" "fullinv/ansi=jcranos" tell=20000
+  764  $LIND/mx sci_jcr_ctgTB create=aces_art_ORD "join=jcranos,4,2:1,25=mpu,v1"  "proc='d32000d998d999', " -all now
+  765  $LIND/mx aces_art_ORD "proc=(if p(v2) then 'a100~'f(1-val(f(iocc/val(f(nocc(v2),1,0)),1,4)),1,4)'~' fi)" "proc='d25',('<5 0>'v25^*'</5>')" "pft=(v1[1]'|'v2'|'v4'|'v5'|'v100/)" -all now lw=999>aces_art_QRTL.seq
+  766  $LIND/mx seq=aces_art_QRTL.seq create=aces_art_QRTL "proc='a100~'v5'^q'if val(v5)>=0.7500 then 'Q1' else if val(v5)>=0.5000 then 'Q2' else if val(v5)>=0.2500 then 'Q3' else if  val(v5)>=0.0000 then 'Q4' fi fi fi fi,'^f'v4'^o'f(1-val(v5),1,4)'~'" -all now
+  767  $LIND/msrt aces_art_QRTL 6 v100^o
+  768  $LIND/mx aces_art_QRTL "fst=;1 0 (v3'_'right(v1,4)/);2 0 (v3'_'right(v1,4)'_'v2/)" fullinv/ansi=aces_art_QRTL tell=10000
+  769  $LIND/mx aces_art_QRTL
+  770  $LIND/mx aces_art_ORD "proc=(if p(v2) then 'a100~'f(1-val(f(iocc/val(f(nocc(v2),1,0)),1,4)),1,4)'~' fi)" "proc='d25',('<5 0>'v25^*'</5>')" "pft=(v1[1]'|'v2'|'v4'|'v5'|'v100/)"
+  771  $LIND/mx aces_art_ORD 
+  772  $LIND/mx sci_jcr_ctgTB
+  773  $LIND/mx sci_jcr_ctgTB "join=jcranos,4,2:1,25=mpu,v1" 
+  774  $LIND/mx del create=jcranos -all now
+  775  $LIND/msrt jcranos 9 v25^s
+  776  $LIND/mx jcranos "fst=@sci_jcr.fst" "fullinv/ansi=jcranos" tell=20000
+  777  $LIND/mx jcranos "fst=@sci_jcr.fst" 
+  778  $LIND/mx sci_jcr_ctgTB "join=jcranos,4,2:1,25=mpu,v1" 
+  779  $LIND/mx sci_jcr_ctgTB create=aces_art_ORD "join=jcranos,4,2:1,25=mpu,v1"  "proc='d32000d998d999', " -all now
+  780  $LIND/mx aces_art_OR
+  781  $LIND/mx aces_art_ORD
+  782  $LIND/mx aces_art_ORD "proc=(if p(v2) then 'a100~'f(1-val(f(iocc/val(f(nocc(v2),1,0)),1,4)),1,4)'~' fi)" "proc='d25',('<5 0>'v25^*'</5>')" "pft=(v1[1]'|'v2'|'v4'|'v5'|'v100/)" -all now lw=999>aces_art_QRTL.seq
+  783  $LIND/mx seq=aces_art_QRTL.seq create=aces_art_QRTL "proc='a100~'v5'^q'if val(v5)>=0.7500 then 'Q1' else if val(v5)>=0.5000 then 'Q2' else if val(v5)>=0.2500 then 'Q3' else if  val(v5)>=0.0000 then 'Q4' fi fi fi fi,'^f'v4'^o'f(1-val(v5),1,4)'~'" -all now
+  784  $LIND/msrt aces_art_QRTL 6 v100^o
+  785  $LIND/mx aces_art_QRTL "fst=;1 0 (v3'_'right(v1,4)/);2 0 (v3'_'right(v1,4)'_'v2/)" fullinv/ansi=aces_art_QRTL tell=10000
+  786  $LIND/mx aces_art_QRTL
+  787  mx del
+  788  LIND=/usr/local/bireme/cisis/5.2a/lind; export LIND;
+  789  echo "Formatação de bases"
+  790  $LIND/mx cipar=../cipar.cip artigot uctab=ansi lw=0 "pft=if v1*4.1<>'_' then (v1[1]'|'v2'|'replace(f(iocc,5,0),' ','0')/) fi" now|sort>sci_jcr.seq
+  791  mx seq=sci_jcr.seq create=jcranos -all now
+  792  $LIND/mx cipar=../cipar.cip jcranos create=del -all now uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'"
+  793  mx del
+  794  mx del from=1001 "text=0102-8650"
+  795  less /bases/scl.000/outs/Processa_SciELO.BR.sh.tim 
+  796  less /bases/scl.000/outs/Processa_SciELO.BR.sh.tim 
+  797  ll /bases/scl.000/outs/
+  798  ll /bases/scl.000/proc/outs/
+  799  less /bases/scl.000/proc/outs/procPX120070731.out
+  800  tail /bases/scl.000/proc/outs/procPX120070731.out
+  801  mx del from=1001 "text=0102-8650"
+  802  tail /bases/scl.000/proc/outs/procPX120070731.out
+  803  tail /bases/scl.000/proc/outs/procPX120070731.out
+  804  tail /bases/scl.000/proc/outs/procPX120070731.out
+  805  tail /bases/scl.000/outs/Processa_SciELO.BR.sh.tim 
+  806  tail /bases/scl.000/proc/outs/procPX120070731.out
+  807  mx ../jcr/fat_imp
+  808  tail /bases/scl.000/proc/outs/procPX120070731.out
+  809  mx del from=1001 "text=0102-8650"
+  810  $LIND/mx cipar=../cipar.cip artigot uctab=ansi lw=0 "pft=if v1*4.1<>'_' then (v1[1]'|'v2'|'replace(f(iocc,5,0),' ','0')/) fi" now|sort>sci_jcr.seq
+  811  mx seq=sci_jcr.seq create=jcranos -all now
+  812  $LIND/mx cipar=../cipar.cip jcranos create=del -all now uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<25 0>'v25'^s'f(9999999-val(v25),1,0)'</25>'"
+  813  mx del from=1001 "text=0102-8650"
+  814  $LIND/mx cipar=../cipar.cip artigot uctab=ansi lw=0 "pft=if v1*4.1<>'_' then (v1[1]'|'v2'|'replace(f(iocc,5,0),' ','0')/) fi" now|sort>sci_jcr.seq
+  815  mx seq=sci_jcr.seq create=jcranos -all now
+  816  $LIND/mx cipar=../cipar.cip jcranos create=del -all now uctab=ansi lw=0 "join=acesso_af,25:999='ARTIGOS_'v1'_'v2" "proc='d32001',e1:=npost(['artigoh']v2'_'v1),if e1>0 then proc('d25<25 0>'f(ravr((v25,x1)),1,0)'</25><26 0>'f(e1,1,0)'</26>'),proc('d25d26<25 0>'f(val(v25)/val(v26),1,0)'</25>') fi" "proc=@indics_sci.prc"  "proc=@indics_sci_vidmed.prc" "proc='<120 0>'v6'^s'f(999-val(v6),1,4)'</120><121 0>'v5'^s'f(999999-val(v5),1,0)'</121>'" "proc='d25','<125 0>'v25'^s'f(9999999-val(v25),1,0)'</125>'"
+  817  echo " ------ ORDENAMENTO E QUARTIS - COLECAO ------ "
+  818  $LIND/mx del create=allrev_ORD -all now "proc='d*<1 0>^A',v7,'^N',v2[1]'</1>',|<120 0>|v120|</120>|,|<121 0>|v121|</121>|,|<125 0>|v125|</125>|"
+  819  $LIND/mx allrev_ORD "tab=v1^A/" now>allyears.seq
+  820  $LIND/msrt allrev_ORD 20 v1^A,v120^s
+  821  $LIND/mx allrev_ORD "fst=1 0 v1^A" fullinv=allrev_ORD tell=10000
+  822  $LIND/mx null create=sci_jcr_all_ORD count=0
+  823  for i in 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006; do $LIND/mx allrev_ORD btell=0 "bool=$i" +hits append=sci_jcr_all_ORD -all now "proc='d*<1 0>'v1'</1><120 0>^p'f(1-(val(v1001)/val(v1002)),1,6)'</120>'"; done
+  824  $LIND/mx sci_jcr_all_ORD create=sci_jcr_all_QRTL -all now "proc='d120<120 0>'v120,'^q'if val(v120^p)>=0.7500 then 'Q1' else if val(v120^p)>=0.5000 then 'Q2' else if val(v120^p)>=0.2500 then 'Q3' else if val(v120^p)>=0.0000 then 'Q4' fi fi fi fi'</120>'" "fst=1 0 v1" fullinv=sci_jcr_all_QRTL
+  825  $LIND/msrt allrev_ORD 20 v1^A,v121^s
+  826  $LIND/mx allrev_ORD "fst=1 0 v1^A" fullinv=allrev_ORD tell=10000
+  827  $LIND/mx null create=tot_cits_all_ORD count=0
+  828  for i in 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006; do $LIND/mx allrev_ORD btell=0 "bool=$i" +hits append=tot_cits_all_ORD -all now "proc='d*<1 0>'v1'</1><121 0>^p'f(1-(val(v1001)/val(v1002)),1,6)'</121>'"; done
+  829  $LIND/mx tot_cits_all_ORD create=tot_cits_all_QRTL -all now "proc='d121<121 0>'v121,'^q'if val(v121^p)>=0.7500 then 'Q1' else if val(v121^p)>=0.5000 then 'Q2' else if val(v121^p)>=0.2500 then 'Q3' else if val(v121^p)>=0.0000 then 'Q4' fi fi fi fi'</121>'" "fst=1 0 v1" fullinv=tot_cits_all_QRTL
+  830  $LIND/msrt allrev_ORD 20 v1^A,v125^s
+  831  $LIND/mx allrev_ORD "fst=1 0 v1^A" fullinv=allrev_ORD tell=10000
+  832  $LIND/mx null create=aces_art_all_ORD count=0
+  833  for i in 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006; do $LIND/mx allrev_ORD btell=0 "bool=$i" +hits append=aces_art_all_ORD -all now "proc='d*<1 0>'v1'</1><121 0>^p'f(1-(val(v1001)/val(v1002)),1,6)'</121>'"; done
+  834  $LIND/mx aces_art_all_ORD create=aces_art_all_QRTL -all now "proc='d121<121 0>'v121,'^q'if val(v121^p)>=0.7500 then 'Q1' else if val(v121^p)>=0.5000 then 'Q2' else if val(v121^p)>=0.2500 then 'Q3' else if val(v121^p)>=0.0000 then 'Q4' fi fi fi fi'</121>'" "fst=1 0 v1" fullinv=aces_art_all_QRTL
+  835  $LIND/mx aces_art_all_QRTL
+  836  $LIND/mx tot_cits_all_QRTL
+  837  $LIND/mx tot_cits_all_QRTL
+  838  $LIND/msrt allrev_ORD 20 v1^A,v125^s
+  839  $LIND/mx allrev_ORD "fst=1 0 v1^A" fullinv=allrev_ORD tell=10000
+  840  $LIND/mx null create=aces_art_all_ORD count=0
+  841  for i in 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006; do $LIND/mx allrev_ORD btell=0 "bool=$i" +hits append=aces_art_all_ORD -all now "proc='d*<1 0>'v1'</1><125 0>^p'f(1-(val(v1001)/val(v1002)),1,6)'</125>'"; done
+  842  $LIND/mx aces_art_all_ORD create=aces_art_all_QRTL -all now "proc='d125<125 0>'v125,'^q'if val(v125^p)>=0.7500 then 'Q1' else if val(v125^p)>=0.5000 then 'Q2' else if val(v125^p)>=0.2500 then 'Q3' else if val(v125^p)>=0.0000 then 'Q4' fi fi fi fi'</125>'" "fst=1 0 v1" fullinv=aces_art_all_QRTL
+  843  $LIND/mx aces_art_all_QRTL
+  844  $LIND/mx del create=jcranos -all now
+  845  $LIND/msrt jcranos 9 v120^s
+  846  $LIND/mx jcranos "fst=@sci_jcr.fst" "fullinv/ansi=jcranos" tell=20000
+  847  echo "Cria base de categorias com todas as revistas correspondentes, "
+  848  echo "ordenadas segundo Fator de Impacto"
+  849  $LIND/mx sci_jcr_ctgTB create=sci_jcr_ORD "join=jcranos,4,2:1,6=mpu,v1"  "proc='d32000d998d999', " -all now
+  850  $LIND/mx sci_jcr_ORD "proc=(if p(v2) then 'a100~'f(1-val(f(iocc/val(f(nocc(v2),1,0)),1,4)),1,4)'~' fi)" "pft=(v1[1]'|'v2'|'v4'|'v6'|'v100/)" -all now lw=999>sci_jcr_QRTL.seq
+  851  $LIND/mx seq=sci_jcr_QRTL.seq create=sci_jcr_QRTL "proc='a100~'v5'^q'if val(v5)>=0.7500 then 'Q1' else if val(v5)>=0.5000 then 'Q2' else if val(v5)>=0.2500 then 'Q3' else if  val(v5)>=0.0000 then 'Q4' fi fi fi fi,'^f'v4'^o'f(1-val(v5),1,4)'~'"  -all now
+  852  $LIND/msrt sci_jcr_QRTL 6 v100^o
+  853  $LIND/mx sci_jcr_QRTL "fst=;1 0 (v3'_'right(v1,4)/);2 0 (v3'_'right(v1,4)'_'v2/)" fullinv/ansi=sci_jcr_QRTL tell=10000
+  854  echo " PELO TOTAL DE CITACOES RECEBIDAS - POR AREA"
+  855  echo "Ordena base em ordem decrescente de Total de Citacoes recebidas"
+  856  $LIND/mx del create=jcranos -all now
+  857  $LIND/msrt jcranos 9 v121^s
+  858  $LIND/mx jcranos "fst=@sci_jcr.fst" "fullinv/ansi=jcranos" tell=20000
+  859  echo "Cria base de categorias com todas as revistas correspondentes, "
+  860  echo "ordenadas segundo Total de Citacoes recebidas"
+  861  $LIND/mx sci_jcr_ctgTB create=tot_cits_ORD "join=jcranos,4,2:1,5=mpu,v1"  "proc='d32000d998d999', " -all now
+  862  rm jcranos.*
+  863  echo "Cria base com percentis e quartis das revistas de cada categoria,"
+  864  echo " em cada ano, mantendo ordenação por Total de Citacoes recebidas "
+  865  $LIND/mx tot_cits_ORD "proc=(if p(v2) then 'a100~'f(1-val(f(iocc/val(f(nocc(v2),1,0)),1,4)),1,4)'~' fi)" "pft=(v1[1]'|'v2'|'v4'|'v5'|'v100/)" -all now lw=999>tot_cits_QRTL.seq
+  866  $LIND/mx seq=tot_cits_QRTL.seq create=tot_cits_QRTL "proc='a100~'v5'^q'if val(v5)>=0.7500 then 'Q1' else if val(v5)>=0.5000 then 'Q2' else if val(v5)>=0.2500 then 'Q3' else if  val(v5)>=0.0000 then 'Q4' fi fi fi fi,'^f'v4'^o'f(1-val(v5),1,4)'~'" -all now
+  867  $LIND/msrt tot_cits_QRTL 6 v100^o
+  868  $LIND/mx tot_cits_QRTL "fst=;1 0 (v3'_'right(v1,4)/);2 0 (v3'_'right(v1,4)'_'v2/)" fullinv/ansi=tot_cits_QRTL tell=10000
+  869  echo " PELA MEDIA MENSAL DE ACESSO A ARTIGOS / num. arts. ano - POR AREA"
+  870  echo "Ordena base em ordem decrescente de Media Mensal de Acesso a Artigos"
+  871  $LIND/mx del create=jcranos -all now
+  872  $LIND/msrt jcranos 9 v125^s
+  873  $LIND/mx jcranos "fst=@sci_jcr.fst" "fullinv/ansi=jcranos" tell=20000
+  874  echo "Cria base de categorias com todas as revistas correspondentes, "
+  875  echo "ordenadas segundo Media Mensal de Acesso a Artigos"
+  876  $LIND/mx sci_jcr_ctgTB create=aces_art_ORD "join=jcranos,4,2:1,125=mpu,v1"  "proc='d32000d998d999', " -all now
+  877  rm jcranos.*
+  878  echo "Cria base com percentis e quartís das revistas de cada categoria,"
+  879  echo " em cada ano, mantendo ordenação por Total de Citacoes recebidas "
+  880  $LIND/mx aces_art_ORD "proc=(if p(v2) then 'a100~'f(1-val(f(iocc/val(f(nocc(v2),1,0)),1,4)),1,4)'~' fi)" "proc='d125',('<5 0>'v125^*'</5>')" "pft=(v1[1]'|'v2'|'v4'|'v5'|'v100/)" -all now lw=999>aces_art_QRTL.seq
+  881  $LIND/mx seq=aces_art_QRTL.seq create=aces_art_QRTL "proc='a100~'v5'^q'if val(v5)>=0.7500 then 'Q1' else if val(v5)>=0.5000 then 'Q2' else if val(v5)>=0.2500 then 'Q3' else if  val(v5)>=0.0000 then 'Q4' fi fi fi fi,'^f'v4'^o'f(1-val(v5),1,4)'~'" -all now
+  882  $LIND/msrt aces_art_QRTL 6 v100^o
+  883  $LIND/mx aces_art_QRTL "fst=;1 0 (v3'_'right(v1,4)/);2 0 (v3'_'right(v1,4)'_'v2/)" fullinv/ansi=aces_art_QRTL tell=10000
+  884  mx del from=1001 "text=0102-8650"
+  885  mx del from=1001 "text=0102-8650" "join=sci_jcr_QRTL,21:1,22:2,23:3,24:4,25:5,100=v4,'_',mpu,v7,mpl,'_'v1" "join=tot_cits_QRTL,31:1,32:2,33:3,34:4,35:5,110:100=v4,'_',mpu,v7,mpl,'_'v1" "join=aces_art_QRTL,41:1,42:2,43:3,44:4,45:5,129:100=v4,'_',mpu,v7,mpl,'_'v1" "join=sci_jcr_all_QRTL,120='^A',v7,'^N',v2[1]" "join=tot_cits_all_QRTL,121='^A',v7,'^N',v2[1]" "join=aces_art_all_QRTL,125='^A',v7,'^N',v2[1]"
+  886  mx del from=1001 "text=0102-8650" "join=sci_jcr_QRTL,21:1,22:2,23:3,24:4,25:5,100=v4,'_',mpu,v7,mpl,'_'v1" "join=tot_cits_QRTL,31:1,32:2,33:3,34:4,35:5,110:100=v4,'_',mpu,v7,mpl,'_'v1" "join=aces_art_QRTL,41:1,42:2,43:3,44:4,45:5,129:100=v4,'_',mpu,v7,mpl,'_'v1" "join=sci_jcr_all_QRTL,120='^A',v7,'^N',v2[1]" "join=tot_cits_all_QRTL,121='^A',v7,'^N',v2[1]" "join=aces_art_all_QRTL,125='^A',v7,'^N',v2[1]" "proc='d120d32001d21d22d23d24d25d100d121d32002d31d32d33d34d35d110d32003d41d42d43d44d45d129d125d32004d32005d32006','a120~'(v120)'~',('a20~'v21'^p'v100^*'^q'v100^q'~'),'a121~'(v121)'~',('a21~'v31'^p'v110^*'^q'v110^q'~'),'a125~'(v125)'~',('a25~'v41'^p'v129^*'^q'v129^q'~')"
+  887  \. sci_jcr.sh 
+  888  dos2unix sci_jcr.sh 
+  889  \. sci_jcr.sh 
+  890  mx sci_jcr from=1001 "text=0102-8650"
+  891  ftp serverofi
+  892  ll
+  893  rm allyears.seq?
+  894  rm sci_jcr.seq?
+  895  ll
+  896  mx sci_jcranos.mst
+  897  ll
+  898  rm sci_jcranos*
+  899  ll
+  900  dos2unix sci_jcr.sh 
+  901  exit
+  902  scieklo.org
+  903  scielo.org
+  904  cd mma
+  905  ll -a *sw*
+  906  ll -a *ar1if*
+  907  vi ar1if.sh 
+  908  ll .ar1if.sh.swp
+  909  rm .ar1if.sh.swp
+  910  vi ar1if.sh 
+  911  scielo.br
+  912  ll
+  913  vi Processa_SciELO.BR.sh 
+  914  cd doi
+  915  ll
+  916  less readme.txt 
+  917  exit
+  918  cd scielo.org
+  919  scielo.org
+  920  cd tabs
+  921  ll tablarg
+  922  ll tablarg*
+  923  scielo.org
+  924  vi tpl.org/trfIndices.sh 
+  925  run
+  926  scielo.sp
+  927  ll outs/
+  928  ll -tr outs/
+  929  less outs/procPX120070731.chico.out
+  930  scielo.br
+  931  ll -tr outs
+  932  less outs/procPX120070731.out
+  933  ll /bases/scl.000/bases/iah/
+  934  ll /bases/scl.000/bases/iah/art.scl/
+  935  less outs/procPX120070731.out
+  936  ll /bases/scl.000/bases/iah/ape
+  937  ll /bases/scl.000/bases/iah/art.scl/
+  938  mv /bases/scl.000/bases/iah/art.scl/search.iyo /bases/scl.000/bases/iah/art.scl/search.iy0 
+  939  mv /bases/scl.000/bases/iah/art.scl/searchp.iyo /bases/scl.000/bases/iah/art.scl/searchp.iy0 
+  940  less outs/procPX120070731.out
+  941  vi Processa_SciELO.BR.sh 
+  942  vi FragCnvIDX.BR.sh
+  943  ll ../bases/iah/ape
+  944  ll ../bases/iah/art.scl/
+  945  mv ../bases/iah/art.scl/search.iy0 ../bases/iah/art.scl/search.iyo 
+  946  mv ../bases/iah/art.scl/searchp.iy0 ../bases/iah/art.scl/searchp.iyo 
+  947  scielo.org
+  948  cd mma
+  949  vi ar1if.sh 
+  950  cp -p ar1if.sh original.ar1if.sh 
+  951  vi ar1if.sh 
+  952  scielo.org
+  953  cd mma
+  954  ll tabmun.*
+  955  $LIND/mx what
+  956  lind/mx what
+  957  lind/mx tabmun loop=1417 now
+  958  lind/mx tabmun  uctab=ansi "proc='<9 0>'replace(v3,'\`',\`'\`)'</9>'" "proc=e1:=instr(v9,\`'\`),,if e1>0 then '<8 0>'replace(v9,\`'\`,'')'</8>','<8 0>'left(v9,e1-1)mid(v9,e1+1,1)' 'right(v9,size(v9)-e1)'</8>' fi" "proc='d9<8 0>'v9'</8>'" -all now create=tabm
+  959  mx tabm
+  960  lind/mx tabm loop=1417 now
+  961  lind/mx seq=tabs/tabpais.txt -all now create=tabp "proc='d8',|<8 0>|v2|</8>|,|<8 0>|v3|</8>|,|<8 0>|v4|</8>|"
+  962  lind/mx seq=tabs/tabuf.txt   -all now create=tabu "proc='d8',|<8 0>|v2|</8>|,|<8 0>|v3|</8>|,|<8 0>|v4|</8>|"
+  963  lind/mx seq=tabs/tabgeo.txt  -all now create=tabg "proc='d8',|<8 0>|v2|</8>|,|<8 0>|v3|</8>|,|<8 0>|v4|</8>|"
+  964  lind/mx ../tabs/tablarg
+  965  lind/mx ../tabs/tablarg create=tabs/tablarg "fst=1 0 if v20='BR' then , else v1 fi" fullinv=tablarg actab=tabs/acans.tab uctab=tabs/ucans.tab
+  966  lind/mx ../tabs/tablarg create=tabs/tablarg "fst=1 0 if v20='BR' then , else v1 fi" fullinv=tablarg actab=$TABS/acans.tab uctab=$TABS/ucans.tab
+  967  mz tablarg
+  968  ll ../tabs/tablarg.*
+  969  lind/mx ../tabs/tablarg create=tabs/tablarg "fst=1 0 if v20<>'BR' then v1 fi" fullinv=tablarg actab=$TABS/acans.tab uctab=$TABS/ucans.tab
+  970  mz tablarg
+  971  mx xam "proc=if l(['tabs/tablarg'],s(mpu,v3,mpl)>0 then 'd*' fi" create=xamBRmmo -all now
+  972  mx xam "pft=v3/"
+  973  mx xam "pft=s(mpu,v3,mpl)/"
+  974  mx xam "pft=s(mpu,v3,mpl)/" actab=$TABS/acans.tab
+  975  mx xam "pft=s(mpu,v3,mpl)/" actab=$TABS/acans.tab uctab=ansi
+  976  mx xam actab=$TABS/acans.tab uctab=ansi "pft=f(l(['tabs/tablarg']s(mpu,v3,mpl)),1,0)/"
+  977  ll tabs
+  978  lind/mx ../tabs/tablarg create=tabs/tablarg "fst=1 0 if v20<>'BR' then v1 fi" fullinv=tabs/tablarg actab=$TABS/acans.tab uctab=ansi
+  979  ll tablarg.*
+  980  rm tablarg.*
+  981  mx xam actab=$TABS/acans.tab uctab=ansi "pft=f(l(['tabs/tablarg']s(mpu,v3,mpl)),1,0)/"
+  982  mx xam actab=$TABS/acans.tab uctab=ansi "proc=if l(['tabs/tablarg']s(mpu,v3,mpl))>0 then 'd*' fi"
+  983  mx xam actab=$TABS/acans.tab uctab=ansi "proc=if l(['tabs/tablarg']s(mpu,v3,mpl))>0 then 'd*' fi" append=xamBRmmo -all now
+  984  rm xamBRmmo.*
+  985  mx xam actab=$TABS/acans.tab uctab=ansi "proc=if l(['tabs/tablarg']s(mpu,v3,mpl))>0 then 'd*' fi" append=xamBRmmo -all now
+  986  mx xamBRmmo +control  count=0
+  987  mx xam +control  count=0
+  988  mx xam actab=$TABS/acans.tab uctab=ansi "proc=if l(['tabs/tablarg']s(mpu,v3,mpl))>0 then 'd*' fi" append=xamBRmmo -all now
+  989  dbstat xamBRmmo 
+  990  less xamBRmmo.sta 
+  991  lind/mx xamBRmmo lw=99999 "pft=v1,'|',v2,'|',v3,'|',v4,'|',v5,'|',v6,'|',v7,'|',v8,'|',v9/"
+  992  cd /bases/scl.000/scibiblio/bases/estat/artigo
+  993  tail /bases/scl.000/proc/outs/procPX120070731.out
+  994  \. _AtualizaServOFI_backup.sh 
+  995  tail /bases/scl.000/proc/outs/procPX120070731.out
+  996  tail /bases/scl.000/proc/outs/procPX120070731.out
+  997  tail /bases/scl.000/proc/outs/procPX120070731.out
+  998  tail /bases/scl.000/proc/outs/procPX120070731.out
+  999  exit
+ 1000  scielo.br
+ 1001  less outs/procPX120070731.out 
+ 1002  scielo.org
+ 1003  cd mma
+ 1004  mx x
+ 1005  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)"
+ 1006  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)"
+ 1007  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'"
+ 1008  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=109
+ 1009  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 
+ 1010  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1
+ 1011  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1012  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1013  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1014  ll *.xrf
+ 1015  mx null create=gcharurl count=0
+ 1016  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1017  ll tabs/gc*
+ 1018  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1019  ll charu*
+ 1020  ll gcharurl*
+ 1021  rm gcharurl*
+ 1022  mx tabs/gcharurl
+ 1023  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1024  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft" > teste.xml
+ 1025  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1026  rm teste.xml 
+ 1027  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1028  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1029  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1030  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1031  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1032  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1033  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1034  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1035  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1036  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1037  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1038  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 "pft=@p1.pft"
+ 1039  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1040  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1041  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1042  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1043  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1044  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1045  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1046  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1
+ 1047  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1048  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1049  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1050  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1051  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1052  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1
+ 1053  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1
+ 1054  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1055  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1056  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1057  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1058  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1059  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1060  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1061  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1 "pft=@p1.pft"
+ 1062  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" lw=0 from=1511 count=1
+ 1063  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc='d32001'" "proc=(if p(v6) then if v106[1]:s('~'v6'~') then else proc('d106a106|'v106[1],'~'v6'~','|') fi fi)" "proc='Gsplit/clean=106=~'" "proc=(if p(v12) then if v112[1]:s('~'v12'~') then else proc('d112a112|'v112[1],'~'v12'~','|') fi fi)" "proc='Gsplit/clean=112=~'" -all now create=xx
+ 1064  mx xx from=1511
+ 1065  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" "proc=|<200 0>|v20|</200>|" "proc='Gtabs/gcharurl,200'" lw=0 pft=@p1.pft from=1511
+ 1066  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" "proc=|<200 0>|v20|</200>|" "proc='Gtabs/gcharurl,200'" lw=0 pft=@p1.pft from=1511
+ 1067  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" "proc=|<200 0>|v20|</200>|" "proc='Gtabs/gcharurl,200'" "proc='d*a880|'v8801^*' ^c"v8801^c'|<1 0>',@areasgeo1.pft,'</1>'" from=1511
+ 1068  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" "proc=|<200 0>|v20|</200>|" "proc='Gtabs/gcharurl,200'" "proc='d*a880|'v8801^*'^c'v8801^c'|<1 0>',@areasgeo1.pft,'</1>'" from=1511
+ 1069  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" "proc=|<200 0>|v20|</200>|" "proc='Gtabs/gcharurl,200'" "proc='d*a880|'v8801^*'^c'v8801^c'|<1 0>',@areasgeo1.pft,'</1>'" from=1511
+ 1070  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" "proc=|<200 0>|v20|</200>|" "proc='Gtabs/gcharurl,200'" "proc='d*a880|'v1[1]^*'^c'v1[1]^c)'|<1 0>',@areasgeo1.pft,'</1>'" from=1511
+ 1071  mx x
+ 1072  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" "proc=|<200 0>|v20|</200>|" "proc='Gtabs/gcharurl,200'" "proc='d*a880|'v1[1]'|<1 0>',@areasgeo1.pft,'</1>'" from=1511
+ 1073  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" "proc=|<200 0>|v20|</200>|" "proc='Gtabs/gcharurl,200'" "proc='d*a880|'v1[1]'|<1 0>',@areasgeo1.pft,'</1>'" from=1511
+ 1074  mx x "join=../tabs/tabregiaoBR,11:1,12:2=(v4/)" "proc=(if p(v1) then 'a20|^p'v8'^0'v5,'^r'v12'^1'v11,'^u'v6'^2'v4,'^m'v3'^3'v7'|' fi)" "proc='s20'" "proc=|<200 0>|v20|</200>|" "proc='Gtabs/gcharurl,200'" "proc='d*a880|'v1[1]'|<1 0>',@areasgeo1.pft,'</1>'" create=areasgeoBR -all now
+ 1075  mx areasgeoBR
+ 1076  mx areasgeoBR "fst=1 0 if v88[2]>'' then v880^c,v880^*/,v880^*/,v880^c fi" fullinv=areasgeoBR
+ 1077  ll areasgeoBR.*
+ 1078  mkiy0 areasgeoBR
+ 1079  rm areasgeoBR.iy0
+ 1080  mx areasgeoBR "fst=1 0 v880^c,v880^*/,v880^*/,v880^c" fullinv=areasgeoBR
+ 1081  mkiy0 areasgeoBR
+ 1082  rm areasgeoBR.cnt areasgeoBR.ly? areasgeoBR.n0? areasgeoBR.iyp
+ 1083  ll areasgeo.*
+ 1084  ll areasgeoBR.*
+ 1085  scp areasgeoBR.* trigramas:/bases/similar/SciELOgeo
+ 1086  history > hareasgeo.his

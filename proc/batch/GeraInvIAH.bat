@@ -6,17 +6,11 @@ rem Parametro 2: base que contem a lista de bases para inverter
 call batch/VerifPresencaParametro.bat $0 @$1 path producao SciELO
 call batch/VerifPresencaParametro.bat $0 @$2 base_com_lista_de_bases_para_inverter_para_o_IAH
 
-echo "== [INI] Chamada de $0 as: `date` ==">> /bases/scl.000/tinvIAH.txt
-
 call batch/InformaLog.bat $0 x Gera invertidos do IAH
 call batch/CriaDiretorio.bat ../bases-work/iah
 call batch/CriaDiretorio.bat ../bases-work/iah/library
 call batch/GeraInvertido.bat ../bases-work/artigo/artigo fst/search.fst ../bases-work/iah/library/search
 call batch/GeraInvertido.bat ../bases-work/artigo/artigo fst/searchp.fst ../bases-work/iah/library/searchp
-
-rem #
-rem # Usa as bases de cada revistas em bases-work para fazer seus invertidos especificos
-rem #
 
 echo rem GeraInvIAH >temp/GeraInvIAH.bat
 rem 1
@@ -30,6 +24,3 @@ $CISIS_DIR/mx $2 lw=9000 "pft='call batch/GeraInvertido.bat ../bases-work/',v1,'
 batch/ifErrorLevel.bat $? batch/AchouErro.bat $0 mx $2 - criacao batch temp/GeraInvIAH.bat passo 3
 chmod 700 temp/GeraInvIAH.bat
 call temp/GeraInvIAH.bat
-
-echo "== [FIM] Chamada de $0 as: `date` ==">> /bases/scl.000/tinvIAH.txt
-

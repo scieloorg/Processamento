@@ -1,0 +1,13 @@
+
+  /* get input
+  */
+  proc('<1 0>'replace(s(v12.500),',','')'</1>')
+  
+  /* apply "ansi no accent" because of serverafi */
+  proc('Ggansna,1')
+
+  /* extract 6words into repeatable field
+  */
+  proc('Gsplit=1=6words')
+  proc('Gsplit=1')
+
